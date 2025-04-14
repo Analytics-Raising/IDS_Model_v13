@@ -1,0 +1,1648 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20243.25.0114.1153                               -->
+<workbook original-version='18.1' source-build='2024.3.3 (20243.25.0114.1153)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='IDS_22_21_20_v3' inline='true' name='federated.0ujbhit1l1mpdq0zq2d1s1oyki57' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='IDS_22_21_20_v3' name='textscan.0izxeiv09jetsc19rq4x71j83ryg'>
+            <connection class='textscan' directory='C:/Reaemanz/Raising the village/IDS/Model_changes/IDS_Model_v13/datasets' filename='IDS_22_21_20_v3.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0izxeiv09jetsc19rq4x71j83ryg' name='IDS_22_21_20_v3.csv' table='[IDS_22_21_20_v3#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_UG' separator=','>
+            <column datatype='string' name='pre_village' ordinal='0' />
+            <column datatype='real' name='hhs' ordinal='1' />
+            <column datatype='real' name='hot_pepper_tins_organic_pesticides' ordinal='2' />
+            <column datatype='real' name='derris_tin_organic_pesticides' ordinal='3' />
+            <column datatype='real' name='neem_kg_organic_pesticides' ordinal='4' />
+            <column datatype='real' name='onions_bags_organic_pesticides' ordinal='5' />
+            <column datatype='real' name='tephrosia_kgs_organic_pesticides' ordinal='6' />
+            <column datatype='real' name='garlic_kgs_organic_pesticides' ordinal='7' />
+            <column datatype='real' name='ginger_kgs_organic_pesticides' ordinal='8' />
+            <column datatype='real' name='plastic_tanks_120_ltrs_liquid_manure' ordinal='9' />
+            <column datatype='real' name='sacks_liquid_manure' ordinal='10' />
+            <column datatype='real' name='sisal_rope_liquid_manure' ordinal='11' />
+            <column datatype='real' name='filter_liquid_manure' ordinal='12' />
+            <column datatype='real' name='mortar_&amp;_pestle_liquid_manure' ordinal='13' />
+            <column datatype='real' name='hoes_tools' ordinal='14' />
+            <column datatype='real' name='spades_tools' ordinal='15' />
+            <column datatype='real' name='pick_axes_tools' ordinal='16' />
+            <column datatype='real' name='forked_spades_tools' ordinal='17' />
+            <column datatype='real' name='forked_hoes_tools' ordinal='18' />
+            <column datatype='real' name='pangas_tools' ordinal='19' />
+            <column datatype='integer' name='secateurs_tools' ordinal='20' />
+            <column datatype='integer' name='gloves_tools' ordinal='21' />
+            <column datatype='real' name='wheelbarrows_tools' ordinal='22' />
+            <column datatype='real' name='trowels_tools' ordinal='23' />
+            <column datatype='real' name='watering_cans_tools' ordinal='24' />
+            <column datatype='real' name='jerrican_tools' ordinal='25' />
+            <column datatype='real' name='spray_pumps_tools' ordinal='26' />
+            <column datatype='real' name='turplins_tools' ordinal='27' />
+            <column datatype='real' name='Beans_seeds' ordinal='28' />
+            <column datatype='real' name='Maize_seeds' ordinal='29' />
+            <column datatype='real' name='Soyabean_seeds' ordinal='30' />
+            <column datatype='real' name='Gnuts_seeds' ordinal='31' />
+            <column datatype='integer' name='Onions(Basin)_seeds' ordinal='32' />
+            <column datatype='integer' name='Rice_seeds' ordinal='33' />
+            <column datatype='integer' name='Field Peas_seeds' ordinal='34' />
+            <column datatype='real' name='Sweet potatoes(Bags)' ordinal='35' />
+            <column datatype='integer' name='Millet_seeds' ordinal='36' />
+            <column datatype='real' name='Irish Potatoes_seeds' ordinal='37' />
+            <column datatype='string' name='Cassava (bags)' ordinal='38' />
+            <column datatype='string' name='Mugavu tree seedlings' ordinal='39' />
+            <column datatype='string' name='Onions (Kg)_seeds' ordinal='40' />
+            <column datatype='string' name='Millet.1_seeds' ordinal='41' />
+            <column datatype='real' name='GPS-Altitude' ordinal='42' />
+            <column datatype='real' name='hhh_age' ordinal='43' />
+            <column datatype='real' name='Land_size_agriculture' ordinal='44' />
+            <column datatype='real' name='Time_to_collect_Water_for_Household_use_Minutes' ordinal='45' />
+            <column datatype='real' name='Beans_total_yield' ordinal='46' />
+            <column datatype='real' name='Irish_potatoes_total_yield' ordinal='47' />
+            <column datatype='real' name='Cassava_total_yield' ordinal='48' />
+            <column datatype='real' name='Sorghum_total_yield' ordinal='49' />
+            <column datatype='real' name='Maize_total_yield' ordinal='50' />
+            <column datatype='real' name='Millet_total_yield' ordinal='51' />
+            <column datatype='real' name='Onions_total_yield' ordinal='52' />
+            <column datatype='real' name='Sweet_potatoes_total_yield' ordinal='53' />
+            <column datatype='real' name='Ground_Nuts_total_yield' ordinal='54' />
+            <column datatype='real' name='Food_banana_total_yield' ordinal='55' />
+            <column datatype='real' name='Coffee_total_yield' ordinal='56' />
+            <column datatype='integer' name='cohort' ordinal='57' />
+            <column datatype='real' name='Agriculture Value (USD)' ordinal='58' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;USh&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_UG&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pre_village</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[pre_village]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>pre_village</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>hhs</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[hhs]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>hhs</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>hot_pepper_tins_organic_pesticides</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[hot_pepper_tins_organic_pesticides]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>hot_pepper_tins_organic_pesticides</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>derris_tin_organic_pesticides</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[derris_tin_organic_pesticides]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>derris_tin_organic_pesticides</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>neem_kg_organic_pesticides</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[neem_kg_organic_pesticides]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>neem_kg_organic_pesticides</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>onions_bags_organic_pesticides</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[onions_bags_organic_pesticides]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>onions_bags_organic_pesticides</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>tephrosia_kgs_organic_pesticides</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[tephrosia_kgs_organic_pesticides]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>tephrosia_kgs_organic_pesticides</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>garlic_kgs_organic_pesticides</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[garlic_kgs_organic_pesticides]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>garlic_kgs_organic_pesticides</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ginger_kgs_organic_pesticides</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[ginger_kgs_organic_pesticides]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>ginger_kgs_organic_pesticides</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>plastic_tanks_120_ltrs_liquid_manure</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[plastic_tanks_120_ltrs_liquid_manure]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>plastic_tanks_120_ltrs_liquid_manure</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sacks_liquid_manure</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[sacks_liquid_manure]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>sacks_liquid_manure</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sisal_rope_liquid_manure</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[sisal_rope_liquid_manure]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>sisal_rope_liquid_manure</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>filter_liquid_manure</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[filter_liquid_manure]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>filter_liquid_manure</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>mortar_&amp;_pestle_liquid_manure</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[mortar_&amp;_pestle_liquid_manure]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>mortar_&amp;_pestle_liquid_manure</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>hoes_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[hoes_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>hoes_tools</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>spades_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[spades_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>spades_tools</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pick_axes_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pick_axes_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>pick_axes_tools</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>forked_spades_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[forked_spades_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>forked_spades_tools</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>forked_hoes_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[forked_hoes_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>forked_hoes_tools</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pangas_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pangas_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>pangas_tools</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>secateurs_tools</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[secateurs_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>secateurs_tools</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gloves_tools</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[gloves_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>gloves_tools</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>wheelbarrows_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[wheelbarrows_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>wheelbarrows_tools</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>trowels_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[trowels_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>trowels_tools</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>watering_cans_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[watering_cans_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>watering_cans_tools</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>jerrican_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[jerrican_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>jerrican_tools</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>spray_pumps_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[spray_pumps_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>spray_pumps_tools</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>turplins_tools</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[turplins_tools]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>turplins_tools</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Beans_seeds</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Beans_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Beans_seeds</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Maize_seeds</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Maize_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Maize_seeds</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Soyabean_seeds</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Soyabean_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Soyabean_seeds</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Gnuts_seeds</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Gnuts_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Gnuts_seeds</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Onions(Basin)_seeds</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Onions(Basin)_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Onions(Basin)_seeds</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rice_seeds</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Rice_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Rice_seeds</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Field Peas_seeds</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Field Peas_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Field Peas_seeds</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sweet potatoes(Bags)</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Sweet potatoes(Bags)]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Sweet potatoes(Bags)</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Millet_seeds</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Millet_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Millet_seeds</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Irish Potatoes_seeds</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Irish Potatoes_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Irish Potatoes_seeds</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Cassava (bags)</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Cassava (bags)]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Cassava (bags)</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mugavu tree seedlings</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Mugavu tree seedlings]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Mugavu tree seedlings</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Onions (Kg)_seeds</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Onions (Kg)_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Onions (Kg)_seeds</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Millet.1_seeds</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Millet.1_seeds]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Millet.1_seeds</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <approx-count>1</approx-count>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>GPS-Altitude</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[GPS-Altitude]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>GPS-Altitude</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>hhh_age</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[hhh_age]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>hhh_age</remote-alias>
+            <ordinal>43</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Land_size_agriculture</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Land_size_agriculture]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Land_size_agriculture</remote-alias>
+            <ordinal>44</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Time_to_collect_Water_for_Household_use_Minutes</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Time_to_collect_Water_for_Household_use_Minutes]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Time_to_collect_Water_for_Household_use_Minutes</remote-alias>
+            <ordinal>45</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Beans_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Beans_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Beans_total_yield</remote-alias>
+            <ordinal>46</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Irish_potatoes_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Irish_potatoes_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Irish_potatoes_total_yield</remote-alias>
+            <ordinal>47</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Cassava_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Cassava_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Cassava_total_yield</remote-alias>
+            <ordinal>48</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sorghum_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Sorghum_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Sorghum_total_yield</remote-alias>
+            <ordinal>49</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Maize_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Maize_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Maize_total_yield</remote-alias>
+            <ordinal>50</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Millet_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Millet_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Millet_total_yield</remote-alias>
+            <ordinal>51</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Onions_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Onions_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Onions_total_yield</remote-alias>
+            <ordinal>52</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sweet_potatoes_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Sweet_potatoes_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Sweet_potatoes_total_yield</remote-alias>
+            <ordinal>53</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ground_Nuts_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Ground_Nuts_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Ground_Nuts_total_yield</remote-alias>
+            <ordinal>54</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Food_banana_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Food_banana_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Food_banana_total_yield</remote-alias>
+            <ordinal>55</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Coffee_total_yield</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Coffee_total_yield]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Coffee_total_yield</remote-alias>
+            <ordinal>56</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>cohort</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[cohort]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>cohort</remote-alias>
+            <ordinal>57</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Agriculture Value (USD)</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Agriculture Value (USD)]</local-name>
+            <parent-name>[IDS_22_21_20_v3.csv]</parent-name>
+            <remote-alias>Agriculture Value (USD)</remote-alias>
+            <ordinal>58</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Beans seeds' datatype='real' name='[Beans_seeds]' role='measure' type='quantitative' />
+      <column caption='Beans total yield' datatype='real' name='[Beans_total_yield]' role='measure' type='quantitative' />
+      <column caption='Cassava total yield' datatype='real' name='[Cassava_total_yield]' role='measure' type='quantitative' />
+      <column caption='Coffee total yield' datatype='real' name='[Coffee_total_yield]' role='measure' type='quantitative' />
+      <column caption='Field Peas seeds' datatype='integer' name='[Field Peas_seeds]' role='measure' type='quantitative' />
+      <column caption='Food banana total yield' datatype='real' name='[Food_banana_total_yield]' role='measure' type='quantitative' />
+      <column caption='Gnuts seeds' datatype='real' name='[Gnuts_seeds]' role='measure' type='quantitative' />
+      <column caption='Ground Nuts total yield' datatype='real' name='[Ground_Nuts_total_yield]' role='measure' type='quantitative' />
+      <column caption='Irish Potatoes seeds' datatype='real' name='[Irish Potatoes_seeds]' role='measure' type='quantitative' />
+      <column caption='Irish potatoes total yield' datatype='real' name='[Irish_potatoes_total_yield]' role='measure' type='quantitative' />
+      <column caption='Land size agriculture' datatype='real' name='[Land_size_agriculture]' role='measure' type='quantitative' />
+      <column caption='Maize seeds' datatype='real' name='[Maize_seeds]' role='measure' type='quantitative' />
+      <column caption='Maize total yield' datatype='real' name='[Maize_total_yield]' role='measure' type='quantitative' />
+      <column caption='Millet.1 seeds' datatype='string' name='[Millet.1_seeds]' role='dimension' type='nominal' />
+      <column caption='Millet seeds' datatype='integer' name='[Millet_seeds]' role='measure' type='quantitative' />
+      <column caption='Millet total yield' datatype='real' name='[Millet_total_yield]' role='measure' type='quantitative' />
+      <column caption='Onions (Kg) seeds' datatype='string' name='[Onions (Kg)_seeds]' role='dimension' type='nominal' />
+      <column caption='Onions(Basin) seeds' datatype='integer' name='[Onions(Basin)_seeds]' role='measure' type='quantitative' />
+      <column caption='Onions total yield' datatype='real' name='[Onions_total_yield]' role='measure' type='quantitative' />
+      <column caption='Rice seeds' datatype='integer' name='[Rice_seeds]' role='measure' type='quantitative' />
+      <column caption='Sorghum total yield' datatype='real' name='[Sorghum_total_yield]' role='measure' type='quantitative' />
+      <column caption='Soyabean seeds' datatype='real' name='[Soyabean_seeds]' role='measure' type='quantitative' />
+      <column caption='Sweet potatoes total yield' datatype='real' name='[Sweet_potatoes_total_yield]' role='measure' type='quantitative' />
+      <column caption='Time to collect Water for Household use Minutes' datatype='real' name='[Time_to_collect_Water_for_Household_use_Minutes]' role='measure' type='quantitative' />
+      <column caption='IDS_22_21_20_v3.csv' datatype='table' name='[__tableau_internal_object_id__].[IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B]' role='measure' type='quantitative' />
+      <column caption='Cohort' datatype='integer' name='[cohort]' role='measure' type='quantitative' />
+      <column caption='Derris Tin Organic Pesticides' datatype='real' name='[derris_tin_organic_pesticides]' role='measure' type='quantitative' />
+      <column caption='Filter Liquid Manure' datatype='real' name='[filter_liquid_manure]' role='measure' type='quantitative' />
+      <column caption='Forked Hoes Tools' datatype='real' name='[forked_hoes_tools]' role='measure' type='quantitative' />
+      <column caption='Forked Spades Tools' datatype='real' name='[forked_spades_tools]' role='measure' type='quantitative' />
+      <column caption='Garlic Kgs Organic Pesticides' datatype='real' name='[garlic_kgs_organic_pesticides]' role='measure' type='quantitative' />
+      <column caption='Ginger Kgs Organic Pesticides' datatype='real' name='[ginger_kgs_organic_pesticides]' role='measure' type='quantitative' />
+      <column caption='Gloves Tools' datatype='integer' name='[gloves_tools]' role='measure' type='quantitative' />
+      <column caption='Hhh Age' datatype='real' name='[hhh_age]' role='measure' type='quantitative' />
+      <column caption='Hhs' datatype='real' name='[hhs]' role='measure' type='quantitative' />
+      <column caption='Hoes Tools' datatype='real' name='[hoes_tools]' role='measure' type='quantitative' />
+      <column caption='Hot Pepper Tins Organic Pesticides' datatype='real' name='[hot_pepper_tins_organic_pesticides]' role='measure' type='quantitative' />
+      <column caption='Jerrican Tools' datatype='real' name='[jerrican_tools]' role='measure' type='quantitative' />
+      <column caption='Mortar &amp; Pestle Liquid Manure' datatype='real' name='[mortar_&amp;_pestle_liquid_manure]' role='measure' type='quantitative' />
+      <column caption='Neem Kg Organic Pesticides' datatype='real' name='[neem_kg_organic_pesticides]' role='measure' type='quantitative' />
+      <column caption='Onions Bags Organic Pesticides' datatype='real' name='[onions_bags_organic_pesticides]' role='measure' type='quantitative' />
+      <column caption='Pangas Tools' datatype='real' name='[pangas_tools]' role='measure' type='quantitative' />
+      <column caption='Pick Axes Tools' datatype='real' name='[pick_axes_tools]' role='measure' type='quantitative' />
+      <column caption='Plastic Tanks 120 Ltrs Liquid Manure' datatype='real' name='[plastic_tanks_120_ltrs_liquid_manure]' role='measure' type='quantitative' />
+      <column caption='Pre Village' datatype='string' name='[pre_village]' role='dimension' type='nominal' />
+      <column caption='Sacks Liquid Manure' datatype='real' name='[sacks_liquid_manure]' role='measure' type='quantitative' />
+      <column caption='Secateurs Tools' datatype='integer' name='[secateurs_tools]' role='measure' type='quantitative' />
+      <column caption='Sisal Rope Liquid Manure' datatype='real' name='[sisal_rope_liquid_manure]' role='measure' type='quantitative' />
+      <column caption='Spades Tools' datatype='real' name='[spades_tools]' role='measure' type='quantitative' />
+      <column caption='Spray Pumps Tools' datatype='real' name='[spray_pumps_tools]' role='measure' type='quantitative' />
+      <column caption='Tephrosia Kgs Organic Pesticides' datatype='real' name='[tephrosia_kgs_organic_pesticides]' role='measure' type='quantitative' />
+      <column caption='Trowels Tools' datatype='real' name='[trowels_tools]' role='measure' type='quantitative' />
+      <column caption='Turplins Tools' datatype='real' name='[turplins_tools]' role='measure' type='quantitative' />
+      <column caption='Watering Cans Tools' datatype='real' name='[watering_cans_tools]' role='measure' type='quantitative' />
+      <column caption='Wheelbarrows Tools' datatype='real' name='[wheelbarrows_tools]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Uganda&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <object-graph>
+        <objects>
+          <object caption='IDS_22_21_20_v3.csv' id='IDS_22_21_20_v3.csv_2E78992B4E2A4E588CCEDE6D115F130B'>
+            <properties context=''>
+              <relation connection='textscan.0izxeiv09jetsc19rq4x71j83ryg' name='IDS_22_21_20_v3.csv' table='[IDS_22_21_20_v3#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_UG' separator=','>
+                  <column datatype='string' name='pre_village' ordinal='0' />
+                  <column datatype='real' name='hhs' ordinal='1' />
+                  <column datatype='real' name='hot_pepper_tins_organic_pesticides' ordinal='2' />
+                  <column datatype='real' name='derris_tin_organic_pesticides' ordinal='3' />
+                  <column datatype='real' name='neem_kg_organic_pesticides' ordinal='4' />
+                  <column datatype='real' name='onions_bags_organic_pesticides' ordinal='5' />
+                  <column datatype='real' name='tephrosia_kgs_organic_pesticides' ordinal='6' />
+                  <column datatype='real' name='garlic_kgs_organic_pesticides' ordinal='7' />
+                  <column datatype='real' name='ginger_kgs_organic_pesticides' ordinal='8' />
+                  <column datatype='real' name='plastic_tanks_120_ltrs_liquid_manure' ordinal='9' />
+                  <column datatype='real' name='sacks_liquid_manure' ordinal='10' />
+                  <column datatype='real' name='sisal_rope_liquid_manure' ordinal='11' />
+                  <column datatype='real' name='filter_liquid_manure' ordinal='12' />
+                  <column datatype='real' name='mortar_&amp;_pestle_liquid_manure' ordinal='13' />
+                  <column datatype='real' name='hoes_tools' ordinal='14' />
+                  <column datatype='real' name='spades_tools' ordinal='15' />
+                  <column datatype='real' name='pick_axes_tools' ordinal='16' />
+                  <column datatype='real' name='forked_spades_tools' ordinal='17' />
+                  <column datatype='real' name='forked_hoes_tools' ordinal='18' />
+                  <column datatype='real' name='pangas_tools' ordinal='19' />
+                  <column datatype='integer' name='secateurs_tools' ordinal='20' />
+                  <column datatype='integer' name='gloves_tools' ordinal='21' />
+                  <column datatype='real' name='wheelbarrows_tools' ordinal='22' />
+                  <column datatype='real' name='trowels_tools' ordinal='23' />
+                  <column datatype='real' name='watering_cans_tools' ordinal='24' />
+                  <column datatype='real' name='jerrican_tools' ordinal='25' />
+                  <column datatype='real' name='spray_pumps_tools' ordinal='26' />
+                  <column datatype='real' name='turplins_tools' ordinal='27' />
+                  <column datatype='real' name='Beans_seeds' ordinal='28' />
+                  <column datatype='real' name='Maize_seeds' ordinal='29' />
+                  <column datatype='real' name='Soyabean_seeds' ordinal='30' />
+                  <column datatype='real' name='Gnuts_seeds' ordinal='31' />
+                  <column datatype='integer' name='Onions(Basin)_seeds' ordinal='32' />
+                  <column datatype='integer' name='Rice_seeds' ordinal='33' />
+                  <column datatype='integer' name='Field Peas_seeds' ordinal='34' />
+                  <column datatype='real' name='Sweet potatoes(Bags)' ordinal='35' />
+                  <column datatype='integer' name='Millet_seeds' ordinal='36' />
+                  <column datatype='real' name='Irish Potatoes_seeds' ordinal='37' />
+                  <column datatype='string' name='Cassava (bags)' ordinal='38' />
+                  <column datatype='string' name='Mugavu tree seedlings' ordinal='39' />
+                  <column datatype='string' name='Onions (Kg)_seeds' ordinal='40' />
+                  <column datatype='string' name='Millet.1_seeds' ordinal='41' />
+                  <column datatype='real' name='GPS-Altitude' ordinal='42' />
+                  <column datatype='real' name='hhh_age' ordinal='43' />
+                  <column datatype='real' name='Land_size_agriculture' ordinal='44' />
+                  <column datatype='real' name='Time_to_collect_Water_for_Household_use_Minutes' ordinal='45' />
+                  <column datatype='real' name='Beans_total_yield' ordinal='46' />
+                  <column datatype='real' name='Irish_potatoes_total_yield' ordinal='47' />
+                  <column datatype='real' name='Cassava_total_yield' ordinal='48' />
+                  <column datatype='real' name='Sorghum_total_yield' ordinal='49' />
+                  <column datatype='real' name='Maize_total_yield' ordinal='50' />
+                  <column datatype='real' name='Millet_total_yield' ordinal='51' />
+                  <column datatype='real' name='Onions_total_yield' ordinal='52' />
+                  <column datatype='real' name='Sweet_potatoes_total_yield' ordinal='53' />
+                  <column datatype='real' name='Ground_Nuts_total_yield' ordinal='54' />
+                  <column datatype='real' name='Food_banana_total_yield' ordinal='55' />
+                  <column datatype='real' name='Coffee_total_yield' ordinal='56' />
+                  <column datatype='integer' name='cohort' ordinal='57' />
+                  <column datatype='real' name='Agriculture Value (USD)' ordinal='58' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='IDS_22_21_20_v3' name='federated.0ujbhit1l1mpdq0zq2d1s1oyki57' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0ujbhit1l1mpdq0zq2d1s1oyki57'>
+            <column caption='Hot Pepper Tins Organic Pesticides' datatype='real' name='[hot_pepper_tins_organic_pesticides]' role='measure' type='quantitative' />
+            <column-instance column='[pre_village]' derivation='None' name='[none:pre_village:nk]' pivot='key' type='nominal' />
+            <column caption='Pre Village' datatype='string' name='[pre_village]' role='dimension' type='nominal' />
+            <column-instance column='[hot_pepper_tins_organic_pesticides]' derivation='Sum' name='[sum:hot_pepper_tins_organic_pesticides:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0ujbhit1l1mpdq0zq2d1s1oyki57].[none:pre_village:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Nyamabare&quot;</bucket>
+              <bucket>&quot;Rujoka&quot;</bucket>
+              <bucket>&quot;Rutooma&quot;</bucket>
+              <bucket>&quot;Kagorogoro&quot;</bucket>
+              <bucket>&quot;Kabuzigye&quot;</bucket>
+              <bucket>&quot;Nyakabare&quot;</bucket>
+              <bucket>&quot;Mushunga&quot;</bucket>
+              <bucket>&quot;Kajubwe&quot;</bucket>
+              <bucket>&quot;Kashenyi&quot;</bucket>
+              <bucket>&quot;Karuhara&quot;</bucket>
+              <bucket>&quot;Nyakabungo&quot;</bucket>
+              <bucket>&quot;Bugandaro&quot;</bucket>
+              <bucket>&quot;Kagasha&quot;</bucket>
+              <bucket>&quot;Kikoni A&quot;</bucket>
+              <bucket>&quot;Kikoni B&quot;</bucket>
+              <bucket>&quot;Rwemirama&quot;</bucket>
+              <bucket>&quot;Kajumera&quot;</bucket>
+              <bucket>&quot;Rukore_Kagunga&quot;</bucket>
+              <bucket>&quot;Bugomora&quot;</bucket>
+              <bucket>&quot;Rwangura&quot;</bucket>
+              <bucket>&quot;Mukajagiro&quot;</bucket>
+              <bucket>&quot;Kyanika A&quot;</bucket>
+              <bucket>&quot;Nyarubira&quot;</bucket>
+              <bucket>&quot;Nyakashenyi&quot;</bucket>
+              <bucket>&quot;Mugurante&quot;</bucket>
+              <bucket>&quot;Nyakakizi&quot;</bucket>
+              <bucket>&quot;Buhasha B3&quot;</bucket>
+              <bucket>&quot;Rugandu&quot;</bucket>
+              <bucket>&quot;Kasoni&quot;</bucket>
+              <bucket>&quot;Kyanika B&quot;</bucket>
+              <bucket>&quot;Kijubwe&quot;</bucket>
+              <bucket>&quot;Bugandaro_Kagunga&quot;</bucket>
+              <bucket>&quot;Nyarushinya&quot;</bucket>
+              <bucket>&quot;Nyakatokye&quot;</bucket>
+              <bucket>&quot;Kagoma&quot;</bucket>
+              <bucket>&quot;Buhasha B2&quot;</bucket>
+              <bucket>&quot;Nyakashebeya&quot;</bucket>
+              <bucket>&quot;Kakimba&quot;</bucket>
+              <bucket>&quot;Bugara_Kagunga&quot;</bucket>
+              <bucket>&quot;Ruzonga&quot;</bucket>
+              <bucket>&quot;Nyaruziba&quot;</bucket>
+              <bucket>&quot;Kigarya&quot;</bucket>
+              <bucket>&quot;Bunagana&quot;</bucket>
+              <bucket>&quot;Karokarungi&quot;</bucket>
+              <bucket>&quot;Kamira&quot;</bucket>
+              <bucket>&quot;Rwendahi&quot;</bucket>
+              <bucket>&quot;Katembe&quot;</bucket>
+              <bucket>&quot;Nyarwanya B&quot;</bucket>
+              <bucket>&quot;Mutaaba&quot;</bucket>
+              <bucket>&quot;Kigimbi B&quot;</bucket>
+              <bucket>&quot;Kabijaga&quot;</bucket>
+              <bucket>&quot;Nyakanengo_Kakari&quot;</bucket>
+              <bucket>&quot;Ndyabihanga&quot;</bucket>
+              <bucket>&quot;Kafunjo Cell&quot;</bucket>
+              <bucket>&quot;Bwambali&quot;</bucket>
+              <bucket>&quot;Rutoobo&quot;</bucket>
+              <bucket>&quot;Quarters_A&quot;</bucket>
+              <bucket>&quot;Mugina&quot;</bucket>
+              <bucket>&quot;Kibaya&quot;</bucket>
+              <bucket>&quot;Nakawa&quot;</bucket>
+              <bucket>&quot;Bugarama&quot;</bucket>
+              <bucket>&quot;Ahabutaare&quot;</bucket>
+              <bucket>&quot;Kagugo_Kacerere&quot;</bucket>
+              <bucket>&quot;Ntengyere&quot;</bucket>
+              <bucket>&quot;Katungu&quot;</bucket>
+              <bucket>&quot;Mutojo&quot;</bucket>
+              <bucket>&quot;Kirwa_Kagunga&quot;</bucket>
+              <bucket>&quot;Nyarwemarira&quot;</bucket>
+              <bucket>&quot;Nyarwanya A&quot;</bucket>
+              <bucket>&quot;Kahama&quot;</bucket>
+              <bucket>&quot;Bujengwe&quot;</bucket>
+              <bucket>&quot;Rucururu&quot;</bucket>
+              <bucket>&quot;Mumpalo&quot;</bucket>
+              <bucket>&quot;Bushaara&quot;</bucket>
+              <bucket>&quot;Buhasha B1&quot;</bucket>
+              <bucket>&quot;Rwakutaka&quot;</bucket>
+              <bucket>&quot;Nyabyogo&quot;</bucket>
+              <bucket>&quot;Bujerengye&quot;</bucket>
+              <bucket>&quot;Katwa&quot;</bucket>
+              <bucket>&quot;Kashambya&quot;</bucket>
+              <bucket>&quot;Ruhonwa&quot;</bucket>
+              <bucket>&quot;Kibishamwika&quot;</bucket>
+              <bucket>&quot;Rurama&quot;</bucket>
+              <bucket>&quot;Buseta&quot;</bucket>
+              <bucket>&quot;Rugazi&quot;</bucket>
+              <bucket>&quot;Kihumuro&quot;</bucket>
+              <bucket>&quot;Ruhungu&quot;</bucket>
+              <bucket>&quot;Nyameka&quot;</bucket>
+              <bucket>&quot;Kitebwe&quot;</bucket>
+              <bucket>&quot;Kabaranga&quot;</bucket>
+              <bucket>&quot;Bwehare&quot;</bucket>
+              <bucket>&quot;Bubalala&quot;</bucket>
+              <bucket>&quot;Omurutezo&quot;</bucket>
+              <bucket>&quot;Kigoyi&quot;</bucket>
+              <bucket>&quot;Nyamizi&quot;</bucket>
+              <bucket>&quot;Kabirizi&quot;</bucket>
+              <bucket>&quot;Kikondeka&quot;</bucket>
+              <bucket>&quot;Kanganga&quot;</bucket>
+              <bucket>&quot;Nyakagongo&quot;</bucket>
+              <bucket>&quot;Nangara&quot;</bucket>
+              <bucket>&quot;Nyakagyera&quot;</bucket>
+              <bucket>&quot;Rwamujura&quot;</bucket>
+              <bucket>&quot;Nyaruharo&quot;</bucket>
+              <bucket>&quot;Kazuru&quot;</bucket>
+              <bucket>&quot;Karukare&quot;</bucket>
+              <bucket>&quot;Kaniampiiha&quot;</bucket>
+              <bucket>&quot;Buhasha A2&quot;</bucket>
+              <bucket>&quot;Ruheza&quot;</bucket>
+              <bucket>&quot;Namukoko&quot;</bucket>
+              <bucket>&quot;Mushongati_Nangara&quot;</bucket>
+              <bucket>&quot;Kyabukama&quot;</bucket>
+              <bucket>&quot;Ibarya&quot;</bucket>
+              <bucket>&quot;Rumbugu_B&quot;</bucket>
+              <bucket>&quot;Omurwambu&quot;</bucket>
+              <bucket>&quot;Nyarubare&quot;</bucket>
+              <bucket>&quot;Kitunga&quot;</bucket>
+              <bucket>&quot;Buniga&quot;</bucket>
+              <bucket>&quot;Rwengwe&quot;</bucket>
+              <bucket>&quot;Rutonde&quot;</bucket>
+              <bucket>&quot;Rushoroza&quot;</bucket>
+              <bucket>&quot;Nyabubaare&quot;</bucket>
+              <bucket>&quot;Kashaki&quot;</bucket>
+              <bucket>&quot;Kafunjo&quot;</bucket>
+              <bucket>&quot;Nansohera_B&quot;</bucket>
+              <bucket>&quot;Katagata&quot;</bucket>
+              <bucket>&quot;Kanyankwanzi&quot;</bucket>
+              <bucket>&quot;Kihorongwa&quot;</bucket>
+              <bucket>&quot;Omukatooma&quot;</bucket>
+              <bucket>&quot;Rushebeya&quot;</bucket>
+              <bucket>&quot;Mugongo&quot;</bucket>
+              <bucket>&quot;Ruhunga&quot;</bucket>
+              <bucket>&quot;Katangyemeko&quot;</bucket>
+              <bucket>&quot;Karembo&quot;</bucket>
+              <bucket>&quot;Rubaya&quot;</bucket>
+              <bucket>&quot;Nyakagezi&quot;</bucket>
+              <bucket>&quot;Kiranga_A&quot;</bucket>
+              <bucket>&quot;Nyarurambi&quot;</bucket>
+              <bucket>&quot;Nyabubare&quot;</bucket>
+              <bucket>&quot;Nabweyo&quot;</bucket>
+              <bucket>&quot;Kirima&quot;</bucket>
+              <bucket>&quot;Kirama&quot;</bucket>
+              <bucket>&quot;Kinoni&quot;</bucket>
+              <bucket>&quot;Butaahwa&quot;</bucket>
+              <bucket>&quot;Bushura&quot;</bucket>
+              <bucket>&quot;Nyabishaki&quot;</bucket>
+              <bucket>&quot;Nakisenyi&quot;</bucket>
+              <bucket>&quot;Bwisanga_Isalo&quot;</bucket>
+              <bucket>&quot;Buhumuriro&quot;</bucket>
+              <bucket>&quot;Rugando&quot;</bucket>
+              <bucket>&quot;Kyemengo&quot;</bucket>
+              <bucket>&quot;Kamabare&quot;</bucket>
+              <bucket>&quot;Kajumo&quot;</bucket>
+              <bucket>&quot;Bugarura&quot;</bucket>
+              <bucket>&quot;Nyaruzinga&quot;</bucket>
+              <bucket>&quot;Bisiika_B&quot;</bucket>
+              <bucket>&quot;Rwongora&quot;</bucket>
+              <bucket>&quot;Rwere&quot;</bucket>
+              <bucket>&quot;Rurindo&quot;</bucket>
+              <bucket>&quot;Nyakahanga&quot;</bucket>
+              <bucket>&quot;Nyabisoni&quot;</bucket>
+              <bucket>&quot;Kigarama&quot;</bucket>
+              <bucket>&quot;Kanyabutaye&quot;</bucket>
+              <bucket>&quot;Kacence&quot;</bucket>
+              <bucket>&quot;Kabingo&quot;</bucket>
+              <bucket>&quot;Burera&quot;</bucket>
+              <bucket>&quot;Bunyinya&quot;</bucket>
+              <bucket>&quot;Rutondo&quot;</bucket>
+              <bucket>&quot;Quarters_B&quot;</bucket>
+              <bucket>&quot;Nyakibuga&quot;</bucket>
+              <bucket>&quot;Ndaragi&quot;</bucket>
+              <bucket>&quot;Rwakaroro&quot;</bucket>
+              <bucket>&quot;Nyandongo_3&quot;</bucket>
+              <bucket>&quot;Muzinga&quot;</bucket>
+              <bucket>&quot;Nyakatoma&quot;</bucket>
+              <bucket>&quot;Kenshumba&quot;</bucket>
+              <bucket>&quot;Musirwe&quot;</bucket>
+              <bucket>&quot;Buranda&quot;</bucket>
+              <bucket>&quot;Bisiika_A&quot;</bucket>
+              <bucket>&quot;Rwenkyende&quot;</bucket>
+              <bucket>&quot;Nyamirama&quot;</bucket>
+              <bucket>&quot;Kyandago&quot;</bucket>
+              <bucket>&quot;Kibingo&quot;</bucket>
+              <bucket>&quot;Rutare&quot;</bucket>
+              <bucket>&quot;Orujeebe&quot;</bucket>
+              <bucket>&quot;Nyakabale&quot;</bucket>
+              <bucket>&quot;Munyonyi_4&quot;</bucket>
+              <bucket>&quot;Kakyeza&quot;</bucket>
+              <bucket>&quot;Kakureijo&quot;</bucket>
+              <bucket>&quot;Omwibare&quot;</bucket>
+              <bucket>&quot;Kiranga_B&quot;</bucket>
+              <bucket>&quot;Habuhinga&quot;</bucket>
+              <bucket>&quot;Nyakabingo&quot;</bucket>
+              <bucket>&quot;Rugasha&quot;</bucket>
+              <bucket>&quot;Nyaruhanga_Kakari&quot;</bucket>
+              <bucket>&quot;Nyamisheshe&quot;</bucket>
+              <bucket>&quot;Bushambara&quot;</bucket>
+              <bucket>&quot;Kanjenje&quot;</bucket>
+              <bucket>&quot;Kakari_I_B&quot;</bucket>
+              <bucket>&quot;Butoboore&quot;</bucket>
+              <bucket>&quot;Murugarama&quot;</bucket>
+              <bucket>&quot;Kikura&quot;</bucket>
+              <bucket>&quot;Kirwa_Kacerere&quot;</bucket>
+              <bucket>&quot;Rushaki&quot;</bucket>
+              <bucket>&quot;Kyeshabo&quot;</bucket>
+              <bucket>&quot;Buhasha A1&quot;</bucket>
+              <bucket>&quot;Nyakarambi&quot;</bucket>
+              <bucket>&quot;Kyenjojo_I&quot;</bucket>
+              <bucket>&quot;Kigimbi A&quot;</bucket>
+              <bucket>&quot;Mushongati&quot;</bucket>
+              <bucket>&quot;Kakari_I_A&quot;</bucket>
+              <bucket>&quot;Nyamirama_Rugarama&quot;</bucket>
+              <bucket>&quot;Kitwego&quot;</bucket>
+              <bucket>&quot;Rwamureera&quot;</bucket>
+              <bucket>&quot;Katehe&quot;</bucket>
+              <bucket>&quot;Kyamba&quot;</bucket>
+              <bucket>&quot;Itara&quot;</bucket>
+              <bucket>&quot;Bukono&quot;</bucket>
+              <bucket>&quot;Mushebeya&quot;</bucket>
+              <bucket>&quot;Kitongo&quot;</bucket>
+              <bucket>&quot;Budongo&quot;</bucket>
+              <bucket>&quot;Busege&quot;</bucket>
+              <bucket>&quot;Kibeho&quot;</bucket>
+              <bucket>&quot;Kazahi&quot;</bucket>
+              <bucket>&quot;Bunabiro&quot;</bucket>
+              <bucket>&quot;Nyakarambi_I&quot;</bucket>
+              <bucket>&quot;Kibare&quot;</bucket>
+              <bucket>&quot;Nyandongo_1A&quot;</bucket>
+              <bucket>&quot;Mushunga_Bwanda&quot;</bucket>
+              <bucket>&quot;Kataburaza&quot;</bucket>
+              <bucket>&quot;Kairabwa&quot;</bucket>
+              <bucket>&quot;Kagaana&quot;</bucket>
+              <bucket>&quot;Ireehe&quot;</bucket>
+              <bucket>&quot;Rusoro&quot;</bucket>
+              <bucket>&quot;Kashambya_Kacerere&quot;</bucket>
+              <bucket>&quot;Nyarushija&quot;</bucket>
+              <bucket>&quot;Mutanoga&quot;</bucket>
+              <bucket>&quot;Kamuhozi&quot;</bucket>
+              <bucket>&quot;Busiginyi&quot;</bucket>
+              <bucket>&quot;Kengyeya&quot;</bucket>
+              <bucket>&quot;Busiro_Tabina&quot;</bucket>
+              <bucket>&quot;Katungu_Kacerere&quot;</bucket>
+              <bucket>&quot;Rwoburunga&quot;</bucket>
+              <bucket>&quot;Kitooma&quot;</bucket>
+              <bucket>&quot;Kirimbi&quot;</bucket>
+              <bucket>&quot;Karukonjo&quot;</bucket>
+              <bucket>&quot;Rusheeshe&quot;</bucket>
+              <bucket>&quot;Kacerere_Bufundi&quot;</bucket>
+              <bucket>&quot;Nyandongo_1B&quot;</bucket>
+              <bucket>&quot;Katabago_I&quot;</bucket>
+              <bucket>&quot;Iguliryo&quot;</bucket>
+              <bucket>&quot;Bugandaro_Kacerere&quot;</bucket>
+              <bucket>&quot;Kabyaza&quot;</bucket>
+              <bucket>&quot;Rwanama&quot;</bucket>
+              <bucket>&quot;Rumbugu_A&quot;</bucket>
+              <bucket>&quot;Nyandongo_2&quot;</bucket>
+              <bucket>&quot;Munyonyi_2B&quot;</bucket>
+              <bucket>&quot;Kyeijanga&quot;</bucket>
+              <bucket>&quot;Kanoni&quot;</bucket>
+              <bucket>&quot;Nkongi&quot;</bucket>
+              <bucket>&quot;Rwemicheka&quot;</bucket>
+              <bucket>&quot;Kaburara&quot;</bucket>
+              <bucket>&quot;Rugarama&quot;</bucket>
+              <bucket>&quot;Kashasha&quot;</bucket>
+              <bucket>&quot;Rwamiyumbu&quot;</bucket>
+              <bucket>&quot;Buseru&quot;</bucket>
+              <bucket>&quot;Nyamishamba&quot;</bucket>
+              <bucket>&quot;Mashoho&quot;</bucket>
+              <bucket>&quot;Kihungye&quot;</bucket>
+              <bucket>&quot;Bugonya&quot;</bucket>
+              <bucket>&quot;Nyanga&quot;</bucket>
+              <bucket>&quot;Rwabutera&quot;</bucket>
+              <bucket>&quot;Munyonyi_3&quot;</bucket>
+              <bucket>&quot;Kagyeyo&quot;</bucket>
+              <bucket>&quot;Nyabubare_I&quot;</bucket>
+              <bucket>&quot;Murubangye&quot;</bucket>
+              <bucket>&quot;Mikonebiiri_B&quot;</bucket>
+              <bucket>&quot;Bukerahi&quot;</bucket>
+              <bucket>&quot;Kagarama_Nyabubare&quot;</bucket>
+              <bucket>&quot;Rutooma_Kacerere&quot;</bucket>
+              <bucket>&quot;Kagando_Kyabakara&quot;</bucket>
+              <bucket>&quot;Kitabugika_Mugyera&quot;</bucket>
+              <bucket>&quot;Kihembe_Central&quot;</bucket>
+              <bucket>&quot;Kisenyi&quot;</bucket>
+              <bucket>&quot;Kiriba_Kashasha&quot;</bucket>
+              <bucket>&quot;Muziku&quot;</bucket>
+              <bucket>&quot;Kanyankyende&quot;</bucket>
+              <bucket>&quot;Kakarisa&quot;</bucket>
+              <bucket>&quot;Mugombwa&quot;</bucket>
+              <bucket>&quot;Munyonyi_5&quot;</bucket>
+              <bucket>&quot;Maregamo&quot;</bucket>
+              <bucket>&quot;Kangyeyo&quot;</bucket>
+              <bucket>&quot;Munyonyi_2A&quot;</bucket>
+              <bucket>&quot;Kyozi&quot;</bucket>
+              <bucket>&quot;Muruhinga&quot;</bucket>
+              <bucket>&quot;Mikonebiiri_A&quot;</bucket>
+              <bucket>&quot;Kibara&quot;</bucket>
+              <bucket>&quot;Bushure&quot;</bucket>
+              <bucket>&quot;Burambo&quot;</bucket>
+              <bucket>&quot;Kagunga_Kagunga&quot;</bucket>
+              <bucket>&quot;Kazindiro_Nangara&quot;</bucket>
+              <bucket>&quot;Kishanda&quot;</bucket>
+              <bucket>&quot;Kagali&quot;</bucket>
+              <bucket>&quot;Nyakabungo_Kashasha&quot;</bucket>
+              <bucket>&quot;Butusi&quot;</bucket>
+              <bucket>&quot;Bukere&quot;</bucket>
+              <bucket>&quot;Nyolo&quot;</bucket>
+              <bucket>&quot;Nyamatembe_Kacerere&quot;</bucket>
+              <bucket>&quot;Mukitojo&quot;</bucket>
+              <bucket>&quot;Mirindi&quot;</bucket>
+              <bucket>&quot;Bwegiragye&quot;</bucket>
+              <bucket>&quot;Mwefuzo&quot;</bucket>
+              <bucket>&quot;Kiriba&quot;</bucket>
+              <bucket>&quot;Ryakashara&quot;</bucket>
+              <bucket>&quot;Gihuyaga&quot;</bucket>
+              <bucket>&quot;Murandi&quot;</bucket>
+              <bucket>&quot;Nyamicucu_Mugyera&quot;</bucket>
+              <bucket>&quot;Buhamba&quot;</bucket>
+              <bucket>&quot;Bikungu&quot;</bucket>
+              <bucket>&quot;Mboha&quot;</bucket>
+              <bucket>&quot;Busiro&quot;</bucket>
+              <bucket>&quot;Munyonyi_1&quot;</bucket>
+              <bucket>&quot;Butambala&quot;</bucket>
+              <bucket>&quot;Mabaare&quot;</bucket>
+              <bucket>&quot;Nyakasharara_Kihembe&quot;</bucket>
+              <bucket>&quot;Runyinya&quot;</bucket>
+              <bucket>&quot;Nkamba&quot;</bucket>
+              <bucket>&quot;Nyaruhanga&quot;</bucket>
+              <bucket>&quot;Byumba&quot;</bucket>
+              <bucket>&quot;Wamusuta&quot;</bucket>
+              <bucket>&quot;Kigongi&quot;</bucket>
+              <bucket>&quot;Nyakishojwa&quot;</bucket>
+              <bucket>&quot;Ihunga&quot;</bucket>
+              <bucket>&quot;Kashasha_Ikumba&quot;</bucket>
+              <bucket>&quot;Kashambya_Mugyera&quot;</bucket>
+              <bucket>&quot;Kacerere&quot;</bucket>
+              <bucket>&quot;Kiruruma_Kacerere&quot;</bucket>
+              <bucket>&quot;Murubaya&quot;</bucket>
+              <bucket>&quot;Kanywansande&quot;</bucket>
+              <bucket>&quot;Kiriba_B&quot;</bucket>
+              <bucket>&quot;Bweronde&quot;</bucket>
+              <bucket>&quot;Mayanja&quot;</bucket>
+              <bucket>&quot;Buhanyura&quot;</bucket>
+              <bucket>&quot;Kateija&quot;</bucket>
+              <bucket>&quot;Muko&quot;</bucket>
+              <bucket>&quot;Karondo&quot;</bucket>
+              <bucket>&quot;Buvundya&quot;</bucket>
+              <bucket>&quot;Nyamirambi&quot;</bucket>
+              <bucket>&quot;Murago&quot;</bucket>
+              <bucket>&quot;Rutengyengyere&quot;</bucket>
+              <bucket>&quot;Murandamo&quot;</bucket>
+              <bucket>&quot;Rwaseyeza&quot;</bucket>
+              <bucket>&quot;Kishegyere&quot;</bucket>
+              <bucket>&quot;Katiba&quot;</bucket>
+              <bucket>&quot;Mushorero&quot;</bucket>
+              <bucket>&quot;Kagogo&quot;</bucket>
+              <bucket>&quot;Kiriba_A&quot;</bucket>
+              <bucket>&quot;Kengoma_Kihembe&quot;</bucket>
+              <bucket>&quot;Kitahurira&quot;</bucket>
+              <bucket>&quot;Mushanje&quot;</bucket>
+              <bucket>&quot;Rukarara&quot;</bucket>
+              <bucket>&quot;Ndeego&quot;</bucket>
+              <bucket>&quot;Katojo&quot;</bucket>
+              <bucket>&quot;Nyabirehe_Kihembe&quot;</bucket>
+              <bucket>&quot;Rwonyo&quot;</bucket>
+              <bucket>&quot;Rwemirongo&quot;</bucket>
+              <bucket>&quot;Rwangeru&quot;</bucket>
+              <bucket>&quot;Rushinya&quot;</bucket>
+              <bucket>&quot;Rugoma&quot;</bucket>
+              <bucket>&quot;Nyakisoroza&quot;</bucket>
+              <bucket>&quot;Nyakasharara&quot;</bucket>
+              <bucket>&quot;Nyabiterekyere&quot;</bucket>
+              <bucket>&quot;Numba&quot;</bucket>
+              <bucket>&quot;Mabindi&quot;</bucket>
+              <bucket>&quot;Kinisya&quot;</bucket>
+              <bucket>&quot;Kiniogo&quot;</bucket>
+              <bucket>&quot;Kibarama&quot;</bucket>
+              <bucket>&quot;Kahoro&quot;</bucket>
+              <bucket>&quot;Kahara&quot;</bucket>
+              <bucket>&quot;Kagati&quot;</bucket>
+              <bucket>&quot;Kabeshekyere&quot;</bucket>
+              <bucket>&quot;Kababagi&quot;</bucket>
+              <bucket>&quot;Iterero&quot;</bucket>
+              <bucket>%all%</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0ujbhit1l1mpdq0zq2d1s1oyki57].[sum:hot_pepper_tins_organic_pesticides:qk]' field-type='quantitative' max='0.11229895866849939' min='0.0018630442863436581' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.0ujbhit1l1mpdq0zq2d1s1oyki57].[sum:hot_pepper_tins_organic_pesticides:qk]</rows>
+        <cols>[federated.0ujbhit1l1mpdq0zq2d1s1oyki57].[none:pre_village:nk]</cols>
+      </table>
+      <simple-id uuid='{A109F66E-E44E-4F3A-A41B-B0C5441ECA2F}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0ujbhit1l1mpdq0zq2d1s1oyki57].[none:pre_village:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{32991BA7-1A5B-4197-92DE-2C26DE19B653}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
