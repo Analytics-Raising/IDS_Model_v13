@@ -1,0 +1,28 @@
+Feature,Mean |SHAP value|
+spray_pumps_tools,0.06751421
+Land_size_agriculture,0.06183137
+GPS-Altitude,0.0155008705
+Food_banana_total_yield,0.015079577
+pangas_tools,0.014325759
+sacks_liquid_manure,0.013112451
+Coffee_total_yield,0.01184828
+wheelbarrows_tools,0.011605778
+garlic_kgs_organic_pesticides,0.010909897
+pick_axes_tools,0.00953743
+Cassava_total_yield,0.008650605
+Sweet_potatoes_total_yield,0.0066084946
+Beans_total_yield,0.005385521
+spades_tools,0.0046218517
+watering_cans_tools,0.004560978
+Time_to_collect_Water_for_Household_use_Minutes,0.003964606
+Beans_seeds,0.0039411746
+hoes_tools,0.0037522945
+plastic_tanks_120_ltrs_liquid_manure,0.0035958374
+Maize_seeds,0.0032707334
+Soyabean_seeds,0.0028888148
+forked_hoes_tools,0.0026525897
+Maize_total_yield,0.0014779795
+trowels_tools,0.0009025412
+Gnuts_seeds,0.00076787436
+ginger_kgs_organic_pesticides,0.0003951927
+Irish Potatoes_seeds,0.0

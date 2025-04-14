@@ -1,0 +1,2375 @@
+pre_village,pre_parish,pre_district,GPS-Altitude,hhh_age,Time_to_collect_Water_for_Household_use_Minutes,Land_size_agriculture,Beans_total_yield,Irish_potatoes_total_yield,Cassava_total_yield,Sorghum_total_yield,Maize_total_yield,Millet_total_yield,Onions_total_yield,Sweet_potatoes_total_yield,Ground_Nuts_total_yield,Food_banana_total_yield,Coffee_total_yield,pre_cluster
+Katagata,KATAGATA,Mitooma,0.0,22.0,60.0,0.0,,,,,,,,,,,,
+Katagata,KATAGATA,Mitooma,1645.9,64.0,120.0,1.8,,,,,,,,,,,,
+Katagata,KATAGATA,Mitooma,0.0,49.0,60.0,1.33,0.0,,,,,,,,,,,
+Rucururu,RWAMUJURA,Mitooma,0.0,76.0,120.0,0.25,,,,,,,,,,50.0,60.0,
+Buhasha A2,RYENGYERERO,Mitooma,1781.0,48.0,20.0,0.0,,,,,,,,,,,,
+Kigimbi A,RYENGYERERO,Mitooma,1539.7,50.0,10.0,0.0,,,,,,,,,,,,
+Katangyemeko,KASHASHA,Mitooma,0.0,20.0,120.0,0.0,,,,,,,,,,,,
+Nkongi,KASHASHA,Mitooma,1189.7,61.0,15.0,0.58,53.0,,1.0,,,,,,,,,
+Katangyemeko,KASHASHA,Mitooma,1129.8,24.0,120.0,2.0,,,,,,,,,,,,
+Rugando,RWAMUJURA,Mitooma,1564.7,51.0,30.0,0.25,,,,,,,,4.0,,20.0,0.0,
+Nyarwanya A,KATAGATA,Mitooma,1567.1,55.0,60.0,0.75,,,,,,,,,,,,
+Katagata,KATAGATA,Mitooma,1645.9,35.0,80.0,0.88,,,,,,,,,,,,
+Kenshumba,KATAGATA,Mitooma,1618.4,35.0,60.0,0.25,,,,,,,,,,,,
+Katagata,KATAGATA,Mitooma,1645.9,67.0,60.0,0.85,,,,,,,,,,,,
+Rwengyerero B,RYENGYERERO,Mitooma,1601.3,99.0,18.0,0.75,,,,,,,,,,30.0,,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,78.0,60.0,0.0,,,,,,,,,,,,
+Nkongi,KASHASHA,Mitooma,0.0,55.0,20.0,1.85,45.0,,,,,,,,,,,
+Rucururu,RWAMUJURA,Mitooma,0.0,58.0,45.0,2.75,,,,,,,,,,300.0,100.0,
+Nyarushinya,KASHASHA,Mitooma,0.0,23.0,30.0,0.0,40.0,,,,,,,,,,,
+Kigimbi A,RYENGYERERO,Mitooma,1557.7,60.0,10.0,0.975,,,,,,,,,,60.0,,
+Buhasha A2,RYENGYERERO,Mitooma,1652.8,69.0,15.0,0.75,,,,,,,,,,,,
+Kenshumba,KATAGATA,Mitooma,1618.2,43.0,30.0,0.0,,,,,,,,,,,,
+Rwengyerero B,RYENGYERERO,Mitooma,1605.5,38.0,30.0,0.75,,,,,,,,,,20.0,,
+Rurama_Kashasha,KASHASHA,Mitooma,1174.4,38.0,30.0,0.75,,,,,,,,,,0.0,,
+Buhasha A2,RYENGYERERO,Mitooma,1557.4,50.0,60.0,0.25,,,,,,,,,,,,
+Nyarwanya A,KATAGATA,Mitooma,1633.9,71.0,90.0,0.0,,,,,,,,,,,,
+Nkongi,KASHASHA,Mitooma,1137.7,58.0,25.0,0.78,,,,,,35.0,,,,,0.0,
+Katagata,KATAGATA,Mitooma,1531.2,38.0,80.0,0.0,,,,,,,,,,0.0,0.0,
+Kihungye,KASHASHA,Mitooma,1161.0,67.0,40.0,2.475,,,,,,,,,,,,
+Nyarushinya,KASHASHA,Mitooma,0.0,58.0,60.0,1.75,,,,,,,,,,,,
+Buhasha B1,RYENGYERERO,Mitooma,1165.2,58.0,80.0,1.75,40.0,,,,,,,2.0,,,,
+Buhasha B1,RYENGYERERO,Mitooma,1165.2,37.0,30.0,0.25,19.0,,1.0,,,,,0.5,,20.0,,
+Rurama_Kashasha,KASHASHA,Mitooma,1166.3,40.0,30.0,0.0,,,,,,,,,,15.0,,
+Nyarwanya A,KATAGATA,Mitooma,1640.4,73.0,80.0,0.0,,,,,,,,,,,,
+Itara,KATAGATA,Mitooma,1502.0,34.0,20.0,0.49975,41.0,,,,,,,,,17.0,,
+Rwengyerero B,RYENGYERERO,Mitooma,1606.3,37.0,15.0,0.25,,,,,,,,,,30.0,,
+Katangyemeko,KASHASHA,Mitooma,1153.4,55.0,120.0,2.0,,,,,,,,,,,,
+Rugando,RWAMUJURA,Mitooma,1165.2,42.0,60.0,0.75,75.0,,,,,,,3.0,,0.0,,
+Nkongi,KASHASHA,Mitooma,0.0,35.0,20.0,1.88,,,,,,,,,,,,
+Rwengyerero B,RYENGYERERO,Mitooma,1648.4,38.0,30.0,0.25,,,,,,,,,,15.0,,
+Kigimbi B,RYENGYERERO,Mitooma,0.0,52.0,30.0,0.8,,,,,,,,,,,,
+Rwengyerero B,RYENGYERERO,Mitooma,1642.8,55.0,30.0,0.25,,,,,,,,,,20.0,0.0,
+Kashasha,KASHASHA,Mitooma,1159.8,75.0,30.0,2.0,,,,,,,,,,,100.0,
+Kashasha,KASHASHA,Mitooma,1166.1,45.0,120.0,0.5,35.0,,3.0,,,,,2.0,,,,
+Buhasha A2,RYENGYERERO,Mitooma,1610.7,60.0,90.0,1.0,,,,,,,,,,,,
+Kibaya,KASHASHA,Mitooma,0.0,53.0,35.0,0.75,52.0,,2.0,,,,,,,0.0,,
+Kigimbi B,RYENGYERERO,Mitooma,1557.9,38.0,30.0,0.0,,,,,,,,,,,,
+Itara,KATAGATA,Mitooma,1559.2,25.0,20.0,0.0,,,,,,,,,,,,
+Rugando,RWAMUJURA,Mitooma,1618.8,59.0,30.0,0.25,80.0,,,,,,,,3.0,30.0,1.0,
+Buhasha A1,RYENGYERERO,Mitooma,1591.8,45.0,30.0,0.0,,,,,,,,,,30.0,40.0,
+Kigimbi B,RYENGYERERO,Mitooma,0.0,30.0,20.0,0.63,,,,,,,,,,,,
+Nyarwanya A,KATAGATA,Mitooma,1543.4,22.0,120.0,0.13,,,,,,,,,,10.0,,
+Kigimbi A,RYENGYERERO,Mitooma,1556.7,70.0,40.0,0.5,25.0,,,,,,,,,40.0,,
+Kaniampiiha,KASHASHA,Mitooma,1197.1,70.0,30.0,1.0,43.0,,,,,,,,,30.0,,
+Mutanoga,RWAMUJURA,Mitooma,0.0,25.0,40.0,0.35,,,,,,,,,,24.0,,
+Rwengyerero A,RYENGYERERO,Mitooma,1549.5,72.0,25.0,0.85,,,,,,,,,,50.0,,
+Rurama_Kashasha,KASHASHA,Mitooma,1176.7,30.0,120.0,0.75,,,,,,,,,,35.0,80.0,
+Nkongi,KASHASHA,Mitooma,0.0,26.0,20.0,0.38,4.0,,,,,,,,,,,
+Itara,KATAGATA,Mitooma,1571.1,40.0,15.0,0.4975,,,,,,,,,,25.0,,
+Nyarushinya,KASHASHA,Mitooma,0.0,48.0,40.0,0.75,30.0,,,,,,,,,,,
+Katagata,KATAGATA,Mitooma,1550.5,63.0,45.0,1.96,105.0,,,,,,,,,,,
+Buhasha A2,RYENGYERERO,Mitooma,1623.7,37.0,30.0,0.25,40.0,,,,,,,,,,,
+Buhasha B2,RYENGYERERO,Mitooma,1603.2,30.0,120.0,0.3,,,,,,,,,,50.0,20.0,
+Kenshumba,KATAGATA,Mitooma,1615.1,26.0,40.0,1.75,76.0,,,,,,,,,60.0,,
+Buhasha A1,RYENGYERERO,Mitooma,0.0,41.0,60.0,0.25,70.0,,,,,,,,,300.0,,
+Buhasha B2,RYENGYERERO,Mitooma,1677.0,74.0,120.0,0.325,20.0,,,,,,,5.0,,55.0,20.0,
+Buhasha A2,RYENGYERERO,Mitooma,1774.3,43.0,20.0,0.75,,,,,,,,,,,,
+Kibaya,KASHASHA,Mitooma,0.0,33.0,40.0,0.75,100.0,,1.0,,,,,4.0,,0.0,,
+Rurama_Kashasha,KASHASHA,Mitooma,1165.4,45.0,30.0,1.75,,,,,,,,,,60.0,,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,43.0,40.0,0.35,,,,,,,,,,48.0,,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,60.0,150.0,0.85,8.0,,,,,,,,,36.0,,
+Buhasha B1,RYENGYERERO,Mitooma,1661.6,52.0,20.0,1.75,35.0,,,,,,,,,40.0,1.0,
+Kenshumba,KATAGATA,Mitooma,1618.8,39.0,30.0,0.25,,,,,,,,,,15.0,,
+Kigimbi B,RYENGYERERO,Mitooma,0.0,30.0,120.0,0.33,8.0,,,,,,,,,,,
+Buhasha B1,RYENGYERERO,Mitooma,1665.6,66.0,30.0,0.25,35.0,,,,,,,3.0,,40.0,1.0,
+Rurama_Kashasha,KASHASHA,Mitooma,1156.3,38.0,14.0,0.75,,,,,,,,,,45.0,,
+Nyarwanya B,KATAGATA,Mitooma,1585.6,59.0,60.0,0.8,,,,,,,,,,50.0,5.0,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,32.0,60.0,1.25,,,,,,,,4.0,,,,
+Rugando,RWAMUJURA,Mitooma,1547.7,45.0,30.0,0.25,,,,,,,,,52.0,70.0,10.0,
+Katangyemeko,KASHASHA,Mitooma,1129.5,28.0,80.0,2.0,,,,,,,,,,,50.0,
+Katagata,KATAGATA,Mitooma,1602.0,96.0,60.0,0.0,12.0,,1.0,,,,,,,,,
+Kigimbi B,RYENGYERERO,Mitooma,1527.1,49.0,70.0,0.0,,,,,,,,,,,,
+Buhasha A2,RYENGYERERO,Mitooma,1656.4,40.0,5.0,0.0,,,,,,,,,,,,
+Nyarwanya A,KATAGATA,Mitooma,1561.9,53.0,60.0,0.5,,,,,,,,,,,,
+Kenshumba,KATAGATA,Mitooma,1617.2,50.0,30.0,1.75,,,,,,,,,,60.0,1.0,
+Nyarwanya A,KATAGATA,Mitooma,1555.5,50.0,60.0,0.75,,,,,,,,,,,,
+Nyarwanya A,KATAGATA,Mitooma,1577.2,68.0,60.0,1.25,32.0,,,,,,,,,,,
+Rucururu,RWAMUJURA,Mitooma,1528.2,84.0,30.0,0.75,,,,,,,,,,40.0,100.0,
+Rwengyerero B,RYENGYERERO,Mitooma,1602.6,25.0,12.0,2.0,22.0,,,,,78.0,,,,55.0,,
+Mutanoga,RWAMUJURA,Mitooma,0.0,35.0,30.0,1.1,75.0,,,,,,,,,,,
+Kigimbi A,RYENGYERERO,Mitooma,1581.1,55.0,10.0,0.75,,,,,,,,,,90.0,,
+Nkongi,KASHASHA,Mitooma,1176.0,51.0,20.0,0.88,50.0,,,,,,,,,,,
+Katangyemeko,KASHASHA,Mitooma,0.0,43.0,30.0,0.5,70.0,,,,,,,,,,20.0,
+Rugando,RWAMUJURA,Mitooma,1605.3,76.0,20.0,0.25,40.0,,,,,,,,,20.0,1.0,
+Kigimbi A,RYENGYERERO,Mitooma,1597.5,26.0,10.0,0.75,35.0,,,,,,,,,80.0,,
+Kibaya,KASHASHA,Mitooma,1156.8,69.0,30.0,0.25,35.0,,,,,,,,,25.0,,
+Rucururu,RWAMUJURA,Mitooma,0.0,37.0,45.0,0.0,123.0,,,,,,,,,40.0,12.0,
+Buhasha A2,RYENGYERERO,Mitooma,1555.3,60.0,20.0,0.25,,,,,,,,,,,,
+Kashasha,KASHASHA,Mitooma,1161.8,40.0,120.0,1.0,40.0,,,,,,,,,20.0,,
+Buhasha B1,RYENGYERERO,Mitooma,1621.2,45.0,30.0,1.75,25.0,,,,,,,,,100.0,4.0,
+Kihungye,KASHASHA,Mitooma,1166.0,75.0,20.0,0.75,45.0,,,,,,,,,52.0,30.0,
+Rwamujura,RWAMUJURA,Mitooma,0.0,38.0,60.0,0.25,,,,,,,,,,80.0,5.0,
+Katangyemeko,KASHASHA,Mitooma,0.0,54.0,90.0,1.0,,,,,,,,,,,0.0,
+Rugando,RWAMUJURA,Mitooma,1606.7,60.0,60.0,0.85,,,,,,,,,,80.0,,
+Kibaya,KASHASHA,Mitooma,0.0,43.0,80.0,0.75,35.0,,,,,,,,11.0,0.0,,
+Buhasha B1,RYENGYERERO,Mitooma,1660.6,43.0,20.0,0.75,,,,,,,,,,40.0,,
+Kibingo,KASHASHA,Mitooma,1204.6,75.0,30.0,2.0,,,,,,,,,,10.0,60.0,
+Nkongi,KASHASHA,Mitooma,1183.5,25.0,10.0,1.97,,,2.0,,,,,,,,,
+Katangyemeko,KASHASHA,Mitooma,0.0,24.0,60.0,0.25,,,,,,,,,,0.0,0.0,
+Rwamujura,RWAMUJURA,Mitooma,1609.5,30.0,30.0,0.5,,,,,,,,,,30.0,,
+Rurama_Kashasha,KASHASHA,Mitooma,1186.2,42.0,40.0,0.75,62.0,,,,,,,,,35.0,,
+Kibaya,KASHASHA,Mitooma,1167.6,65.0,30.0,0.25,35.0,,,,,,,17.0,,40.0,2.0,
+Nyarushinya,KASHASHA,Mitooma,0.0,35.0,30.0,0.75,,,,,,,,,,40.0,100.0,
+Kashasha,KASHASHA,Mitooma,1155.9,45.0,10.0,0.6,35.0,,,,,,,,,,,
+Kenshumba,KATAGATA,Mitooma,1639.7,70.0,30.0,0.25,,,,,,,,,,40.0,,
+Rwengyerero B,RYENGYERERO,Mitooma,1672.5,45.0,35.0,0.75,125.0,,,,,,,,,55.0,,
+Kibaya,KASHASHA,Mitooma,1165.9,43.0,30.0,0.25,,,,,,,,,,30.0,0.0,
+Katangyemeko,KASHASHA,Mitooma,0.0,43.0,48.0,0.3,24.0,,,,,,,,,,,
+Rucururu,RWAMUJURA,Mitooma,1533.6,61.0,20.0,0.75,100.0,,,,,,,3.0,,60.0,100.0,
+Rucururu,RWAMUJURA,Mitooma,0.0,53.0,30.0,0.75,,,,,,,,,,,60.0,
+Kashasha,KASHASHA,Mitooma,1171.5,36.0,120.0,0.5,70.0,,,,,,,,,30.0,0.0,
+Nyarushinya,KASHASHA,Mitooma,0.0,50.0,20.0,2.75,,,,,,,,,,,,
+Katagata,KATAGATA,Mitooma,1608.6,43.0,120.0,0.96,55.0,,,,,,,,,,,
+Kaniampiiha,KASHASHA,Mitooma,1194.3,24.0,15.0,0.5,40.0,,,,,,,,,,,
+Nyarwanya B,KATAGATA,Mitooma,1537.4,40.0,120.0,0.3,,,,,,,,,,50.0,150.0,
+Rwengyerero A,RYENGYERERO,Mitooma,1599.1,49.0,20.0,0.4,,,,,,,,,,48.0,,
+Rutooma,RWAMUJURA,Mitooma,1595.1,70.0,30.0,0.85,,,,,,,,,,100.0,80.0,
+Rwengyerero B,RYENGYERERO,Mitooma,1606.5,52.0,14.0,0.75,60.0,,,,,,,,,60.0,,
+Buhasha B1,RYENGYERERO,Mitooma,1659.6,26.0,30.0,0.75,47.0,,,,,,,,,40.0,2.0,
+Nyarushinya,KASHASHA,Mitooma,0.0,52.0,60.0,0.75,,,,,,,,,,,,
+Kihungye,KASHASHA,Mitooma,1161.0,41.0,10.0,0.49975,,,,,,,,,,,,
+Katagata,KATAGATA,Mitooma,1645.9,32.0,40.0,0.24,,,,,,,,,,,,
+Rucururu,RWAMUJURA,Mitooma,1536.8,93.0,20.0,0.25,160.0,,,,,,,,,50.0,,
+Mutanoga,RWAMUJURA,Mitooma,0.0,75.0,30.0,2.75,40.0,,,,,,,,,60.0,,
+Rutooma,RWAMUJURA,Mitooma,1586.2,69.0,30.0,0.85,,,,,,,,,,30.0,30.0,
+Buhasha A2,RYENGYERERO,Mitooma,1524.8,28.0,30.0,0.25,,,,,,,,,,,,
+Kibaya,KASHASHA,Mitooma,0.0,39.0,60.0,0.25,22.0,,,,,50.0,,2.0,,0.0,,
+Kaniampiiha,KASHASHA,Mitooma,0.0,33.0,120.0,0.75,70.0,,2.5,,,,,5.0,,,20.0,
+Buhasha B3,RYENGYERERO,Mitooma,1613.9,48.0,10.0,0.325,50.0,,,,,,,,,60.0,,
+Rwengyerero B,RYENGYERERO,Mitooma,1608.3,70.0,30.0,0.75,,,,,,,,,,45.0,,
+Nyarushinya,KASHASHA,Mitooma,1141.3,59.0,40.0,1.25,,,,,,,,2.0,,30.0,100.0,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,28.0,60.0,0.09999999999999998,,,,,,,,,,,,
+Nyarwanya A,KATAGATA,Mitooma,1570.7,28.0,30.0,1.25,,,,,,,,,,,,
+Kashasha,KASHASHA,Mitooma,1160.2,65.0,10.0,0.5,,,,,,,,,,70.0,,
+Kashasha,KASHASHA,Mitooma,1159.9,25.0,15.0,1.0,,,,,,,,,,0.0,,
+Kaniampiiha,KASHASHA,Mitooma,1199.9,34.0,40.0,0.25,110.0,,,,,,,,,20.0,120.0,
+Kihungye,KASHASHA,Mitooma,1164.1,42.0,30.0,0.75,70.0,,,,,,,,,52.0,,
+Kenshumba,KATAGATA,Mitooma,1610.3,52.0,25.0,1.75,100.0,,,,,,,,,70.0,,
+Rucururu,RWAMUJURA,Mitooma,1554.5,57.0,40.0,0.5,110.0,,,,,,,,,50.0,100.0,
+Itara,KATAGATA,Mitooma,1566.7,48.0,20.0,0.25,38.0,,,,,,,,,40.0,,
+Buhasha B1,RYENGYERERO,Mitooma,1165.2,57.0,120.0,2.75,68.0,,,,,,,2.0,,0.0,,
+Kaniampiiha,KASHASHA,Mitooma,1190.9,63.0,20.0,2.0,70.0,,,,25.0,,,3.0,,10.0,80.0,
+Kihungye,KASHASHA,Mitooma,1156.6,32.0,20.0,0.75,40.0,,,,,,,,,52.0,40.0,
+Buhasha A2,RYENGYERERO,Mitooma,1609.3,45.0,180.0,0.75,18.0,,,,,,,,,,,
+Itara,KATAGATA,Mitooma,1562.3,25.0,30.0,0.75,75.0,,,,,,,,,,,
+Rurama_Kashasha,KASHASHA,Mitooma,1192.3,50.0,120.0,0.75,,,,,,,,,,55.0,90.0,
+Kihungye,KASHASHA,Mitooma,1161.3,30.0,20.0,1.75,50.0,,,,,,,,,52.0,40.0,
+Kihungye,KASHASHA,Mitooma,1161.1,56.0,30.0,1.975,,,,,,,,4.5,,,,
+Rwengyerero A,RYENGYERERO,Mitooma,1165.2,52.0,30.0,0.375,,,,,,,,,,30.0,40.0,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,46.0,60.0,1.75,65.0,,,,,,,,,,,
+Rurama_Kashasha,KASHASHA,Mitooma,1179.6,65.0,10.0,0.75,,,,,,,,,,45.0,120.0,
+Nyarushinya,KASHASHA,Mitooma,1139.6,53.0,20.0,0.75,110.0,,,,,,,,,,80.0,
+Kibingo,KASHASHA,Mitooma,1184.6,30.0,30.0,0.5,,,,,,,,,,40.0,,
+Kigimbi B,RYENGYERERO,Mitooma,1573.3,60.0,25.0,1.45,65.0,,4.0,,,,,,,,,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,65.0,20.0,0.0,43.0,,,,,,,,,,,
+Buhasha B1,RYENGYERERO,Mitooma,1165.2,31.0,20.0,0.75,120.0,,,,,,,,110.0,0.0,,
+Kaniampiiha,KASHASHA,Mitooma,0.0,50.0,20.0,0.75,,,3.0,,,,,6.0,,80.0,35.0,
+Itara,KATAGATA,Mitooma,1787.3,35.0,55.0,0.022500000000000003,,,,,,,,,,17.0,13.0,
+Buhasha A2,RYENGYERERO,Mitooma,1614.4,48.0,60.0,0.5,,,,,,,,,,,,
+Rutooma,RWAMUJURA,Mitooma,1165.2,45.0,15.0,0.0,,,,,,,,,,,,
+Rwamujura,RWAMUJURA,Mitooma,1550.7,29.0,30.0,0.325,49.0,,,,18.0,,,2.0,,15.0,60.0,
+Buhasha A2,RYENGYERERO,Mitooma,1721.8,36.0,10.0,2.75,,,,,,,,,,80.0,100.0,
+Nkongi,KASHASHA,Mitooma,1159.0,41.0,15.0,2.98,50.0,,2.0,,,,,,,,,
+Buhasha B3,RYENGYERERO,Mitooma,1613.6,39.0,20.0,0.825,75.0,,,,55.0,,,,,40.0,30.0,
+Itara,KATAGATA,Mitooma,1513.8,35.0,10.0,0.75,45.0,,,,,,,,,50.0,100.0,
+Kibaya,KASHASHA,Mitooma,0.0,58.0,30.0,0.75,,,,,,,,,,0.0,,
+Kenshumba,KATAGATA,Mitooma,1597.8,50.0,12.0,0.75,,,,,,,,,,45.0,90.0,
+Rurama_Kashasha,KASHASHA,Mitooma,1194.8,22.0,30.0,1.75,25.0,,,,,,,,,60.0,4.0,
+Katangyemeko,KASHASHA,Mitooma,1162.5,50.0,60.0,2.0,70.0,,,,,,,,65.0,,,
+Kihungye,KASHASHA,Mitooma,1161.2,69.0,20.0,1.475,50.0,,,,,,,,,,150.0,
+Kashasha,KASHASHA,Mitooma,1166.1,36.0,30.0,2.0,55.0,,2.0,,,,,2.0,,,150.0,
+Kigimbi A,RYENGYERERO,Mitooma,1614.3,53.0,15.0,2.75,,,,,,,,,,60.0,,
+Kashasha,KASHASHA,Mitooma,1161.6,50.0,20.0,2.0,,,,,,,,,,70.0,40.0,
+Kaniampiiha,KASHASHA,Mitooma,0.0,46.0,30.0,1.0,,,4.0,,,,,,,15.0,200.0,
+Rwengyerero B,RYENGYERERO,Mitooma,1604.8,60.0,15.0,1.75,,,,,,,,,,40.0,1.0,
+Buhasha A1,RYENGYERERO,Mitooma,0.0,37.0,60.0,0.0,6.0,,,,,40.0,,,,150.0,120.0,
+Rwamujura,RWAMUJURA,Mitooma,0.0,44.0,60.0,1.25,100.0,,3.0,,,,,8.0,,80.0,100.0,
+Kigimbi A,RYENGYERERO,Mitooma,1594.3,48.0,10.0,0.55,,,,,,,,,,,,
+Kibaya,KASHASHA,Mitooma,1152.1,58.0,30.0,1.75,,,,,,,,,60.0,60.0,1.0,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,46.0,60.0,1.65,,,,,,,,,,120.0,,
+Buhasha B3,RYENGYERERO,Mitooma,1602.1,38.0,30.0,1.75,80.0,,,,,,,,,30.0,60.0,
+Kibingo,KASHASHA,Mitooma,1158.4,59.0,30.0,1.5,,,,,,,,,,50.0,80.0,
+Nyarushinya,KASHASHA,Mitooma,1155.7,56.0,120.0,0.75,80.0,,,,,,,,,70.0,90.0,
+Rugando,RWAMUJURA,Mitooma,1165.2,49.0,60.0,2.5,120.0,,,,,,,2.0,,,0.0,
+Kenshumba,KATAGATA,Mitooma,1622.0,34.0,40.0,1.25,,,,,,,,,,50.0,70.0,
+Buhasha B3,RYENGYERERO,Mitooma,1582.0,31.0,30.0,0.325,40.0,,,,,,,,,20.0,,
+Rugando,RWAMUJURA,Mitooma,1165.2,40.0,120.0,0.75,60.0,,,,,,,2.0,,0.0,,
+Buhasha A1,RYENGYERERO,Mitooma,0.0,76.0,40.0,2.75,,,,,,,,,,300.0,100.0,
+Kibingo,KASHASHA,Mitooma,1176.4,62.0,30.0,1.5,,,,,,,,,,60.0,70.0,
+Kibaya,KASHASHA,Mitooma,1155.2,22.0,30.0,1.75,,,,,,,,,,,40.0,
+Mutanoga,RWAMUJURA,Mitooma,0.0,65.0,60.0,1.1,,,,,,,,,,,,
+Kibaya,KASHASHA,Mitooma,0.0,76.0,20.0,2.5,170.0,,2.0,,,,,3.0,,,,
+Nyarwanya B,KATAGATA,Mitooma,1574.8,69.0,120.0,3.8,,,,,,,,2.0,,55.0,50.0,
+Mutanoga,RWAMUJURA,Mitooma,0.0,40.0,20.0,0.38,,,,,,,,,,,300.0,
+Buhasha B3,RYENGYERERO,Mitooma,0.0,35.0,90.0,0.25,75.0,,3.5,,,,,8.5,,40.0,,
+Itara,KATAGATA,Mitooma,1559.7,99.0,30.0,1.75,55.0,,,,,,,,,100.0,100.0,
+Nkongi,KASHASHA,Mitooma,0.0,58.0,30.0,1.85,20.0,,,,,,,,,,,
+Nyarushinya,KASHASHA,Mitooma,1139.1,28.0,60.0,0.25,,,,,,,,,,20.0,60.0,
+Mutanoga,RWAMUJURA,Mitooma,0.0,47.0,60.0,1.2,70.0,,,,,,,,,,,
+Nkongi,KASHASHA,Mitooma,0.0,38.0,6.0,0.85,60.0,,,,,,,,,,,
+Rutooma,RWAMUJURA,Mitooma,1617.0,30.0,20.0,0.3,,,,,,,,,,,,
+Rugando,RWAMUJURA,Mitooma,1607.2,22.0,30.0,0.35,,,,,,,,,,,,
+Rucururu,RWAMUJURA,Mitooma,1538.0,36.0,60.0,0.75,80.0,,,,,,,3.0,,30.0,60.0,
+Buhasha B2,RYENGYERERO,Mitooma,1654.9,50.0,120.0,1.3,70.0,,,,,,,,,120.0,100.0,
+Rurama_Kashasha,KASHASHA,Mitooma,1169.6,34.0,30.0,2.75,,,,,,,,,,50.0,1.0,
+Itara,KATAGATA,Mitooma,1557.9,28.0,30.0,0.975,92.0,,,,,,,,,20.0,,
+Nyarwanya B,KATAGATA,Mitooma,1528.9,82.0,60.0,0.8,40.0,,,,,,,,,50.0,50.0,
+Kihungye,KASHASHA,Mitooma,1165.8,53.0,30.0,3.75,90.0,,,,,,,,,20.0,50.0,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,34.0,60.0,0.0,40.0,,,,,,,,,,,
+Nyarushinya,KASHASHA,Mitooma,1132.2,58.0,150.0,0.25,120.0,,,,,,,,,25.0,100.0,
+Kihungye,KASHASHA,Mitooma,1161.1,47.0,20.0,2.5,,,,,,450.0,,,,,,
+Katagata,KATAGATA,Mitooma,1557.8,48.0,25.0,1.9700000000000002,85.0,,,,,,,3.0,,,,
+Buhasha A1,RYENGYERERO,Mitooma,1592.3,64.0,20.0,0.5,90.0,,,,,,,,,70.0,,
+Kibaya,KASHASHA,Mitooma,1143.5,36.0,30.0,0.75,315.0,,,,,,,,,25.0,3.0,
+Itara,KATAGATA,Mitooma,1625.8,35.0,40.0,0.4975,90.0,,,,,300.0,,,,45.0,,
+Buhasha A1,RYENGYERERO,Mitooma,1591.8,27.0,40.0,0.75,,,,,,,,,,30.0,50.0,
+Buhasha B3,RYENGYERERO,Mitooma,1630.6,54.0,12.0,0.825,35.0,,,,15.0,,,,,100.0,100.0,
+Rwengyerero B,RYENGYERERO,Mitooma,1609.6,40.0,18.0,0.75,80.0,,,,,,,,,45.0,,
+Kaniampiiha,KASHASHA,Mitooma,1197.1,62.0,20.0,0.5,,,,,,,,,75.0,50.0,50.0,
+Katangyemeko,KASHASHA,Mitooma,1150.9,42.0,60.0,2.0,65.0,,,,,,,,,100.0,200.0,
+Katangyemeko,KASHASHA,Mitooma,0.0,71.0,15.0,10.0,11.0,,,,,,,,,48.0,60.0,
+Kihungye,KASHASHA,Mitooma,1168.3,60.0,10.0,2.75,50.0,,,,,,,,,70.0,80.0,
+Kigimbi A,RYENGYERERO,Mitooma,1579.1,45.0,30.0,1.75,70.0,,,,,,,,,80.0,100.0,
+Nkongi,KASHASHA,Mitooma,0.0,40.0,30.0,1.8,30.0,,,,,,,,,,,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,36.0,35.0,0.85,105.0,,,,,,,,,180.0,,
+Kenshumba,KATAGATA,Mitooma,1610.8,29.0,12.0,0.5,55.0,,,,,,,,,60.0,,
+Rutooma,RWAMUJURA,Mitooma,1564.2,33.0,15.0,0.8,,,,,,,,,,70.0,150.0,
+Nyarwanya B,KATAGATA,Mitooma,1581.9,40.0,60.0,0.3,50.0,,,,,,,,,100.0,50.0,
+Kaniampiiha,KASHASHA,Mitooma,0.0,52.0,30.0,1.5,115.0,,2.0,,35.0,,,7.0,40.0,30.0,200.0,
+Itara,KATAGATA,Mitooma,1545.9,52.0,40.0,1.75,80.0,,,,,,,8.0,,120.0,100.0,
+Kigimbi B,RYENGYERERO,Mitooma,0.0,39.0,10.0,1.3,15.0,,,,,,,,,,,
+Rwengyerero B,RYENGYERERO,Mitooma,1624.9,52.0,80.0,1.75,60.0,,,,,,,,,100.0,150.0,
+Kigimbi A,RYENGYERERO,Mitooma,1585.4,43.0,10.0,5.5,170.0,,,,,470.0,,,,300.0,,
+Rwamujura,RWAMUJURA,Mitooma,1617.1,56.0,60.0,0.575,60.0,,,,,,,4.0,,60.0,130.0,
+Rwengyerero A,RYENGYERERO,Mitooma,1587.1,38.0,10.0,2.3,50.0,,,,,,,,,100.0,100.0,
+Kibingo,KASHASHA,Mitooma,1165.7,38.0,15.0,2.0,70.0,,,,18.0,,,7.0,,60.0,50.0,
+Buhasha A1,RYENGYERERO,Mitooma,0.0,49.0,60.0,0.0,40.0,,,,,,,,,50.0,60.0,
+Nyarwanya B,KATAGATA,Mitooma,1563.1,80.0,10.0,1.4,40.0,,,,,,,,,144.0,30.0,
+Buhasha B1,RYENGYERERO,Mitooma,1165.2,49.0,68.0,0.5,33.0,,,,,,,1.0,75.0,,,
+Nyarushinya,KASHASHA,Mitooma,1145.9,42.0,120.0,1.75,110.0,,,,,,,,,70.0,500.0,
+Buhasha A1,RYENGYERERO,Mitooma,1591.6,53.0,20.0,1.25,190.0,,,,,,,2.0,,60.0,100.0,
+Nyarwanya A,KATAGATA,Mitooma,1609.4,74.0,45.0,2.8,,,,,,,,,,,200.0,
+Rwamujura,RWAMUJURA,Mitooma,1597.2,72.0,60.0,0.25,50.0,,,,,,,,,200.0,40.0,
+Katagata,KATAGATA,Mitooma,1533.9,44.0,30.0,1.17,,,,,,,,,,0.0,,
+Kigimbi A,RYENGYERERO,Mitooma,1553.8,47.0,10.0,3.75,80.0,,,,,,,,,100.0,150.0,
+Mutanoga,RWAMUJURA,Mitooma,0.0,38.0,30.0,1.0,,,,,,,,,,,,
+Nyarwanya B,KATAGATA,Mitooma,1599.9,38.0,120.0,1.7,60.0,,,,,,,2.0,,100.0,100.0,
+Rutooma,RWAMUJURA,Mitooma,1624.9,30.0,20.0,0.7000000000000001,,,,,,,,,,70.0,,
+Kigimbi A,RYENGYERERO,Mitooma,1586.8,80.0,30.0,1.75,80.0,,,,,,,,,150.0,100.0,
+Rwamujura,RWAMUJURA,Mitooma,1537.0,29.0,45.0,0.325,85.0,,,,,,,4.0,,300.0,300.0,
+Rucururu,RWAMUJURA,Mitooma,1547.5,58.0,150.0,1.75,130.0,,,,,,,4.0,,60.0,100.0,
+Kibingo,KASHASHA,Mitooma,1182.4,30.0,10.0,0.8,,,,,,,,,,100.0,,
+Mutanoga,RWAMUJURA,Mitooma,0.0,55.0,40.0,1.0,90.0,,,,,,,,,,,
+Kigimbi B,RYENGYERERO,Mitooma,1552.3,65.0,60.0,0.79,60.0,,,,,,,,,0.0,0.0,
+Buhasha A1,RYENGYERERO,Mitooma,1592.5,36.0,30.0,0.25,120.0,,,,,,,3.0,,100.0,100.0,
+Katangyemeko,KASHASHA,Mitooma,0.0,59.0,60.0,1.0,80.0,,,,,,,,,120.0,0.0,
+Buhasha B2,RYENGYERERO,Mitooma,1655.9,50.0,20.0,2.5,50.0,,,,,,,5.0,,200.0,60.0,
+Buhasha B2,RYENGYERERO,Mitooma,1542.2,76.0,120.0,1.8,,,,,,,,,,120.0,100.0,
+Kigimbi B,RYENGYERERO,Mitooma,1573.1,37.0,60.0,3.3200000000000003,85.0,,3.0,,,,,,,,,
+Kaniampiiha,KASHASHA,Mitooma,0.0,42.0,30.0,2.0,60.0,,4.0,,,,,10.0,,,500.0,
+Rwamujura,RWAMUJURA,Mitooma,0.0,30.0,90.0,0.25,75.0,,3.0,,,,,5.0,,100.0,,
+Rwamujura,RWAMUJURA,Mitooma,0.0,90.0,40.0,2.8,140.0,,3.5,,,,,7.0,,200.0,40.0,
+Buhasha B2,RYENGYERERO,Mitooma,1592.3,48.0,60.0,0.30000000000000004,,,,,,,,,,252.0,,
+Kigimbi B,RYENGYERERO,Mitooma,0.0,65.0,5.0,0.9,,,,,,,,,,,,
+Itara,KATAGATA,Mitooma,1627.2,32.0,45.0,0.4975,,,,,,,,,,33.0,50.0,
+Kigimbi A,RYENGYERERO,Mitooma,1599.0,56.0,20.0,4.0,,,,,,,,,,99.0,,
+Buhasha A1,RYENGYERERO,Mitooma,0.0,63.0,30.0,8.75,,,,,,,,,,250.0,28.0,
+Rwamujura,RWAMUJURA,Mitooma,1599.7,48.0,120.0,1.75,100.0,,,,,,,6.0,60.0,430.0,200.0,
+Buhasha A1,RYENGYERERO,Mitooma,1592.0,45.0,30.0,0.25,260.0,,,,,,,3.0,,60.0,150.0,
+Rwengyerero A,RYENGYERERO,Mitooma,1560.3,34.0,20.0,1.85,35.0,,,,,,,,,60.0,100.0,
+Rucururu,RWAMUJURA,Mitooma,0.0,35.0,30.0,1.75,,,,,,,,,,80.0,150.0,
+Nyarwanya A,KATAGATA,Mitooma,1628.2,46.0,15.0,1.3,,,,,,,,,,,240.0,
+Rutooma,RWAMUJURA,Mitooma,0.0,60.0,20.0,1.875,72.0,,,,20.0,,,13.0,,150.0,100.0,
+Rurama_Kashasha,KASHASHA,Mitooma,1169.6,38.0,30.0,3.75,,,,,,,,,,150.0,7.0,
+Rwengyerero A,RYENGYERERO,Mitooma,1165.2,66.0,30.0,3.375,120.0,,,,,130.0,,16.0,,150.0,200.0,
+Kibingo,KASHASHA,Mitooma,1178.7,34.0,10.0,1.5,110.0,,,,18.0,,,8.0,,100.0,20.0,
+Rwengyerero A,RYENGYERERO,Mitooma,1165.2,45.0,120.0,1.875,65.0,,,,20.0,,,16.0,,50.0,,
+Buhasha B2,RYENGYERERO,Mitooma,1666.7,42.0,60.0,0.8,45.0,,,,,,,,,240.0,,
+Buhasha B2,RYENGYERERO,Mitooma,1615.5,60.0,120.0,0.8,24.0,,,,,,,,30.0,120.0,100.0,
+Buhasha B2,RYENGYERERO,Mitooma,1593.7,48.0,10.0,0.19999999999999996,60.0,,,,,,,12.0,,288.0,100.0,
+Buhasha A2,RYENGYERERO,Mitooma,1626.9,73.0,3.0,2.5,,,,,,,,,,100.0,70.0,
+Nyarwanya B,KATAGATA,Mitooma,1534.4,58.0,20.0,0.9,60.0,,,,,,,,,200.0,100.0,
+Buhasha B3,RYENGYERERO,Mitooma,0.0,50.0,80.0,2.5,120.0,,6.0,,,,,,,500.0,210.0,
+Buhasha B1,RYENGYERERO,Mitooma,1665.9,67.0,20.0,1.75,8.0,,,,,,,,,80.0,1.0,
+Rwengyerero A,RYENGYERERO,Mitooma,1599.1,87.0,15.0,0.4,10.0,,,,,,,,,100.0,,
+Buhasha B3,RYENGYERERO,Mitooma,1622.5,43.0,60.0,1.825,105.0,,,,,,,4.5,,200.0,600.0,
+Kibingo,KASHASHA,Mitooma,1179.0,32.0,60.0,2.0,,,,,,,,,,80.0,8.0,
+Buhasha B2,RYENGYERERO,Mitooma,1552.4,26.0,60.0,0.9,,,,,,,,,,672.0,80.0,
+Kaniampiiha,KASHASHA,Mitooma,0.0,69.0,60.0,6.0,250.0,,9.0,,,,,8.0,,340.0,250.0,
+Buhasha B3,RYENGYERERO,Mitooma,0.0,43.0,80.0,0.75,140.0,,3.0,,,,,7.0,,200.0,100.0,
+Kenshumba,KATAGATA,Mitooma,1618.1,53.0,30.0,2.0,,,,,,,,,,24.0,3.0,
+Buhasha B3,RYENGYERERO,Mitooma,0.0,80.0,60.0,0.75,70.0,,1.5,,,,,9.0,,150.0,90.0,
+Buhasha B2,RYENGYERERO,Mitooma,1608.4,60.0,30.0,0.29000000000000004,190.0,,,,,,,,,336.0,,
+Kigimbi B,RYENGYERERO,Mitooma,1566.2,38.0,40.0,0.98,55.0,,,,,,,,,,,
+Rucururu,RWAMUJURA,Mitooma,0.0,62.0,60.0,1.5,,,,,,,,,,300.0,200.0,
+Rwamujura,RWAMUJURA,Mitooma,0.0,71.0,60.0,1.75,100.0,,8.0,,,,,16.0,,200.0,200.0,
+Mutanoga,RWAMUJURA,Mitooma,0.0,36.0,10.0,1.68,,,,,,,,,,360.0,300.0,
+Rwengyerero C,RYENGYERERO,Mitooma,0.0,29.0,25.0,2.2,,,,,,,,,,180.0,300.0,
+Kibingo,KASHASHA,Mitooma,1167.7,57.0,45.0,1.0,130.0,,,,,,,9.0,,120.0,200.0,
+Kihungye,KASHASHA,Mitooma,1171.7,41.0,45.0,2.5,,,,,,,,,,,1000.0,
+Rutooma,RWAMUJURA,Mitooma,1165.2,48.0,30.0,2.875,240.0,,,,58.0,,,9.0,,300.0,,
+Nyarwanya A,KATAGATA,Mitooma,1576.2,51.0,150.0,3.75,,,,,,,,,,600.0,600.0,
+Kibingo,KASHASHA,Mitooma,1174.6,48.0,30.0,0.5,100.0,,,,28.0,,,8.0,85.0,80.0,,
+Nyarwanya B,KATAGATA,Mitooma,1546.7,46.0,60.0,1.5,60.0,,,,,,,2.0,,120.0,900.0,
+Rutooma,RWAMUJURA,Mitooma,1569.4,70.0,30.0,1.3,,,,,,,,,,100.0,60.0,
+Kenshumba,KATAGATA,Mitooma,1623.4,53.0,40.0,2.75,110.0,,,,,,,,,90.0,300.0,
+Buhasha B3,RYENGYERERO,Mitooma,0.0,80.0,120.0,3.5,140.0,,5.0,,,,,14.0,,300.0,600.0,
+Nyarwanya B,KATAGATA,Mitooma,1567.0,52.0,15.0,1.7,350.0,,,,,,,,,200.0,450.0,
+Mutanoga,RWAMUJURA,Mitooma,0.0,44.0,60.0,2.7,80.0,,,,,,,,,120.0,800.0,
+Rutooma,RWAMUJURA,Mitooma,0.0,30.0,30.0,1.875,100.0,,4.0,,30.0,,,18.0,,150.0,200.0,
+Kibingo,KASHASHA,Mitooma,1157.8,45.0,45.0,2.0,,,,,,,,,,80.0,100.0,
+Buhasha B2,RYENGYERERO,Mitooma,1616.1,49.0,120.0,3.525,100.0,,,,45.0,,,1.5,,250.0,100.0,
+Kibingo,KASHASHA,Mitooma,1170.1,48.0,15.0,3.0,140.0,,,,13.0,,,10.0,,100.0,400.0,
+Rwamujura,RWAMUJURA,Mitooma,0.0,65.0,60.0,4.75,120.0,,5.0,,,,,9.0,,150.0,2100.0,
+Buhasha B1,RYENGYERERO,Mitooma,1165.2,53.0,60.0,1.5,130.0,,,,,,,,,0.0,,
+Rutooma,RWAMUJURA,Mitooma,1165.2,76.0,50.0,4.75,120.0,,,,42.0,,,16.0,,600.0,400.0,
+Rwengyerero A,RYENGYERERO,Mitooma,1626.5,46.0,30.0,2.7,,,,,,,,,,120.0,260.0,
+Buhasha A1,RYENGYERERO,Mitooma,0.0,32.0,60.0,0.25,,,,,,,,,,30.0,,
+Buhasha B3,RYENGYERERO,Mitooma,0.0,66.0,120.0,2.5,180.0,,5.0,,90.0,,,12.0,,250.0,1000.0,
+Nyarubira,NYAK-KATONYA,Rukungiri,2096.4,52.0,10.0,6.0,,,,,,,,,,,,
+Rujoka,NYAK-KATONYA,Rukungiri,1999.1,41.0,60.0,0.0,,,,,,,,,,,,
+Kagasha,NYAK-KAFUNJO,Rukungiri,2127.4,26.0,320.0,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,23.0,,0.0,,,,,,,,,,,,
+Rugazi,NYAK-KAFUNJO,Rukungiri,1844.1,42.0,60.0,0.5,,,,,,,,,,,,
+Rugazi,NYAK-KAFUNJO,Rukungiri,0.0,29.0,60.0,0.0,17.0,,,,,,,,,4.0,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,0.0,26.0,60.0,0.3,,,,,,,,,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,1742.1,31.0,30.0,0.25,,,,,,,,,,,,
+Nyakashenyi,NYAK-KATONYA,Rukungiri,1916.9,90.0,60.0,0.25,22.0,,,,,,,,,,,
+Nyakakizi,NYAK-KAFUNJO,Rukungiri,0.0,70.0,20.0,0.0,,,,,,,,,,,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,1824.9,34.0,30.0,0.0,,,,,,,,,,,,
+Rwangura,NYAK-KATONYA,Rukungiri,0.0,25.0,10.0,0.245,,,,,,,,,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,2070.3,57.0,20.0,0.475,,,,,,,,,,,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2073.0,46.0,180.0,0.3,22.0,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,1909.0,42.0,30.0,0.25,,,,,,,,2.0,,,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1833.8,75.0,15.0,0.75,,,,,,,,,,25.0,,
+Nyabishaki,NYAK-KAFUNJO,Rukungiri,0.0,24.0,120.0,3.5,,,,,,,,,,,,
+Rwangura,NYAK-KATONYA,Rukungiri,0.0,98.0,60.0,0.9950000000000001,,,,,,,,,,,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,39.0,30.0,0.25,,,,,,,,,,30.0,,
+Ruhonwa,NYAK-KATONYA,Rukungiri,2128.3,35.0,0.25,0.0,,,,,,,,,,,,
+Rwangura,NYAK-KATONYA,Rukungiri,1918.8,69.0,30.0,2.75,,,,,,,,,,,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,1768.0,55.0,15.0,0.8,,,,,,,,,,,,
+Nyaruziba,NYAK-KAFUNJO,Rukungiri,0.0,53.0,20.0,0.5,80.0,,,,,,,,,,,
+Nyakakizi,NYAK-KAFUNJO,Rukungiri,1847.9,48.0,2.0,0.0,,,,,,,,5.0,,,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2137.5,38.0,120.0,0.5,,,,,,,,,,,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1980.0,60.0,60.0,0.9,,,,,,,,,,15.0,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,1646.0,67.0,5.0,0.8999999999999999,,,,,,,,,,,,
+Rujoka,NYAK-KATONYA,Rukungiri,2045.5,60.0,120.0,2.0,,,,,,,,,,10.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,28.0,30.0,0.07500000000000001,,,,,,,,,,0.0,,
+Nyakashenyi,NYAK-KATONYA,Rukungiri,1930.1,71.0,30.0,0.25,,,,,,,,,,,,
+Nyabishaki,NYAK-KAFUNJO,Rukungiri,0.0,28.0,30.0,1.0,70.0,,,,,,,,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,1836.1,39.0,25.0,0.25,,,,,,,,,,,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,37.0,60.0,0.5,,,,,,,,,,30.0,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,1759.8,56.0,45.0,0.249975,,,,,,,,,,10.0,,
+Nyakashenyi,NYAK-KATONYA,Rukungiri,1638.1,42.0,60.0,0.0,,,,,,,,,,,,
+Bugandaza,NYAK-KAFUNJO,Rukungiri,1844.0,50.0,60.0,1.9,,,,,,,,,,,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2049.3,34.0,120.0,0.0,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1906.0,80.0,8.0,0.5,,,,,,,,,,20.0,,
+Rutooma,NYAK-KATONYA,Rukungiri,2005.5,46.0,60.0,0.25,,,,,,,,,,15.0,,
+Kyanika A,Ndago,Rukungiri,,95.0,,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KATONYA,Rukungiri,2006.7,48.0,30.0,0.75,,,,,,,,,,30.0,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,70.0,120.0,0.5,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,28.0,30.0,0.07500000000000001,,,,,,,,,,0.0,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,2085.3,55.0,5.0,0.225,,,,,,,,,,,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,27.0,30.0,0.8,25.0,3.5,,,,,,,,,,
+Nyakashenyi,NYAK-KATONYA,Rukungiri,232.8,37.0,90.0,2.5,12.0,,,,,,,5.0,,,,
+Kafunjo Cell,NYAK-KAFUNJO,Rukungiri,1832.1,40.0,30.0,0.09999999999999998,,,,,,,,,,,,
+Nyaruziba,NYAK-KAFUNJO,Rukungiri,0.0,60.0,60.0,0.75,,,,,,,,,,,,
+Bugandaza,NYAK-KAFUNJO,Rukungiri,1865.8,59.0,30.0,0.6,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1965.2,70.0,5.0,0.2499999999999999,,,,,,,,,,10.0,,
+Bugandaza,NYAK-KAFUNJO,Rukungiri,1820.5,73.0,60.0,0.5,,,,,,,,,,20.0,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2159.6,78.0,180.0,0.0,,,,,,,,,,,,
+Kajumera,NYAK-KATONYA,Rukungiri,1901.4,81.0,10.0,0.30000000000000004,,,,,,,,,,5.0,,
+Rujoka,NYAK-KATONYA,Rukungiri,1943.5,35.0,30.0,0.3,45.0,,,,,,,,,,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,0.0,52.0,20.0,0.995,36.0,,,,,,,6.0,,,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,29.0,40.0,0.75,,,,,,,,,,,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,34.0,120.0,0.5,,,,,,,,,,5.0,,
+Rwangura,NYAK-KATONYA,Rukungiri,1893.8,74.0,20.0,0.7,,,,,,,,,,,,
+Ruhonwa,NYAK-KATONYA,Rukungiri,2130.8,80.0,60.0,0.25,,,,,,,,,,,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,1785.5,30.0,45.0,0.85,55.0,,,,,,,,,6.0,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1777.0,97.0,6.0,0.85,,,,,,,,,,50.0,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1822.2,48.0,10.0,1.0,,,,,,,,,,38.0,,
+Bugandaza,NYAK-KAFUNJO,Rukungiri,1891.6,24.0,90.0,0.5,,,,,,,,,,20.0,,
+Nyamabare,NYAK-KAFUNJO,Rukungiri,0.0,55.0,60.0,1.5,50.0,,,,,,,,,15.0,,
+Nyakakizi,NYAK-KAFUNJO,Rukungiri,0.0,41.0,20.0,0.0,,,,,,,,,,,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1806.3,33.0,10.0,2.75,,,,,,,,28.0,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,1835.9,29.0,30.0,0.75,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,73.0,,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KATONYA,Rukungiri,2072.9,47.0,120.0,0.25,,,,,,,,,,10.0,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,1751.5,32.0,30.0,0.4975,,,,,,,,,,,,
+Rugazi,NYAK-KAFUNJO,Rukungiri,1770.3,44.0,10.0,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,83.0,,0.0,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,53.0,20.0,0.45,,,,,,,,4.0,,,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,0.0,23.0,90.0,0.248,,,,,,,,,,14.0,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1822.4,66.0,20.0,0.75,,,,,,,,,,35.0,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,24.0,10.0,0.175,16.0,,,,,,,,,30.0,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,40.0,40.0,0.0,,,,,,,,,,50.0,80.0,
+Rutooma,NYAK-KATONYA,Rukungiri,2008.4,70.0,25.0,0.75,,,,,,,,,,30.0,,
+Rushinya,Burama,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Nyakakizi,NYAK-KAFUNJO,Rukungiri,1830.9,58.0,30.0,4.75,,,,,,,,,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,2079.5,75.0,30.0,0.75,,,,,,,,1.5,,12.0,,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,95.0,15.0,0.825,13.0,,,,,,,,,80.0,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1844.8,62.0,30.0,0.25,,,,,,,,,,6.0,,
+Kamira,Ndagu,Rukungiri,,75.0,,0.0,,,,,,,,,,,,
+Nyakashenyi,NYAK-KATONYA,Rukungiri,8.1,68.0,15.0,0.0,27.0,,,,,,,1.0,,,,
+Ruhonwa,NYAK-KATONYA,Rukungiri,0.0,39.0,30.0,0.5,4.0,,,,,,,,,,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,28.0,30.0,0.75,,,,,,,,,,5.0,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,30.0,60.0,0.25,,,,,,,,,,,,
+Kafunjo Cell,NYAK-KAFUNJO,Rukungiri,1829.2,48.0,30.0,0.15000000000000002,8.0,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1957.1,30.0,30.0,1.75,20.0,,,,,,,,,10.0,10.0,
+Rutooma,NYAK-KATONYA,Rukungiri,2061.0,75.0,60.0,0.0,,,,,,,,,,40.0,,
+Rugazi,NYAK-KAFUNJO,Rukungiri,1744.4,77.0,40.0,0.75,,,,,,,,,,20.0,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,1647.5,45.0,30.0,0.75,,,,,,,,,,,,
+Rwangura,NYAK-KATONYA,Rukungiri,0.0,27.0,45.0,1.495,40.0,,,,,,,,,30.0,0.0,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,78.0,20.0,0.5,55.0,,,,,,,4.0,,5.0,0.0,
+Kitookye,Ndago,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,68.0,6.0,0.325,45.0,,,,,,,2.0,,50.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,68.0,6.0,0.325,13.0,,,,,,,2.0,,50.0,,
+Kikoni A,Ndago,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Rwangura,NYAK-KATONYA,Rukungiri,0.0,52.0,10.0,2.995,70.0,,,,,,,,,,,
+Nyakakizi,NYAK-KAFUNJO,Rukungiri,0.0,25.0,30.0,0.25,,,,,,,,0.0,,0.0,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1865.6,19.0,10.0,0.75,,,,,,,,,,50.0,,
+Rushinya,Burama,Rukungiri,,64.0,,0.0,,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,2126.9,70.0,60.0,0.4995,50.0,,,,,,,,,9.0,,
+Kitookye,Ndago,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Bugandaza,NYAK-KAFUNJO,Rukungiri,1775.9,50.0,15.0,0.9,,,,,,,,,,,,
+Ruhonwa,NYAK-KATONYA,Rukungiri,2083.3,37.0,60.0,0.25,40.0,,,,,,,,,,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1608.4,47.0,25.0,1.25,,,,,,,,,,30.0,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1950.8,42.0,60.0,1.0,,,,,,,,,,5.0,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,1782.6,33.0,30.0,0.35,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,80.0,30.0,0.5,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1871.9,30.0,30.0,0.25,,,,,,,,,,30.0,,
+Kafunjo Cell,NYAK-KAFUNJO,Rukungiri,1812.4,24.0,10.0,0.75,26.0,,,,,,,,,,,
+Nyakashenyi,NYAK-KATONYA,Rukungiri,1627.0,61.0,40.0,1.0,58.0,,,,,,,,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,1729.6,50.0,40.0,0.4975,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,28.0,60.0,0.75,,,,,,,,,,,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1979.4,49.0,25.0,0.8,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,23.0,,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,48.0,80.0,0.0,80.0,,,,,,,4.5,,18.0,,
+Kyanika B,Ndago,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Nyamabare,NYAK-KAFUNJO,Rukungiri,0.0,62.0,50.0,1.0,,,,,,,,,,20.0,,
+Rugazi,NYAK-KAFUNJO,Rukungiri,1772.3,60.0,10.0,0.0,,,,,,,,,,,,
+Ruhonwa,NYAK-KATONYA,Rukungiri,2133.1,50.0,30.0,0.0,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1872.1,35.0,30.0,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,78.0,60.0,0.0,,,,,,,,1.5,,6.0,,
+Kyanika A,Ndagu,Rukungiri,,19.0,,0.0,,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,1925.2,26.0,30.0,0.25,,,,,,,,,,,,
+Rwangura,NYAK-KATONYA,Rukungiri,0.0,55.0,20.0,0.495,,,,,,,,,,,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2072.7,28.0,10.0,0.75,,,,,,,,,,,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1893.0,42.0,30.0,0.25,,,,,,,,,,0.0,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,0.0,36.0,30.0,0.0,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1867.0,50.0,60.0,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,72.0,,0.0,,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,2103.9,60.0,45.0,0.5,,,,,,,,,,12.0,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2088.9,26.0,60.0,0.5,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1959.1,32.0,60.0,0.5,50.0,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1820.2,54.0,30.0,1.0,,,,,,,,,,15.0,,
+Torotoro,Ndago,Rukungiri,,54.0,,0.0,,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,1737.5,58.0,30.0,0.5,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,78.0,,0.0,,,,,,,,,,,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,0.0,37.0,60.0,0.0,16.0,,,,,,,,,9.0,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,50.0,30.0,0.0,,,,,,,,,,38.0,,
+Kamira,Ndagu,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,43.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1879.1,79.0,30.0,0.0,,,,,,,,,,,,
+Nyaruziba,NYAK-KAFUNJO,Rukungiri,0.0,65.0,35.0,0.25,,,,,,,,,,40.0,,
+Kikoni B,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,79.0,,0.0,,,,,,,,,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,1812.7,38.0,30.0,1.0,,,,,,,,2.0,,,,
+Rushinya,Burama,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,52.0,20.0,0.25,,,,,,,,,,60.0,,
+Nyakaju,Ndago,Rukungiri,,85.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1956.9,30.0,30.0,0.25,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,23.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,77.0,,0.0,,,,,,,,,,,,
+Nyakabungo,NYAK-KATONYA,Rukungiri,1992.2,46.0,40.0,0.35,,,,,,,,,,100.0,,
+Nyakabungo,NYAK-KATONYA,Rukungiri,1944.1,76.0,40.0,0.6,,,,,,,,,,140.0,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,2030.6,49.0,20.0,0.25,,,,,,,,1.5,,,,
+Kitookye,Ndago,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,99.0,10.0,0.07500000000000001,,,,,,,,,,50.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,99.0,10.0,0.07500000000000001,,,,,,,,,,50.0,,
+Karuhara,Ndago,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Nyamabare,NYAK-KAFUNJO,Rukungiri,0.0,39.0,30.0,0.5,,,,,,,,,,300.0,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,58.0,30.0,0.5,,,,,,,,,,,,
+Rutooma,NYAK-KATONYA,Rukungiri,1958.7,25.0,60.0,0.25,,,,,,,,,,20.0,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,53.0,30.0,0.0,,,,,,,,,,50.0,50.0,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,90.0,120.0,0.5,,,,,,,,,,20.0,,
+Rushinya,Burama,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,73.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,74.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,26.0,,0.0,,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,1737.7,38.0,30.0,1.0,,,,,,,,,,20.0,,
+Kamira,Ndagu,Rukungiri,,26.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,75.0,,0.0,,,,,,,,,,,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,60.0,60.0,0.75,,,,,,,,,,20.0,,
+Rushinya,Burama,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Ruhonwa,NYAK-KATONYA,Rukungiri,1937.6,50.0,30.0,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KATONYA,Rukungiri,2018.8,48.0,20.0,0.75,,,,,,,,,,70.0,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1864.2,40.0,30.0,0.0,,,,,,,,,,35.0,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,25.0,20.0,0.325,80.0,,,,,,,2.0,,4.0,,
+Kagati,Burama,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1840.9,39.0,30.0,0.75,170.0,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1854.0,57.0,60.0,1.0,,,,,,,,,,20.0,,
+Rukungiri,Ndago,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Nyabishaki,NYAK-KAFUNJO,Rukungiri,0.0,68.0,60.0,1.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,35.0,70.0,0.5,,,,,,,,6.0,,45.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,35.0,70.0,0.5,,,,,,,,6.0,,45.0,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,35.0,120.0,0.5,75.0,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,85.0,,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KATONYA,Rukungiri,2032.4,28.0,60.0,0.25,,,,,,,,,,5.0,,
+Kyanika B,Ndago,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Rujoka,NYAK-KATONYA,Rukungiri,1954.0,28.0,30.0,0.3,45.0,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,63.0,,0.0,,,,,,,,,,,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,0.0,70.0,10.0,0.5,,,,,,,,,,30.0,,
+Nyakatokye,Ndago,Rukungiri,,88.0,,0.0,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,18.0,10.0,3.0,40.0,,,53.0,,,,,,0.0,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,50.0,25.0,1.0,,,,,,,,,,30.0,,
+Rushinya,Burama,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,31.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,28.0,120.0,1.5,50.0,,,,,,,,,10.0,,
+Nyakaju,Ndago,Rukungiri,,85.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,74.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,59.0,,0.0,,,,,,,,,,,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1859.9,50.0,30.0,0.25,,,,,,,,,,20.0,,
+Kikoni B,Ndago,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,80.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,23.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,41.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Bugandaza,NYAK-KAFUNJO,Rukungiri,1823.4,58.0,60.0,0.325,,,,,,,,,,50.0,1.0,
+Kagati,Burama,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Kagasha,NYAK-KAFUNJO,Rukungiri,2158.2,28.0,60.0,1.825,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,53.0,30.0,1.5,,,,,,,,,,15.0,,
+Kyanika A,Ndagu,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Rujoka,NYAK-KATONYA,Rukungiri,1999.3,80.0,30.0,0.36,34.0,,,,26.0,,,,,40.0,,
+Kikoni A,Ndago,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Nyaruziba,NYAK-KAFUNJO,Rukungiri,0.0,67.0,35.0,0.75,,,,,,,,3.0,,120.0,,
+Kyanika A,Ndagu,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,40.0,120.0,1.0,,,,110.0,,,,,,20.0,1.0,
+Nyakaju,Ndago,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,28.0,90.0,0.25,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,52.0,45.0,0.75,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,38.0,20.0,0.5,22.0,,,,,,,10.0,,,,
+Kikoni B,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Kajumera,NYAK-KATONYA,Rukungiri,0.0,27.0,30.0,0.875,,,,,,,,,,40.0,,
+Kikoni A,Ndago,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,26.0,60.0,0.25,,,,,,,,,,144.0,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,80.0,30.0,2.75,,,,,,,,,,120.0,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1995.0,36.0,45.0,0.75,,,,,,,,,,26.0,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1884.4,80.0,15.0,1.75,,,,,,,,,,120.0,,
+Kabeshekyere,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,58.0,240.0,1.0,85.0,,,,,,,9.0,,15.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,58.0,240.0,1.0,85.0,,,,,,,9.0,,15.0,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2030.5,49.0,150.0,0.5,50.0,,,,,,,,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,1836.8,85.0,30.0,1.75,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,51.0,,0.0,,,,,,,,,,,,
+Kafunjo Cell,NYAK-KAFUNJO,Rukungiri,0.0,54.0,15.0,0.875,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KATONYA,Rukungiri,2012.6,49.0,25.0,1.75,,,,,,,,,,35.0,100.0,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1952.0,65.0,10.0,1.25,20.0,,,,,,,,,,15.0,
+Kahoro,Burama,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Nyakashenyi,NYAK-KATONYA,Rukungiri,982.0,42.0,30.0,1.5,,,,,,,,5.0,,,,
+Kahoro,Burama,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,80.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,34.0,,0.0,,,,,,,,,,,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,43.0,60.0,0.25,35.0,,,,,,,,,25.0,,
+Rushinya,Burama,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,57.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,42.0,80.0,0.75,36.0,,,,,,,5.0,,30.0,,
+Rutooma,NYAK-KATONYA,Rukungiri,2022.3,50.0,50.0,0.6,,,,,,,,110.0,,30.0,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,29.0,30.0,1.5,,,,,,,,,,15.0,,
+Kafunjo Cell,NYAK-KAFUNJO,Rukungiri,1818.3,33.0,10.0,7.8,52.0,,,,,,,,,80.0,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1971.1,45.0,30.0,1.8,,,,,,,,,,96.0,,
+Kajumera,NYAK-KATONYA,Rukungiri,1882.4,36.0,60.0,0.8,,,,,,,,,,30.0,,
+Kyanika B,Ndago,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,78.0,,0.0,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,34.0,30.0,2.0,25.0,,,,,,,,,,,
+Nyakashenyi,NYAK-KATONYA,Rukungiri,1131.1,45.0,60.0,0.75,28.0,,,,,,,4.0,,,,
+Nyakasharara,Burama,Rukungiri,,20.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,64.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,75.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Rujoka,NYAK-KATONYA,Rukungiri,2034.2,35.0,30.0,1.0,60.0,,,,,,,,,30.0,,
+Rwemirongo,Burama,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,26.0,,0.0,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1941.5,54.0,30.0,1.75,66.0,,,,,,,,,96.0,,
+Kibarama,Burama,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Nyaruziba,NYAK-KAFUNJO,Rukungiri,0.0,24.0,60.0,0.25,50.0,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Kafunjo Cell,NYAK-KAFUNJO,Rukungiri,0.0,26.0,30.0,0.375,60.0,5.5,,,,,,5.0,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,2073.7,34.0,60.0,0.75,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Rwangura,NYAK-KATONYA,Rukungiri,0.0,60.0,40.0,2.495,135.0,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kajumera,NYAK-KATONYA,Rukungiri,1965.7,29.0,20.0,0.65,,,,,,,,,,2.0,,
+Kibarama,Burama,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Kajumera,NYAK-KATONYA,Rukungiri,1822.6,58.0,30.0,2.75,,,,,,,,,,120.0,,
+Kagati,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,64.0,,0.0,,,,,,,,,,,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,53.0,30.0,0.5,42.0,,3.0,,,,,14.0,,30.0,,
+Kyanika A,Ndago,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,26.0,,0.0,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,48.0,60.0,1.25,65.0,,,,,,,6.0,,25.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,48.0,60.0,1.25,65.0,,,,,,,6.0,,25.0,,
+Nyakasharara,Burama,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,87.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,72.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,26.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,43.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Rugandu,NYAK-KAFUNJO,Rukungiri,2059.5,67.0,30.0,0.49975,,,,120.0,,,,,,7.0,,
+Torotoro,Ndago,Rukungiri,,76.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,53.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,34.0,60.0,1.0,70.0,,,,,,,,,38.0,,
+Kagati,Burama,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Nyabishaki,NYAK-KAFUNJO,Rukungiri,0.0,46.0,60.0,0.25,15.0,,,,,,,,,,,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,40.0,30.0,0.825,45.0,,,,,,,3.0,,40.0,,
+Kagati,Burama,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,34.0,,0.0,,,,,,,,,,,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,25.0,20.0,0.25,24.0,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,63.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,59.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,64.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,34.0,60.0,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Nyakakizi,NYAK-KAFUNJO,Rukungiri,1865.4,47.0,30.0,0.8,250.0,,,,,,,,,,,
+Nyabishaki,NYAK-KAFUNJO,Rukungiri,2173.3,52.0,240.0,1.05,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,31.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,68.0,,0.0,,,,,,,,,,,,
+Kagati,Kagati,Rukungiri,,61.0,,0.0,,,,,,,,,,,,
+Rujoka,NYAK-KATONYA,Rukungiri,1977.7,39.0,30.0,0.25,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,45.0,30.0,0.55,35.0,,,,,,,,,30.0,,
+Kagati,Burama,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,40.0,20.0,0.825,,,,,,,,5.0,,100.0,,
+Nyakasharara,Burama,Rukungiri,,51.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,57.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,34.0,,0.0,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,68.0,240.0,0.25,15.0,,,,,,,3.0,,30.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,68.0,240.0,0.25,15.0,,,,,,,3.0,,30.0,,
+Kagati,Burama,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,46.0,,0.0,,,,,,,,,,,,
+Bugomora,NYAK-KAFUNJO,Rukungiri,0.0,46.0,60.0,0.75,,,,,,,,,,30.0,5.0,
+Kibarama,Burama,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1938.4,48.0,30.0,0.4975,,,,,,,,,,9.0,,
+Kyanika A,Ndagu,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1947.5,45.0,120.0,0.8,57.0,,,,,,,,,20.0,,
+Kikoni B,Ndago,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,57.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,63.0,,0.0,,,,,,,,,,,,
+Nyabishaki,NYAK-KAFUNJO,Rukungiri,2174.6,65.0,240.0,0.5,110.0,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,63.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2066.4,50.0,30.0,0.8500000000000001,15.0,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,53.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,54.0,,0.0,,,,,,,,,,,,
+Bugandaza,NYAK-KAFUNJO,Rukungiri,1876.0,30.0,120.0,0.325,25.0,,,,,,,11.0,,50.0,,
+Kamira,Ndagu,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,0.0,40.0,120.0,0.875,,,,100.0,,,,5.0,,30.0,15.0,
+Kikoni B,Ndago,Rukungiri,,46.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,20.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,31.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,23.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,41.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,77.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,72.0,,0.0,,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,1896.6,46.0,60.0,0.25,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,1764.0,30.0,20.0,1.75,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,0.0,53.0,6.0,0.95,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,57.0,,0.0,,,,,,,,,,,,
+Ruhonwa,NYAK-KATONYA,Rukungiri,2123.2,31.0,60.0,1.5,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndago,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,41.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,31.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,64.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,46.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndago,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,52.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,52.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,1737.3,40.0,60.0,0.74975,11.0,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,51.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,69.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,41.0,,0.0,,,,,,,,,,,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1951.9,62.0,30.0,0.25,,,,,,,,,,30.0,,
+Nyakasharara,Burama,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1979.2,38.0,50.0,1.4,,,,,,,,,,180.0,,
+Karuhara,Ndago,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,53.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,54.0,,0.0,,,,,,,,,,,,
+Nyaruziba,NYAK-KAFUNJO,Rukungiri,0.0,43.0,35.0,0.5,2.5,,,,,,,,,48.0,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,1647.6,39.0,30.0,1.0,39.0,,,,,,,,,19.0,,
+Kahoro,Burama,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1918.4,30.0,20.0,0.75,60.0,,,,,,,,,30.0,,
+Kagati,Burama,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,82.0,60.0,0.25,50.0,,,,,,,,,2.0,,
+Kyanika A,Ndagu,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,83.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kashenyi,NYAK-KATONYA,Rukungiri,0.0,21.0,120.0,0.25,,,,,,,,,,5.0,0.0,
+Kagati,Burama,Rukungiri,,23.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Nyamabare,NYAK-KAFUNJO,Rukungiri,0.0,76.0,20.0,0.30000000000000004,70.0,,,,,,,,,60.0,0.0,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,51.0,40.0,1.75,155.0,,,,,,,,,140.0,,
+Kahoro,Burama,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,51.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,86.0,,0.0,,,,,,,,,,,,
+Nyamabare,NYAK-KAFUNJO,Rukungiri,0.0,27.0,30.0,1.0,,,,,,,,,,30.0,,
+Kamira,Ndagu,Rukungiri,,63.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,64.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Nyakakizi,NYAK-KAFUNJO,Rukungiri,0.0,50.0,20.0,1.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,67.0,60.0,0.5,50.0,,,,,,,4.5,,6.0,,
+Kyanyamishwa,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Nyamabare,NYAK-KAFUNJO,Rukungiri,0.0,20.0,60.0,0.75,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KATONYA,Rukungiri,2008.0,38.0,120.0,0.0,,,,,,,,,,15.0,,
+Kyanyamishwa,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1950.6,27.0,60.0,0.8,30.0,,,,,,,1.2,,150.0,,
+Kyanyamishwa,Ndago,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,66.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,23.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,46.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kajumera,NYAK-KATONYA,Rukungiri,1863.5,35.0,30.0,0.75,,,,,,,,,,72.0,,
+Nyakabungo,NYAK-KATONYA,Rukungiri,1971.8,62.0,40.0,0.25,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,30.0,20.0,1.5,,,,,,,,,,150.0,,
+Kyanyamishwa,Ndago,Rukungiri,,61.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,53.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,34.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,26.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,74.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,57.0,,0.0,,,,,,,,,,,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1941.0,75.0,120.0,0.75,,,,400.0,,,,,,50.0,,
+Torotoro,Ndago,Rukungiri,,82.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,31.0,,0.0,,,,,,,,,,,,
+Nyakabungo,NYAK-KATONYA,Rukungiri,0.0,52.0,45.0,0.75,,,,,,,,,,60.0,,
+Kagati,Burama,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,68.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kijubwe,NYAK-KAFUNJO,Rukungiri,0.0,53.0,5.0,0.9950000000000001,70.0,,,,,,,4.0,,,,
+Nyakabungo,NYAK-KATONYA,Rukungiri,0.0,76.0,30.0,1.875,60.0,,,,,,,,,60.0,30.0,
+Kahoro,Burama,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,52.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,26.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,65.0,80.0,4.75,,,,,,,,5.0,,230.0,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2092.6,42.0,120.0,0.55,,,,,,,,,,40.0,,
+Karuhara,Ndago,Rukungiri,,26.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,43.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,52.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,24.0,5.0,0.0,150.0,,,,,,,,,200.0,,
+Nyabishaki,NYAK-KAFUNJO,Rukungiri,2109.4,35.0,240.0,0.25,140.0,,,,,,,,,,,
+Rutooma,NYAK-KATONYA,Rukungiri,2002.0,62.0,30.0,1.5,,,,70.0,,,,,,40.0,,
+Rushinya,Burama,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kajumera,NYAK-KATONYA,Rukungiri,1780.8,50.0,10.0,0.8,115.0,,,,150.0,,,,,360.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,50.0,10.0,0.75,50.0,,,,,,,,,200.0,800.0,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,50.0,10.0,0.75,50.0,,,,,,,,,200.0,800.0,
+Karuhara,Ndago,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Mugurante,NYAK-KATONYA,Rukungiri,0.0,57.0,60.0,2.75,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,68.0,,0.0,,,,,,,,,,,,
+Ndyabihanga,NYAK-KATONYA,Rukungiri,2048.3,50.0,30.0,0.75,,,,,,,,6.0,,,,
+Kahoro,Burama,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,80.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,34.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,80.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,52.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,51.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Kajubwe,NYAK-KAFUNJO,Rukungiri,1813.9,53.0,25.0,2.5,,,,,,,,,,150.0,,
+Nyakasharara,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,31.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1887.2,50.0,60.0,1.0,,,,,,,,,,20.0,,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,50.0,60.0,2.5,200.0,,,,,,,9.0,,120.0,15.0,
+Karuhara,Ndago,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,34.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,34.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,17.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,53.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,59.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,72.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,59.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,,,0.0,,,,,,,,,,,,
+Nyaruziba,NYAK-KAFUNJO,Rukungiri,0.0,55.0,20.0,1.75,200.0,,10.0,280.0,,,,,,0.0,,
+Kabeshekyere,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,59.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,31.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,54.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,80.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,74.0,,0.0,,,,,,,,,,,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,0.0,78.0,30.0,2.75,25.0,,,160.0,,,,8.0,,60.0,,
+Kyanika B,Ndago,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Kafunjo Cell,NYAK-KAFUNJO,Rukungiri,0.0,35.0,15.0,0.875,,,,,,,,,,40.0,,
+Kikoni A,Ndago,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndago,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,73.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,22.0,,0.0,,,,,,,,,,,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,39.0,60.0,0.75,55.0,,,,,,,,,76.0,,
+Nyakatokye,Ndago,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,67.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,34.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,51.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,54.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,62.0,,0.0,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1952.2,80.0,2.0,1.5,70.0,,,,,,,,,12.0,,
+Kibarama,Burama,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,0.0,58.0,15.0,1.875,55.0,,,,,,,6.0,,30.0,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,0.0,70.0,25.0,0.875,,,,,,,,,,5.0,,
+Rwemirongo,Burama,Rukungiri,,37.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kikoni B,Ndago,Rukungiri,,32.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,71.0,,0.0,,,,,,,,,,,,
+Mukajagiro,NYAK-KATONYA,Rukungiri,1870.6,52.0,60.0,1.5,,,,,,,,,,70.0,,
+Kyanika A,Ndagu,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Nyakakizi,NYAK-KAFUNJO,Rukungiri,1860.0,73.0,60.0,0.25,55.0,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,47.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,12.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,65.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,25.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,75.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,63.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,54.0,,0.0,,,,,,,,,,,,
+Rugazi,NYAK-KAFUNJO,Rukungiri,1782.3,30.0,30.0,0.5,,,,,,,,,,25.0,,
+Kitookye,Ndago,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,52.0,,0.0,,,,,,,,,,,,
+Rukungiri,Ndago,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,75.0,,0.0,,,,,,,,,,,,
+Nyakabare,NYAK-KATONYA,Rukungiri,0.0,39.0,20.0,0.9,,,,,,,,,,25.0,,
+Kikoni A,Ndago,Rukungiri,,80.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,53.0,,0.0,,,,,,,,,,,,
+Kyanyamishwa,Ndago,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,54.0,5.0,0.75,45.0,,,35.0,,,,3.0,,400.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,54.0,5.0,0.75,45.0,,,35.0,,,,3.0,,400.0,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,1815.8,35.0,60.0,1.25,,,,,,,,,,300.0,,
+Karuhara,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,44.0,60.0,1.75,250.0,,3.0,,,,,14.0,,60.0,4.0,
+Nyakaju,Ndago,Rukungiri,,27.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,28.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,30.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,40.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndago,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Kagorogoro,NYAK-KAFUNJO,Rukungiri,0.0,29.0,20.0,0.75,90.0,,,,,,,10.0,,37.0,,
+Kabeshekyere,Burama,Rukungiri,,44.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,45.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Kyanika B,Ndago,Rukungiri,,55.0,,0.0,,,,,,,,,,,,
+Nyakabare,NYAK-KATONYA,Rukungiri,1862.4,77.0,60.0,2.325,,,,450.0,,,,2.0,,100.0,,
+Rushinya,Burama,Rukungiri,,21.0,,0.0,,,,,,,,,,,,
+Torotoro,Ndago,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Kitookye,Ndago,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,43.0,,0.0,,,,,,,,,,,,
+Kagati,Burama,Rukungiri,,29.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Kikoni A,Ndago,Rukungiri,,35.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,70.0,,0.0,,,,,,,,,,,,
+Nyakabungo,NYAK-KATONYA,Rukungiri,0.0,60.0,60.0,1.75,150.0,,,,,,,8.0,,50.0,30.0,
+Rwemirongo,Burama,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,63.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,50.0,,0.0,,,,,,,,,,,,
+Rushinya,Burama,Rukungiri,,80.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,53.0,,0.0,,,,,,,,,,,,
+Nyakasharara,Burama,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Kafunjo Cell,NYAK-KAFUNJO,Rukungiri,0.0,28.0,5.0,1.35,80.0,,,,,,,10.0,,15.0,50.0,
+Kibarama,Burama,Rukungiri,,59.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Kamira,Ndagu,Rukungiri,,57.0,,0.0,,,,,,,,,,,,
+Kajumera,NYAK-KATONYA,Rukungiri,0.0,25.0,30.0,0.375,60.0,,,,,,,6.0,,,,
+Nyakasharara,Burama,Rukungiri,,24.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,53.0,,0.0,,,,,,,,,,,,
+Bugandaza,NYAK-KAFUNJO,Rukungiri,1873.4,43.0,60.0,2.5,,,,300.0,,,,6.0,,250.0,,
+Kabeshekyere,Burama,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,43.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,57.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,39.0,,0.0,,,,,,,,,,,,
+Kahoro,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,54.0,,0.0,,,,,,,,,,,,
+Karuhara,Ndago,Rukungiri,,48.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,36.0,,0.0,,,,,,,,,,,,
+Rwemirongo,Burama,Rukungiri,,57.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,60.0,,0.0,,,,,,,,,,,,
+Nyakabungo,NYAK-KATONYA,Rukungiri,2165.1,70.0,15.0,5.25,,,,,,,,,,300.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,25.0,240.0,1.25,95.0,,,,,,,6.5,,35.0,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,25.0,240.0,1.25,95.0,,,,,,,6.5,,35.0,,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,56.0,5.0,1.75,90.0,,,,,,,8.0,,65.0,,
+Rwemirongo,Burama,Rukungiri,,58.0,,0.0,,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,63.0,,0.0,,,,,,,,,,,,
+Kajumera,NYAK-KATONYA,Rukungiri,0.0,55.0,30.0,1.75,100.0,,,,,,,8.0,,300.0,,
+Karuhara,Ndago,Rukungiri,,56.0,,0.0,,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,42.0,,0.0,,,,,,,,,,,,
+Kabijaga,NYAK-KAFUNJO,Rukungiri,0.0,88.0,30.0,1.875,300.0,7.0,,250.0,,,,,,50.0,,
+Nyakatokye,Ndago,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Nyakaju,Ndago,Rukungiri,,41.0,,0.0,,,,,,,,,,,,
+Kyanika A,Ndagu,Rukungiri,,49.0,,0.0,,,,,,,,,,,,
+Nyakabungo,NYAK-KATONYA,Rukungiri,2006.7,64.0,30.0,2.7,,,,,,,,,,240.0,,
+Nyakasharara,Burama,Rukungiri,,38.0,,0.0,,,,,,,,,,,,
+Nyakatokye,Ndago,Rukungiri,,79.0,,0.0,,,,,,,,,,,,
+Kabuzigye,NYAK-KAFUNJO,Rukungiri,1973.9,60.0,30.0,1.75,40.0,,,,,,,,,150.0,,
+Mushunga,NYAK-KATONYA,Rukungiri,0.0,56.0,10.0,4.25,90.0,,,,,,,,,,,
+Kabeshekyere,Burama,Rukungiri,,33.0,,0.0,,,,,,,,,,,,
+Nyarubira,NYAK-KATONYA,Rukungiri,2046.6,27.0,180.0,3.5,90.0,,,,,,,,,,,
+Kibarama,Burama,Rukungiri,,61.0,,0.0,,,,,,,,,,,,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,30.0,6.0,0.07499999999999996,45.0,,,,,,,,,40.0,4.0,
+Rutooma,NYAK-KAFUNJO,Rukungiri,0.0,76.0,5.0,4.75,110.0,,,,,,,,,500.0,,
+Kibarama,Burama,Rukungiri,,31.0,,0.0,,,,,,,,,,,,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,32.0,60.0,1.5,110.0,1.5,,,,,,11.0,,100.0,15.0,
+Bugarama,NYAK-KATONYA,Rukungiri,0.0,32.0,60.0,1.5,110.0,1.5,,,,,,11.0,,100.0,15.0,
+Maregamo,Cyahafi,Kisoro,,69.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,81.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,36.0,,0.0,,,,,,,,,,,,
+Gashoro,CHAHAFI,Kisoro,2024.0,85.0,30.0,0.19999999999999998,30.0,,,,,,,1.7,,,,
+Gashoro,CHAHAFI,Kisoro,1929.0,29.0,35.0,0.30000000000000004,,,,,,,,4.0,,,,
+Maregamo,Cyahafi,Kisoro,,78.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,79.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,83.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,70.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,84.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,2033.0,43.0,35.0,0.30000000000000004,55.0,,,,,,,3.5,,,,
+Gashoro,CHAHAFI,Kisoro,1929.0,65.0,35.0,0.4,70.0,,,,,,,3.0,,2.0,,
+Maregamo,Cyahafi,Kisoro,,83.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,1942.0,78.0,30.0,0.3,55.0,,,,,,,3.8,,2.0,,
+Karambi,CHAHAFI,Kisoro,2036.0,35.0,30.0,0.19999999999999998,40.0,,,,,,,2.5,,1.0,,
+Maregamo,Cyahafi,Kisoro,,53.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,39.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,41.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,2083.0,39.0,40.0,0.30000000000000004,50.0,,,,,,,2.5,,,,
+Bukerahi,Chimbumba,Kisoro,,28.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,75.0,,0.0,,,,,,,,,,,,
+Kabingo,CHAHAFI,Kisoro,1856.0,72.0,30.0,0.5,65.0,,,,,,,2.8,,,,
+Maregamo,Cyahafi,Kisoro,,25.0,,0.0,,,,,,,,,,,,
+Gashoro,CHAHAFI,Kisoro,1976.0,82.0,30.0,0.4,70.0,,,,,,,2.5,,2.0,,
+Kabyaza,Chahafi,Kisoro,,27.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,2068.0,27.0,40.0,0.19999999999999998,35.0,,,,,,,2.3,,1.0,,
+Karambi,CHAHAFI,Kisoro,2104.0,27.0,30.0,0.7000000000000001,60.0,,,,45.0,,,5.0,,,,
+Bukerahi,Chimbumba,Kisoro,,29.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,65.0,,0.0,,,,,,,,,,,,
+Kabingo,CHAHAFI,Kisoro,1893.0,21.0,35.0,0.30000000000000004,55.0,,,,,,,3.0,,,,
+Maregamo,Cyahafi,Kisoro,,20.0,,0.0,,,,,,,,,,,,
+Gashoro,CHAHAFI,Kisoro,1945.0,40.0,30.0,0.39999999999999997,60.0,,,,,,,2.5,,3.0,,
+Karambi,CHAHAFI,Kisoro,2027.0,84.0,30.0,0.30000000000000004,65.0,,,,,,,2.5,,3.0,,
+Gihuyaga,Chahafi,Kisoro,,30.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,1896.9,25.0,60.0,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,62.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,74.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,73.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,24.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,42.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,63.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,27.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,60.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,2050.0,20.0,40.0,0.30000000000000004,55.0,,,,,,,2.8,,2.0,,
+Kabyaza,Chahafi,Kisoro,,37.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,62.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,24.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,80.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,2065.8,26.0,120.0,0.3,80.0,,,,,,,11.0,,,,
+Bukerahi,Chimbumba,Kisoro,,58.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,49.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,37.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,59.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,22.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,84.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,38.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,28.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,54.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,32.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,33.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,27.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,1998.0,25.0,40.0,0.3,60.0,,,,,,,3.5,,3.0,0.0,
+Gihuyaga,Chahafi,Kisoro,,61.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,77.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,49.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,71.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,52.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,1993.0,56.0,60.0,0.5,100.0,,,,,,,15.0,,,,
+Bukerahi,Chimbumba,Kisoro,,28.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,59.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,30.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,38.0,,0.0,,,,,,,,,,,,
+Karambi,CHAHAFI,Kisoro,2091.0,60.0,30.0,0.49999999999999994,55.0,,,,,,,4.5,,6.0,,
+Gihuyaga,Chahafi,Kisoro,,43.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,33.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,35.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,45.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,23.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,27.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,56.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,61.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,70.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,46.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,58.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,63.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,54.0,,0.0,,,,,,,,,,,,
+Karambi,CHAHAFI,Kisoro,1994.0,90.0,20.0,0.30000000000000004,50.0,,,,,,,1.5,,4.0,,
+Maregamo,Cyahafi,Kisoro,,30.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,30.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,28.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,28.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,22.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,28.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,60.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,25.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,34.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,26.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,36.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,37.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,20.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,36.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,50.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,48.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,27.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,55.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,38.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,42.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,29.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,27.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,34.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,72.0,,0.0,,,,,,,,,,,,
+Kabingo,CHAHAFI,Kisoro,1892.2,53.0,30.0,0.7,150.0,,,,,,,,,2.0,,
+Gashoro,CHAHAFI,Kisoro,1966.0,48.0,30.0,0.8,100.0,,,,,,,4.0,,,,
+Maregamo,Cyahafi,Kisoro,,41.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,39.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,50.0,,0.0,,,,,,,,,,,,
+Karambi,CHAHAFI,Kisoro,2054.4,35.0,60.0,0.49999999999999994,105.0,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,1967.2,40.0,60.0,0.7000000000000001,100.0,,,,,,,18.0,,5.0,,
+Maregamo,Cyahafi,Kisoro,,31.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,51.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,34.0,,0.0,,,,,,,,,,,,
+Kabingo,CHAHAFI,Kisoro,1950.0,34.0,120.0,0.6000000000000001,125.0,,,,,,,5.5,,4.0,,
+Kabingo,CHAHAFI,Kisoro,1899.0,79.0,35.0,0.4,60.0,,,,,,,2.0,,6.0,,
+Bukerahi,Chimbumba,Kisoro,,31.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,69.0,,0.0,,,,,,,,,,,,
+Karambi,CHAHAFI,Kisoro,2133.6,45.0,60.0,0.4,60.0,,,,,,,70.0,,5.0,,
+Bukerahi,Chimbumba,Kisoro,,76.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,60.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,27.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,29.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,66.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,32.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,43.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,62.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,35.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,35.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,84.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,27.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,30.0,,0.0,,,,,,,,,,,,
+Gicuzi,CHAHAFI,Kisoro,2089.1,58.0,300.0,0.8,180.0,,,,,,,18.0,,,,
+Karambi,CHAHAFI,Kisoro,2090.9,23.0,60.0,0.8,220.0,,,,,,,,,0.0,,
+Kabyaza,Chahafi,Kisoro,,36.0,,0.0,,,,,,,,,,,,
+Gashoro,CHAHAFI,Kisoro,1919.4,70.0,30.0,0.6000000000000001,130.0,10.0,,,,,,,,,,
+Karambi,CHAHAFI,Kisoro,2059.0,32.0,35.0,0.5,210.0,,,,,,,8.0,,2.0,,
+Gihuyaga,Chahafi,Kisoro,,66.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,37.0,,0.0,,,,,,,,,,,,
+Kabingo,CHAHAFI,Kisoro,1892.0,80.0,30.0,0.7,150.0,13.0,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,37.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,58.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,46.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,43.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,32.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,48.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,54.0,,0.0,,,,,,,,,,,,
+Karambi,CHAHAFI,Kisoro,2078.0,60.0,120.0,0.8,105.0,,,,,,,11.0,,0.0,,
+Kabyaza,Chahafi,Kisoro,,28.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,53.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,34.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,41.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,55.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,38.0,,0.0,,,,,,,,,,,,
+Gashoro,CHAHAFI,Kisoro,1944.0,47.0,30.0,1.7,340.0,,3.0,,,,,9.0,,5.0,,
+Kabyaza,Chahafi,Kisoro,,75.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,23.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,60.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,50.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,68.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,45.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,69.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,40.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,43.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,43.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,49.0,,0.0,,,,,,,,,,,,
+Gashoro,CHAHAFI,Kisoro,1954.7,40.0,30.0,0.8,140.0,11.0,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,58.0,,0.0,,,,,,,,,,,,
+Kabingo,CHAHAFI,Kisoro,1920.0,42.0,60.0,0.8,180.0,,,,,,,6.5,,5.0,,
+Gashoro,CHAHAFI,Kisoro,1940.7,42.0,20.0,1.0,270.0,21.0,,,,,,,,5.0,,
+Maregamo,Cyahafi,Kisoro,,51.0,,0.0,,,,,,,,,,,,
+Kabyaza,Chahafi,Kisoro,,37.0,,0.0,,,,,,,,,,,,
+Maregamo,Cyahafi,Kisoro,,43.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,46.0,,0.0,,,,,,,,,,,,
+Karambi,CHAHAFI,Kisoro,2119.1,45.0,60.0,0.7,140.0,,,,,,,13.0,,,,
+Gihuyaga,Chahafi,Kisoro,,46.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,39.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,49.0,,0.0,,,,,,,,,,,,
+Bukerahi,Chimbumba,Kisoro,,35.0,,0.0,,,,,,,,,,,,
+Gihuyaga,Chahafi,Kisoro,,40.0,,0.0,,,,,,,,,,,,
+Gashoro,CHAHAFI,Kisoro,1915.5,80.0,20.0,1.0,400.0,22.0,,,350.0,,,10.0,,10.0,,
+Kabyaza,Chahafi,Kisoro,,70.0,,0.0,,,,,,,,,,,,
+Kabingo,CHAHAFI,Kisoro,1895.1,22.0,30.0,0.6000000000000001,120.0,,,,,,,,,,,
+Kabingo,CHAHAFI,Kisoro,1817.0,42.0,30.0,1.2,410.0,,,,,,,11.5,,3.0,,
+Bugarura,,Kanungu,1443.0,73.0,60.0,0.5,,,,,,,,,,48.0,,KAYO-BUJENGWE
+Bugarura,,Kanungu,1373.0,32.0,60.0,0.0,,,,,,,,,,,,KAYO-BUJENGWE
+Bugarura,,Kanungu,1536.0,60.0,60.0,3.0,,,2.0,,,,,3.0,,,400.0,KAYO-BUJENGWE
+Bugarura,,Kanungu,1490.0,33.0,60.0,1.0,,,,,,45.0,,,,,0.0,KAYO-BUJENGWE
+Bugarura,,Kanungu,1391.0,64.0,120.0,0.0,,,,,,,,,,,,KAYO-BUJENGWE
+Bugarura,,Kanungu,1475.0,22.0,90.0,0.0,,,,,,,,,,10.0,,KAYO-BUJENGWE
+Bugarura,,Kanungu,1450.0,44.0,20.0,2.975,50.0,,,,,,,,,192.0,200.0,KAYO-BUJENGWE
+Bugarura,,Kanungu,1528.0,38.0,3.0,0.975,,,,,,,,,,240.0,,KAYO-BUJENGWE
+Bugarura,,Kanungu,1546.0,61.0,20.0,2.475,240.0,,,,,,,,,480.0,800.0,KAYO-BUJENGWE
+Bugarura,,Kanungu,1471.0,61.0,15.0,3.975,200.0,,,,260.0,,,,,,,KAYO-BUJENGWE
+Bugarura,,Kanungu,1492.0,23.0,20.0,0.225,,,,,,,,,,120.0,,KAYO-BUJENGWE
+Bugarura,,Kanungu,1462.0,55.0,25.0,0.475,,,,,,,,,,,,KAYO-BUJENGWE
+Byumba,,Kanungu,1517.0,53.0,40.0,1.25,,,,,,,,,,,,KAYO-BUJENGWE
+Byumba,,Kanungu,1439.0,35.0,15.0,1.25,,,,,,,,,,,,KAYO-BUJENGWE
+Byumba,,Kanungu,1499.0,45.0,30.0,0.25,20.0,,,,,,,,,,,KAYO-BUJENGWE
+Byumba,,Kanungu,1442.0,75.0,60.0,2.75,,,,,,,,,,,,KAYO-BUJENGWE
+Byumba,,Kanungu,1456.0,33.0,60.0,0.75,37.0,,,,,,,,,,,KAYO-BUJENGWE
+Byumba,,Kanungu,1485.0,42.0,10.0,0.75,17.0,,,,67.0,,,,,,,KAYO-BUJENGWE
+Byumba,,Kanungu,1496.0,60.0,40.0,0.65,108.0,,,,,,,24.0,,0.0,,KAYO-BUJENGWE
+Byumba,,Kanungu,1407.0,60.0,40.0,2.8,90.0,,,,80.0,,,,,,0.0,KAYO-BUJENGWE
+Byumba,,Kanungu,1524.0,51.0,40.0,2.38,74.0,,,,,,,30.0,,,,KAYO-BUJENGWE
+Byumba,,Kanungu,1454.0,58.0,60.0,1.65,,,,,,,,8.0,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1401.0,47.0,60.0,1.25,50.0,,,,,,,,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1393.0,42.0,120.0,2.25,,,,,,,,,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1628.0,46.0,180.0,0.75,,,,,,,,,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1369.0,60.0,30.0,2.75,,,,,,130.0,,,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1400.0,74.0,30.0,2.25,,,,,,,,,,20.0,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1470.0,59.0,30.0,0.25,,,,,,,,,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1641.0,88.0,60.0,3.975,,,,,61.0,,,,,150.0,10.0,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1608.0,55.0,60.0,1.975,125.0,,,,,,,,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1422.0,64.0,60.0,1.975,,,,,58.0,,,,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1445.0,72.0,60.0,0.072,60.0,,,,,,,,,,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1532.0,41.0,120.0,1.975,30.0,,,,,,,,,30.0,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1419.0,25.0,120.0,0.975,,,,,,,,,,30.0,,KAYO-BUJENGWE
+Kabirizi,,Kanungu,1372.0,60.0,60.0,1.975,,,,,,,,9.0,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1448.0,29.0,30.0,0.38,,,,,,,,,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1479.0,37.0,60.0,0.41,,,,,,,,,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1480.0,65.0,60.0,3.75,,,,,,,,,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1515.0,46.0,60.0,0.78,,,,,,,,,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1523.0,20.0,60.0,0.28,,,,,,,,,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1469.0,25.0,10.0,2.0,,,,,,,,,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1507.0,44.0,60.0,0.0,,,,,,,,0.5,,48.0,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1520.0,90.0,90.0,0.0,,,,,,,,,,12.0,15.0,KAYO-BUJENGWE
+Kacerere,,Kanungu,1528.0,97.0,60.0,3.0,33.0,,,,,,,,,70.0,40.0,KAYO-BUJENGWE
+Kacerere,,Kanungu,1495.0,34.0,90.0,0.0,,,,,,,,,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1534.0,60.0,60.0,0.0,,,,,,,,,,,,KAYO-BUJENGWE
+Kacerere,,Kanungu,1526.0,54.0,40.0,3.5,,,,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1412.0,65.0,60.0,1.475,35.0,,,,,,,4.0,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1348.0,38.0,180.0,0.475,,,,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1377.0,44.0,90.0,0.475,,,11.0,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1323.0,43.0,30.0,1.975,,,,,42.0,,,,,20.0,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1328.0,31.0,60.0,1.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1359.0,43.0,30.0,1.975,75.0,,,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1332.0,58.0,60.0,1.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1327.0,73.0,60.0,1.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1355.0,28.0,60.0,0.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1337.0,44.0,180.0,1.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kanoni,,Kanungu,1407.0,37.0,60.0,1.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kazahi,,Kanungu,1462.0,67.0,30.0,11.75,,,,,,,,,,,,KAYO-BUJENGWE
+Kazahi,,Kanungu,1515.0,31.0,30.0,0.975,,,,,,,,,,144.0,20.0,KAYO-BUJENGWE
+Kazahi,,Kanungu,1474.0,46.0,60.0,1.975,65.0,,,,,,,,,30.0,3.0,KAYO-BUJENGWE
+Kazahi,,Kanungu,1503.0,45.0,30.0,2.0,,,,,,,,,,20.0,0.0,KAYO-BUJENGWE
+Kazahi,,Kanungu,1504.0,43.0,30.0,1.975,,,,,,,,10.0,,10.0,,KAYO-BUJENGWE
+Kazahi,,Kanungu,1572.0,30.0,60.0,1.975,,,,,,,,10.0,,10.0,1.0,KAYO-BUJENGWE
+Kazahi,,Kanungu,1585.0,79.0,60.0,1.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kazahi,,Kanungu,1602.0,54.0,30.0,0.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kazahi,,Kanungu,1635.0,24.0,60.0,1.975,,,23.0,,,,,,,40.0,2.0,KAYO-BUJENGWE
+Kazahi,,Kanungu,1508.0,60.0,5.0,1.475,,,,,250.0,,,,,336.0,,KAYO-BUJENGWE
+Kazahi,,Kanungu,1573.0,46.0,40.0,0.5,37.0,,,,,,,,,,,KAYO-BUJENGWE
+Kazahi,,Kanungu,1622.0,66.0,30.0,1.975,,,,,,,,9.0,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1293.0,36.0,20.0,1.5,,,,,90.0,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1429.0,72.0,20.0,1.25,,,,,,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1408.0,53.0,60.0,0.5,,,,,,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1370.0,31.0,30.0,0.25,,,,,,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1328.0,54.0,10.0,1.75,,,,,,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1298.0,64.0,90.0,0.75,,,,,,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1324.0,40.0,60.0,0.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1361.0,70.0,60.0,2.975,,,,,,,,,,15.0,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1390.0,51.0,30.0,4.88,,,,,,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1408.0,21.0,15.0,1.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1296.0,38.0,20.0,1.975,,,,,,,,,,,3.0,KAYO-BUJENGWE
+Kishanda,,Kanungu,1238.0,68.0,30.0,2.975,,,,,47.0,,,,,,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1369.0,28.0,120.0,1.975,,,,,,,,,,20.0,,KAYO-BUJENGWE
+Kishanda,,Kanungu,1553.0,40.0,60.0,1.975,,,,,,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1440.0,60.0,60.0,0.9,,,,,,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1443.0,42.0,60.0,0.9,30.0,,,,30.0,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1431.0,30.0,30.0,0.15,,,,,,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1565.0,38.0,60.0,0.0,,,,,43.0,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1545.0,51.0,60.0,0.9,10.0,,,19.0,10.0,,,,,,0.0,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1524.0,45.0,40.0,0.55,,,,,,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1444.0,45.0,20.0,2.75,33.0,,,,45.0,55.0,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1451.0,63.0,30.0,2.75,30.0,,,,,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1436.0,60.0,10.0,9.5,10.0,,,,,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1479.0,31.0,30.0,0.75,,,,,,,,,,,,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1561.0,39.0,120.0,2.75,16.0,,,,,,,,,,0.0,KAYO-BUJENGWE
+Kishegyere,,Kanungu,1465.0,35.0,60.0,0.5,,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1452.0,71.0,60.0,0.975,46.0,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1433.0,49.0,60.0,0.975,95.0,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1306.0,50.0,60.0,1.975,110.0,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1357.0,47.0,1.0,9.975,100.0,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1357.0,68.0,30.0,2.975,95.0,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1383.0,55.0,60.0,1.975,95.0,,,,,,,,,10.0,5.0,KAYO-BUJENGWE
+Mayanja,,Kanungu,1428.0,55.0,20.0,0.25,,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1429.0,24.0,30.0,0.25,,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1454.0,60.0,120.0,1.25,150.0,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1427.0,49.0,20.0,0.5,,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1391.0,30.0,20.0,0.75,,,,,,,,,,,,KAYO-BUJENGWE
+Mayanja,,Kanungu,1359.0,46.0,30.0,1.5,,,,,,,,,,,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1647.0,33.0,50.0,0.975,,,,,,,,,,50.0,50.0,KAYO-BUJENGWE
+Mushorero,,Kanungu,1547.0,32.0,20.0,0.975,,,,,,,,,,,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1731.0,60.0,120.0,2.975,70.0,,,,,,,,,,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1710.0,35.0,120.0,0.975,75.0,,,,,,,,,,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1746.0,39.0,60.0,0.975,,,,,95.0,,,,,20.0,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1716.0,40.0,120.0,0.975,80.0,,,,,,,,,10.0,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1639.0,27.0,120.0,1.902,65.0,,,,80.0,,,,,,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1575.0,35.0,60.0,1.975,,,11.0,,,,,,,,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1584.0,74.0,120.0,1.975,,,,,,,,,,6.0,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1613.0,36.0,120.0,0.975,85.0,,,,,,,,,20.0,,KAYO-BUJENGWE
+Mushorero,,Kanungu,1654.0,52.0,60.0,1.975,65.0,,,,,,,,,,5.0,KAYO-BUJENGWE
+Mushorero,,Kanungu,1662.0,26.0,60.0,0.975,,,,,,,,,,20.0,6.0,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1558.0,25.0,40.0,3.5,,,,,,66.0,,,,,0.0,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1538.0,42.0,30.0,0.25,,,,,,,,,,,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1550.0,33.0,20.0,0.75,,,,,,,,,,2.0,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1518.0,38.0,30.0,3.75,80.0,,,,,,,,,10.0,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1497.0,62.0,30.0,1.75,,,,,,,,,,,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1538.0,23.0,20.0,0.25,,,,,110.0,,,,,,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1554.0,60.0,40.0,4.0,120.0,,,,200.0,,,240.0,,0.0,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1539.0,48.0,40.0,0.38,,15.0,,,170.0,,,,,,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1542.0,20.0,60.0,0.15,,,4.5,,,,,1.0,,,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1528.0,70.0,60.0,0.4,28.0,,5.5,,,,,2.0,,,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1512.0,44.0,60.0,0.03,,,24.0,,,,,18.0,,,,KAYO-BUJENGWE
+Nyamishamba,,Kanungu,1492.0,50.0,30.0,0.95,24.0,,,,31.0,,,,,,,KAYO-BUJENGWE
+Ahabutaare,,Kanungu,1520.0,24.0,180.0,0.475,,,,,,,,,,,,KIRI-BUSHURA
+Ahabutaare,,Kanungu,1506.0,36.0,60.0,0.975,,,,,,,,,,,,KIRI-BUSHURA
+Ahabutaare,,Kanungu,1442.0,50.0,5.0,1.475,30.0,,,,,,,,,,,KIRI-BUSHURA
+Ahabutaare,,Kanungu,1418.0,65.0,2.0,0.975,,,,,,,,,,,,KIRI-BUSHURA
+Ahabutaare,,Kanungu,1431.0,32.0,2.0,0.975,,,,,,,,,,,,KIRI-BUSHURA
+Ahabutaare,,Kanungu,1440.0,66.0,10.0,1.975,,,,,,,,,,,,KIRI-BUSHURA
+Ahabutaare,,Kanungu,1478.0,48.0,5.0,0.975,,,,,,,,,,,,KIRI-BUSHURA
+Ahabutaare,,Kanungu,1509.0,28.0,16.0,0.225,109.0,,,,,40.0,,,,3.0,40.0,KIRI-BUSHURA
+Ahabutaare,,Kanungu,1482.0,45.0,5.0,0.475,,,,,,,,,,60.0,30.0,KIRI-BUSHURA
+Ahabutaare,,Kanungu,0.0,38.0,10.0,1.75,270.0,,17.0,,,,,,,240.0,260.0,KIRI-BUSHURA
+Bugandaro,,Kanungu,1448.0,80.0,20.0,1.75,,,,,,,,10.0,,24.0,20.0,KIRI-BUSHURA
+Bugandaro,,Kanungu,1446.0,56.0,60.0,0.85,,,,,,,,,,100.0,,KIRI-BUSHURA
+Bugandaro,,Kanungu,1421.0,39.0,13.0,0.25,,,,,,,,,,,150.0,KIRI-BUSHURA
+Bugandaro,,Kanungu,1437.0,35.0,120.0,0.5,11.0,,,,,,,,,150.0,,KIRI-BUSHURA
+Bugandaro,,Kanungu,1458.0,70.0,60.0,6.0,,,,,,,,,,,,KIRI-BUSHURA
+Bugandaro,,Kanungu,1457.0,42.0,60.0,0.5,,,,,,,,,,20.0,,KIRI-BUSHURA
+Bugandaro,,Kanungu,1455.0,29.0,180.0,0.4,90.0,,,,,,,,,70.0,,KIRI-BUSHURA
+Bugandaro,,Kanungu,1471.0,38.0,120.0,0.8,55.0,,,,,,,,,100.0,,KIRI-BUSHURA
+Bugandaro,,Kanungu,1445.0,38.0,45.0,0.35,,,,,,,,,,150.0,,KIRI-BUSHURA
+Bugandaro,,Kanungu,1447.0,47.0,30.0,1.8,,,,,,,,,,100.0,,KIRI-BUSHURA
+Bushura,,Kanungu,1053.0,57.0,10.0,2.0,65.0,,,,,,,,,200.0,300.0,KIRI-BUSHURA
+Bushura,,Kanungu,1509.0,64.0,10.0,1.0,,,,,,,,,,,,KIRI-BUSHURA
+Bushura,,Kanungu,1505.0,75.0,60.0,1.25,,,,,,,,,,,,KIRI-BUSHURA
+Bushura,,Kanungu,1483.0,38.0,60.0,0.0,,,,,,,,,,10.0,,KIRI-BUSHURA
+Bushura,,Kanungu,1485.0,52.0,60.0,0.0,,,,,,,,,,10.0,,KIRI-BUSHURA
+Bushura,,Kanungu,1320.0,37.0,60.0,1.25,10.0,,,,,,,,,,,KIRI-BUSHURA
+Bushura,,Kanungu,1496.0,31.0,60.0,1.5,,,,,123.0,,,,,,,KIRI-BUSHURA
+Bushura,,Kanungu,1469.0,47.0,30.0,1.0,,,,,,,,,,,,KIRI-BUSHURA
+Bushura,,Kanungu,1460.0,29.0,10.0,1.0,6.0,,,,,,,,,,20.0,KIRI-BUSHURA
+Bushura,,Kanungu,1475.0,62.0,30.0,0.25,,,,,,,,,,30.0,,KIRI-BUSHURA
+Kajumo,,Kanungu,1726.0,90.0,120.0,0.4,,,,,,,,,,15.0,,KIRI-BUSHURA
+Kajumo,,Kanungu,1687.0,32.0,180.0,0.4,11.0,,,,,,,4.0,,30.0,12.0,KIRI-BUSHURA
+Kajumo,,Kanungu,1690.0,40.0,150.0,0.65,5.0,,,,,,,2.0,,20.0,18.0,KIRI-BUSHURA
+Kajumo,,Kanungu,1693.0,46.0,90.0,1.7,35.0,,,,60.0,,,13.0,,60.0,,KIRI-BUSHURA
+Kajumo,,Kanungu,1626.0,55.0,45.0,0.15,,,,,,,,,,70.0,0.0,KIRI-BUSHURA
+Kajumo,,Kanungu,1659.0,45.0,300.0,0.4,,,,,,65.0,,,,65.0,,KIRI-BUSHURA
+Kajumo,,Kanungu,1693.0,23.0,240.0,0.4,,,,,,,,,,0.0,,KIRI-BUSHURA
+Kajumo,,Kanungu,1691.0,32.0,120.0,2.9,,,,,,,,,,40.0,,KIRI-BUSHURA
+Kajumo,,Kanungu,0.0,30.0,60.0,0.9,60.0,,,,,,,,,70.0,10.0,KIRI-BUSHURA
+Katwa,,Kanungu,1508.0,62.0,2.0,6.5,148.0,,,,,,,6.0,,1000.0,2.0,KIRI-BUSHURA
+Katwa,,Kanungu,1512.0,79.0,2.0,1.5,,,,,,,,,,80.0,56.0,KIRI-BUSHURA
+Katwa,,Kanungu,1493.0,40.0,30.0,0.7,,,,,,,,,,40.0,20.0,KIRI-BUSHURA
+Katwa,,Kanungu,1518.0,70.0,1.0,2.2,,,,,,,,,,180.0,15.0,KIRI-BUSHURA
+Katwa,,Kanungu,1459.0,34.0,40.0,0.4875,,,,,,,,,,,,KIRI-BUSHURA
+Katwa,,Kanungu,1473.0,30.0,10.0,0.0625,15.0,,,,35.0,,,1.5,,10.0,,KIRI-BUSHURA
+Katwa,,Kanungu,1501.0,53.0,40.0,3.8,160.0,,,,,,,8.0,,300.0,,KIRI-BUSHURA
+Katwa,,Kanungu,1444.0,30.0,15.0,0.5,40.0,,,,120.0,,,6.0,,40.0,,KIRI-BUSHURA
+Kazuru,,Kanungu,1436.0,48.0,20.0,0.4,,,5.5,,,,,5.0,,5.0,,KIRI-BUSHURA
+Kazuru,,Kanungu,1435.0,60.0,10.0,1.3,20.0,,1.25,,28.0,,,,,10.0,80.0,KIRI-BUSHURA
+Kazuru,,Kanungu,1490.0,58.0,20.0,0.85,48.0,,3.0,43.0,40.0,69.0,,2.0,,100.0,200.0,KIRI-BUSHURA
+Kazuru,,Kanungu,1593.0,34.0,20.0,2.8,90.0,,3.0,,120.0,,,5.0,,,20.0,KIRI-BUSHURA
+Kazuru,,Kanungu,1474.0,61.0,30.0,0.875,20.0,,,,27.0,,,1.8,,50.0,50.0,KIRI-BUSHURA
+Kazuru,,Kanungu,1476.0,66.0,10.0,2.8,57.0,,3.0,,45.0,,,2.5,,50.0,200.0,KIRI-BUSHURA
+Kazuru,,Kanungu,1450.0,27.0,60.0,0.0,,,,,,,,,,,,KIRI-BUSHURA
+Kazuru,,Kanungu,1460.0,35.0,10.0,0.5,42.0,,,,78.0,,,12.0,,45.0,16.0,KIRI-BUSHURA
+Kazuru,,Kanungu,1449.0,57.0,30.0,1.5,88.0,,,50.0,,,,,,40.0,6.0,KIRI-BUSHURA
+Kazuru,,Kanungu,1494.0,24.0,20.0,0.8,,,,,,,,,,200.0,,KIRI-BUSHURA
+Kazuru,,Kanungu,1477.0,52.0,10.0,2.1,135.0,,,,,,,,,120.0,144.0,KIRI-BUSHURA
+Kazuru,,Kanungu,1504.0,39.0,30.0,2.3,73.0,,,,,,,,,15.0,14.0,KIRI-BUSHURA
+Kikondeka,,Kanungu,1524.0,70.0,10.0,0.975,,,,,,,,,,,,KIRI-BUSHURA
+Kikondeka,,Kanungu,1574.0,73.0,25.0,0.975,,,,,,,,,,,0.0,KIRI-BUSHURA
+Kikondeka,,Kanungu,1545.0,35.0,30.0,0.975,,,,,,,,,,,,KIRI-BUSHURA
+Kikondeka,,Kanungu,1625.0,70.0,180.0,1.975,,,,,,,,,,5.0,0.0,KIRI-BUSHURA
+Kikondeka,,Kanungu,1628.0,40.0,60.0,0.975,,,,,,,,,,,,KIRI-BUSHURA
+Kikondeka,,Kanungu,1674.0,70.0,30.0,1.975,90.0,,,,,,,,,,,KIRI-BUSHURA
+Kikondeka,,Kanungu,1551.0,53.0,30.0,0.875,103.0,,,,,,,,,,,KIRI-BUSHURA
+Kikondeka,,Kanungu,1602.0,59.0,60.0,3.0,100.0,,,,,,,,,576.0,100.0,KIRI-BUSHURA
+Kikondeka,,Kanungu,1527.0,55.0,30.0,0.75,,,,,,,,,,7.0,100.0,KIRI-BUSHURA
+Kikondeka,,Kanungu,1554.0,48.0,30.0,0.475,42.0,,11.0,,,,,,,120.0,,KIRI-BUSHURA
+Kirima,,Kanungu,1507.0,66.0,60.0,0.65,100.0,,,,,,,,,90.0,300.0,KIRI-BUSHURA
+Kirima,,Kanungu,1570.0,38.0,25.0,0.4,90.0,,,,30.0,,,,,120.0,60.0,KIRI-BUSHURA
+Kirima,,Kanungu,1518.0,46.0,30.0,0.4,110.0,,,,14.0,,,,,60.0,60.0,KIRI-BUSHURA
+Kirima,,Kanungu,1532.0,28.0,20.0,0.2,21.0,,,,,,,,,60.0,8.0,KIRI-BUSHURA
+Kirima,,Kanungu,1528.0,52.0,30.0,0.45,37.0,,,,20.0,,,,,60.0,40.0,KIRI-BUSHURA
+Kirima,,Kanungu,1572.0,62.0,5.0,0.45,110.0,,,,,,,,,150.0,70.0,KIRI-BUSHURA
+Kirima,,Kanungu,1561.0,82.0,30.0,0.9,105.0,,,,,,,,,120.0,750.0,KIRI-BUSHURA
+Kirima,,Kanungu,1557.0,81.0,30.0,0.65,78.0,,,,27.0,,,,,80.0,80.0,KIRI-BUSHURA
+Kirima,,Kanungu,1143.0,28.0,30.0,0.0,,,,,500.0,,,,,,,KIRI-BUSHURA
+Mugongo,,Kanungu,1504.0,73.0,30.0,0.0,100.0,,,,,,,,,,,KIRI-BUSHURA
+Mugongo,,Kanungu,1504.0,78.0,30.0,0.0,,,,,,,,,,,,KIRI-BUSHURA
+Mugongo,,Kanungu,1532.0,27.0,30.0,0.0,,,,,,,,,,,,KIRI-BUSHURA
+Mugongo,,Kanungu,1516.0,78.0,120.0,0.0,64.0,,,,,,,,,,,KIRI-BUSHURA
+Mugongo,,Kanungu,1540.0,80.0,90.0,2.0,34.0,,,,,,,,,,,KIRI-BUSHURA
+Mugongo,,Kanungu,1516.0,34.0,60.0,0.5,40.0,,,,,,,,,,,KIRI-BUSHURA
+Mugongo,,Kanungu,1502.0,30.0,30.0,0.5,14.0,,,,,,,,,,18.0,KIRI-BUSHURA
+Mugongo,,Kanungu,1495.0,38.0,60.0,0.0,72.0,,,,,,,,,,18.0,KIRI-BUSHURA
+Mutojo,,Kanungu,1482.0,52.0,15.0,1.75,100.0,,,,70.0,,,,,10.0,0.0,KIRI-BUSHURA
+Mutojo,,Kanungu,1569.0,52.0,20.0,2.5,60.0,,168.0,,,,,,,,,KIRI-BUSHURA
+Mutojo,,Kanungu,1500.0,21.0,10.0,0.75,32.0,,,,,,,,,,,KIRI-BUSHURA
+Mutojo,,Kanungu,1460.0,40.0,30.0,1.25,40.0,,,,,,,,,7.0,100.0,KIRI-BUSHURA
+Mutojo,,Kanungu,1489.0,39.0,60.0,0.25,,,,,,,,,,,,KIRI-BUSHURA
+Mutojo,,Kanungu,1478.0,50.0,60.0,0.0,32.0,,,,,,,,,,,KIRI-BUSHURA
+Mutojo,,Kanungu,1528.0,35.0,60.0,1.75,23.0,,,,,,,,,,90.0,KIRI-BUSHURA
+Mutojo,,Kanungu,1459.0,45.0,60.0,0.0,12.0,,,,,,,6.0,,,,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1700.0,86.0,20.0,1.5,160.0,,,,,,,8.0,,15.0,,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1710.0,40.0,20.0,1.4375,160.0,,,,120.0,,,10.0,,,,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1654.0,47.0,30.0,0.7,70.0,,,,,,,3.0,,20.0,6.0,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1702.0,50.0,60.0,2.5,60.0,,,,130.0,,,4.0,,20.0,,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1678.0,88.0,120.0,0.5,160.0,,,50.0,210.0,,,,,50.0,,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1702.0,67.0,60.0,0.5,120.0,,,,380.0,,,,,,12.0,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1688.0,35.0,60.0,1.75,120.0,,,,110.0,,,6.0,,40.0,,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1692.0,26.0,40.0,0.25,,,,,,,,,,20.0,,KIRI-BUSHURA
+Nyakabungo,,Kanungu,1685.0,29.0,30.0,0.2,,,,,,,,,,15.0,,KIRI-BUSHURA
+Rwengwe,,Kanungu,1471.0,48.0,5.0,0.25,,,,,,,,,,,,KIRI-BUSHURA
+Rwengwe,,Kanungu,1549.0,25.0,60.0,0.3125,13.0,,,,,,,,,,0.0,KIRI-BUSHURA
+Rwengwe,,Kanungu,1531.0,31.0,30.0,0.2376,,,,,,,,,,,,KIRI-BUSHURA
+Rwengwe,,Kanungu,1531.0,45.0,5.0,0.23,,,,,,,,,,10.0,,KIRI-BUSHURA
+Rwengwe,,Kanungu,1631.0,54.0,5.0,0.2376,,,,,,,,,,,,KIRI-BUSHURA
+Rwengwe,,Kanungu,1398.0,59.0,30.0,0.0,,,,,,,,,,240.0,240.0,KIRI-BUSHURA
+Rwengwe,,Kanungu,1462.0,35.0,60.0,1.5,110.0,,,,,,,2.5,,,,KIRI-BUSHURA
+Rwengwe,,Kanungu,1433.0,31.0,60.0,0.25,,,,,,,,,,30.0,,KIRI-BUSHURA
+Rwengwe,,Kanungu,1554.0,54.0,30.0,1.75,13.0,,,,10.0,,,,,120.0,22.0,KIRI-BUSHURA
+Bujengwe,,Kanungu,1425.0,30.0,60.0,0.0,,,,,,,,,,12.0,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1428.0,65.0,30.0,0.0,17.0,,,,,,,,,36.0,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1350.0,40.0,60.0,0.25,9.0,,,,,,,,,80.0,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1428.0,80.0,60.0,0.0,,,,,,,,,,15.0,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1440.0,63.0,30.0,6.0,110.0,,,,90.0,,,,,360.0,40.0,KAYO-KARANGARA
+Bujengwe,,Kanungu,1432.0,50.0,20.0,0.75,42.0,,,,,,,,,50.0,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1390.0,71.0,60.0,2.5,,,,,,,,,,,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1414.0,38.0,60.0,0.5,,,,,,,,,,60.0,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1423.0,38.0,120.0,0.75,,,,,,,,,,,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1415.0,47.0,2.0,1.5,60.0,,,,,,,,,,,KAYO-KARANGARA
+Bujengwe,,Kanungu,1422.0,45.0,25.0,2.0,,,,,,,,,,50.0,,KAYO-KARANGARA
+Kagoma,,Kanungu,1401.0,50.0,20.0,2.9,80.0,,,,,,,,50.0,288.0,105.0,KAYO-KARANGARA
+Kagoma,,Kanungu,1366.0,72.0,20.0,0.9,10.0,,,,,,,,,48.0,80.0,KAYO-KARANGARA
+Kagoma,,Kanungu,1311.0,67.0,90.0,0.9,45.0,,,,,100.0,,,,,,KAYO-KARANGARA
+Kagoma,,Kanungu,1327.0,50.0,30.0,1.15,38.0,,,,,,,,23.0,110.0,60.0,KAYO-KARANGARA
+Kagoma,,Kanungu,1382.0,56.0,120.0,2.9,69.0,,,,450.0,,,,,384.0,105.0,KAYO-KARANGARA
+Kagoma,,Kanungu,1316.0,26.0,40.0,2.8,55.0,,4.0,,,,,3.0,,,,KAYO-KARANGARA
+Kagoma,,Kanungu,1341.0,42.0,30.0,0.5,,,,,,,,,,,,KAYO-KARANGARA
+Kagoma,,Kanungu,1322.0,80.0,40.0,2.8,75.0,,,,280.0,,,5.0,,20.0,60.0,KAYO-KARANGARA
+Kagoma,,Kanungu,1475.0,23.0,40.0,0.9,20.0,,,,,,,2.0,,30.0,100.0,KAYO-KARANGARA
+Kagoma,,Kanungu,1346.0,34.0,10.0,0.4,40.0,,,,,,,,,80.0,100.0,KAYO-KARANGARA
+Kagoma,,Kanungu,1291.0,32.0,15.0,0.4,45.0,,,,,,,3.0,,40.0,150.0,KAYO-KARANGARA
+Kagoma,,Kanungu,1280.0,99.0,20.0,0.9,,,,,,,,,,48.0,30.0,KAYO-KARANGARA
+Mushija,,Kanungu,1432.0,63.0,30.0,1.75,70.0,,,,,,,,,,,KAYO-KARANGARA
+Mushija,,Kanungu,1481.0,49.0,120.0,0.38,,,,,,,,,,,,KAYO-KARANGARA
+Mushija,,Kanungu,1480.0,27.0,120.0,0.75,100.0,,,,,,,,,60.0,,KAYO-KARANGARA
+Mushija,,Kanungu,1394.0,42.0,20.0,3.25,,,,,,,,,,,,KAYO-KARANGARA
+Mushija,,Kanungu,1496.0,51.0,60.0,1.25,,,,,,,,,,,,KAYO-KARANGARA
+Mushija,,Kanungu,1457.0,68.0,30.0,4.35,75.0,,,,,90.0,,,,,,KAYO-KARANGARA
+Mushija,,Kanungu,1468.0,80.0,30.0,0.0,,,,,,65.0,,,,60.0,16.0,KAYO-KARANGARA
+Mushija,,Kanungu,1492.0,28.0,60.0,0.125,,,,,,,,,,,,KAYO-KARANGARA
+Mushija,,Kanungu,1468.0,31.0,180.0,0.0,,,,,,,,,,,,KAYO-KARANGARA
+Mushija,,Kanungu,1481.0,36.0,60.0,0.0,,,,,,,,,,96.0,,KAYO-KARANGARA
+Mushija,,Kanungu,1527.0,50.0,90.0,0.0,,,,,,,,,,,,KAYO-KARANGARA
+Mushija,,Kanungu,1515.0,23.0,120.0,0.0,,,,,,,,,,6.0,,KAYO-KARANGARA
+Nshangi,,Kanungu,1434.0,39.0,5.0,1.975,,,,,,,,,,20.0,5.0,KAYO-KARANGARA
+Nshangi,,Kanungu,1526.0,71.0,5.0,1.975,55.0,,,,90.0,,,,,10.0,3.0,KAYO-KARANGARA
+Nshangi,,Kanungu,1645.0,70.0,15.0,1.975,40.0,,,,,,,,,10.0,5.0,KAYO-KARANGARA
+Nshangi,,Kanungu,1388.0,43.0,30.0,0.974,,,,,,,,,,20.0,3.0,KAYO-KARANGARA
+Nshangi,,Kanungu,1392.0,27.0,30.0,1.975,45.0,,,,,,,,,12.0,6.0,KAYO-KARANGARA
+Nshangi,,Kanungu,1430.0,26.0,30.0,1.975,,,,,,,,,,,,KAYO-KARANGARA
+Nshangi,,Kanungu,1388.0,49.0,30.0,1.975,,,,,,,,,,10.0,3.0,KAYO-KARANGARA
+Nshangi,,Kanungu,1331.0,24.0,30.0,1.975,60.0,,,,,,,,,,,KAYO-KARANGARA
+Nshangi,,Kanungu,1320.0,30.0,30.0,1.975,,,,,,,,,,,3.0,KAYO-KARANGARA
+Nshangi,,Kanungu,1395.0,62.0,4.0,0.25,52.0,,,,150.0,,,,,,,KAYO-KARANGARA
+Nshangi,,Kanungu,1418.0,28.0,120.0,0.0,,,,,,,,,,,,KAYO-KARANGARA
+Nshangi,,Kanungu,1355.0,30.0,60.0,0.0,,,,,,,,,,,,KAYO-KARANGARA
+Ntengyere,,Kanungu,1293.0,28.0,30.0,2.4,60.0,,,,,,,,,,,KAYO-KARANGARA
+Ntengyere,,Kanungu,1291.0,48.0,3.0,4.8,110.0,,,,,,,,,40.0,100.0,KAYO-KARANGARA
+Ntengyere,,Kanungu,1294.0,55.0,2.0,3.5,120.0,,,,,,,5.0,,,,KAYO-KARANGARA
+Ntengyere,,Kanungu,1279.0,59.0,2.0,10.7,65.0,,,,,,,,,,,KAYO-KARANGARA
+Ntengyere,,Kanungu,1267.0,32.0,30.0,1.15,80.0,,3.0,,90.0,,,,,30.0,150.0,KAYO-KARANGARA
+Ntengyere,,Kanungu,1301.0,40.0,70.0,0.15,,,,,,,,0.5,,20.0,,KAYO-KARANGARA
+Ntengyere,,Kanungu,1291.0,26.0,60.0,0.4,,,,,,,,,,20.0,,KAYO-KARANGARA
+Ntengyere,,Kanungu,1280.0,48.0,40.0,0.95,115.0,,,,,,,,50.0,720.0,2500.0,KAYO-KARANGARA
+Ntengyere,,Kanungu,1278.0,58.0,45.0,5.9,110.0,,,,,,,,,2000.0,700.0,KAYO-KARANGARA
+Ntengyere,,Kanungu,1291.0,42.0,40.0,1.85,,,,,,,,,,40.0,200.0,KAYO-KARANGARA
+Ntengyere,,Kanungu,1298.0,45.0,45.0,0.8,,,,,,,,,,80.0,60.0,KAYO-KARANGARA
+Ntengyere,,Kanungu,0.0,39.0,60.0,2.8,90.0,,,,,,,5.0,,,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1295.0,58.0,20.0,1.75,,,,,,98.0,,,,5.0,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1283.0,35.0,10.0,0.75,49.0,,,,,,,,,,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1295.0,55.0,10.0,5.25,60.0,,,,,,,,,,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1270.0,20.0,10.0,0.75,,,,,,,,,,4.0,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1306.0,33.0,20.0,1.75,,,,,,,,,,,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1306.0,33.0,20.0,1.75,,,,,,,,,,,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1288.0,42.0,20.0,1.75,45.0,,,,,,,,,10.0,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1294.0,44.0,30.0,0.45,16.0,,,,,,,,,,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1271.0,28.0,30.0,0.35,,,,,,,,,,0.0,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1325.0,73.0,30.0,2.35,93.5,,,,,,,,,,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1278.0,50.0,10.0,3.75,280.0,,,,,,,,,20.0,0.0,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1289.0,42.0,25.0,1.88,10.0,,,,,,,,,0.0,,KAYO-KARANGARA
+Nyakabingo,,Kanungu,1289.0,58.0,20.0,4.9,70.0,,,,,,,,,,,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1313.0,82.0,30.0,0.15,,,,,,,,,,4.0,,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1276.0,23.0,45.0,0.24,,,,,,,,,,0.0,,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1287.0,28.0,120.0,0.34,,,,,,,,,,0.0,,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1224.0,40.0,30.0,0.9,,,,,,,,,,15.0,100.0,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1283.0,38.0,15.0,0.4,,,,,,350.0,,6.0,,,350.0,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1247.0,40.0,45.0,0.4,19.0,,,,,,,,,20.0,30.0,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1299.0,42.0,10.0,5.25,,,,,,,,,,800.0,1000.0,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1292.0,35.0,60.0,0.35,,,,,,,,,,50.0,80.0,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1280.0,27.0,45.0,0.9,50.0,,,,130.0,,,,,80.0,60.0,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1229.0,76.0,60.0,1.85,,,,,,,,,,50.0,70.0,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1297.0,75.0,120.0,1.9,,,,,,,,,,70.0,100.0,KAYO-KARANGARA
+Nyakahanga,,Kanungu,1279.0,37.0,40.0,0.4,,,,,,,,,,,60.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1478.0,30.0,60.0,0.7,65.0,,,,,,,,,160.0,21.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1388.0,60.0,10.0,0.5,75.0,,,,,,,,,100.0,80.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1390.0,36.0,3.0,0.7,,,,,,,,,,80.0,15.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1350.0,46.0,2.0,1.2,87.0,,,,,,,,,80.0,14.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1386.0,26.0,20.0,0.5,93.0,,,,,,,14.0,,160.0,,KAYO-KARANGARA
+Nyamabare,,Kanungu,1397.0,36.0,10.0,0.5,165.0,,,,,,,,,120.0,30.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1418.0,36.0,30.0,0.2,30.0,,,,,,,,,20.0,10.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1269.0,38.0,10.0,2.75,95.0,,,,,,,,,144.0,160.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1262.0,30.0,15.0,4.75,350.0,,,,1100.0,,,,,120.0,400.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1299.0,50.0,30.0,1.75,70.0,,,,,,,,,80.0,30.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1367.0,38.0,10.0,0.25,40.0,,,,,,,,,5.0,3.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1412.0,65.0,5.0,1.75,110.0,,,,,,,,,93.0,100.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1400.0,60.0,10.0,0.375,50.0,,,,80.0,,,,,96.0,20.0,KAYO-KARANGARA
+Nyamabare,,Kanungu,1414.0,25.0,8.0,1.375,100.0,,,,100.0,,,,,96.0,50.0,KAYO-KARANGARA
+Rutare,,Kanungu,1339.0,53.0,10.0,14.75,500.0,,,,,,,,,1920.0,300.0,KAYO-KARANGARA
+Rutare,,Kanungu,1294.0,57.0,30.0,1.75,106.0,,,,,,,,,288.0,,KAYO-KARANGARA
+Rutare,,Kanungu,1267.0,34.0,15.0,1.975,120.0,,130.0,,70.0,,,,,192.0,,KAYO-KARANGARA
+Rutare,,Kanungu,1423.0,36.0,5.0,1.975,70.0,,,,,,,9.0,,7.0,20.0,KAYO-KARANGARA
+Rutare,,Kanungu,1339.0,53.0,30.0,1.975,50.0,,,,,,,,,20.0,,KAYO-KARANGARA
+Rutare,,Kanungu,1351.0,30.0,30.0,0.975,,,,,,,,,,10.0,3.0,KAYO-KARANGARA
+Rutare,,Kanungu,1327.0,49.0,30.0,1.8,45.0,,,,60.0,,,,,,,KAYO-KARANGARA
+Rutare,,Kanungu,1348.0,37.0,30.0,0.0,,,,,,,,,,,,KAYO-KARANGARA
+Rutare,,Kanungu,1385.0,49.0,30.0,2.975,,,,,,,,,,,,KAYO-KARANGARA
+Rutare,,Kanungu,1324.0,25.0,30.0,0.975,,,,,,,,,,20.0,3.0,KAYO-KARANGARA
+Rutare,,Kanungu,1345.0,32.0,30.0,1.975,,,,,,,,,,10.0,3.0,KAYO-KARANGARA
+Rutare,,Kanungu,1417.0,32.0,30.0,1.975,40.0,,,,51.0,,,,,5.0,2.0,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1331.0,28.0,10.0,0.5,,,,,,,,,,4.0,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1377.0,29.0,30.0,3.75,108.0,,,,,,,,,0.0,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1317.0,55.0,20.0,0.25,13.0,,,,,,,,,,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1367.0,26.0,60.0,2.75,,,,,,,,,,4.0,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1386.0,58.0,30.0,9.75,68.0,,,,,,,,,,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1339.0,26.0,30.0,0.75,19.0,,,,,,,,,,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1375.0,24.0,30.0,0.489,65.0,,,,50.0,,,,,0.0,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1374.0,25.0,60.0,0.2,,,,,,,,,,1.0,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1354.0,55.0,30.0,0.0,,,,,,,,,,,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1415.0,60.0,30.0,2.35,80.0,,,,70.0,,,,80.0,0.0,,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1397.0,43.0,60.0,0.38,15.0,,,,,,,,19.0,6.0,0.0,KAYO-KARANGARA
+Rwamiyumbu,,Kanungu,1344.0,19.0,15.0,0.17,,,,,,,,,,7.0,,KAYO-KARANGARA
+Rwemirama,,Kanungu,1285.0,35.0,80.0,0.9,30.0,,,,,,,,20.0,70.0,150.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1280.0,52.0,80.0,1.85,60.0,,11.0,,,,,10.0,,40.0,100.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1262.0,40.0,30.0,0.15,60.0,,,,,,,,,10.0,,KAYO-KARANGARA
+Rwemirama,,Kanungu,1269.0,35.0,80.0,0.7,,,,,,,,,,,60.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1247.0,34.0,30.0,0.19,40.0,,,,,,,13.0,,,40.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1237.0,64.0,30.0,0.5,16.0,,,,,,,,,,,KAYO-KARANGARA
+Rwemirama,,Kanungu,1245.0,40.0,120.0,0.35,45.0,,,,,,,,,,20.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1256.0,52.0,120.0,0.4,,,,,,,,,,,200.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1271.0,24.0,45.0,0.4,27.0,,,,,,,,4.0,60.0,50.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1238.0,41.0,60.0,2.8,120.0,,,,,90.0,,,,80.0,250.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1282.0,32.0,60.0,2.3,50.0,,,,,,,,,150.0,700.0,KAYO-KARANGARA
+Rwemirama,,Kanungu,1243.0,37.0,60.0,0.4,,,,,,,,,,85.0,20.0,KAYO-KARANGARA
+Bujerengye,,Kanungu,1450.0,66.0,60.0,2.5,54.0,,,,,,,,,320.0,,KIRI-KIHANDA
+Bujerengye,,Kanungu,1461.0,52.0,120.0,1.0,120.0,,,,,,,10.0,,400.0,20.0,KIRI-KIHANDA
+Bujerengye,,Kanungu,1464.0,25.0,60.0,0.5,60.0,,,,,,,,,200.0,,KIRI-KIHANDA
+Bujerengye,,Kanungu,1454.0,77.0,5.0,1.5,150.0,,,,,,,,,200.0,,KIRI-KIHANDA
+Bujerengye,,Kanungu,1458.0,42.0,2.0,0.5,,,,,,,,,,40.0,20.0,KIRI-KIHANDA
+Bujerengye,,Kanungu,1478.0,40.0,60.0,0.3,75.0,,,,,,,3.0,,28.0,,KIRI-KIHANDA
+Bujerengye,,Kanungu,1482.0,70.0,10.0,0.75,50.0,,,,,,,,,80.0,100.0,KIRI-KIHANDA
+Bujerengye,,Kanungu,1479.0,45.0,5.0,3.875,250.0,,,,,,,,150.0,240.0,600.0,KIRI-KIHANDA
+Bujerengye,,Kanungu,1412.0,60.0,4.0,0.0,110.0,,,,,,,,,1200.0,200.0,KIRI-KIHANDA
+Bujerengye,,Kanungu,1439.0,50.0,5.0,1.25,170.0,,,,,,,,,336.0,,KIRI-KIHANDA
+Bujerengye,,Kanungu,1454.0,63.0,10.0,2.75,300.0,,,,,,,,100.0,480.0,60.0,KIRI-KIHANDA
+Ibarya,,Kanungu,1320.0,62.0,30.0,0.15,10.0,,,,,,,8.0,,,15.0,KIRI-KIHANDA
+Ibarya,,Kanungu,1326.0,28.0,30.0,0.4,,,,,,,,4.5,,0.0,,KIRI-KIHANDA
+Ibarya,,Kanungu,1311.0,43.0,40.0,1.4,75.0,,,,,,,18.0,,30.0,90.0,KIRI-KIHANDA
+Ibarya,,Kanungu,1322.0,48.0,30.0,0.4,,,,,23.0,,,,,10.0,166.0,KIRI-KIHANDA
+Ibarya,,Kanungu,1333.0,63.0,60.0,2.8,100.0,,,,,,,25.0,,60.0,200.0,KIRI-KIHANDA
+Ibarya,,Kanungu,1326.0,45.0,40.0,2.0,70.0,,,,15.0,,,,,,100.0,KIRI-KIHANDA
+Ibarya,,Kanungu,1335.0,37.0,90.0,0.0,,,,,,,,,,,,KIRI-KIHANDA
+Ibarya,,Kanungu,1328.0,40.0,60.0,1.0,,,,,,,,,,20.0,20.0,KIRI-KIHANDA
+Ibarya,,Kanungu,1292.0,86.0,60.0,0.4,16.0,,,53.0,,,,6.0,,15.0,70.0,KIRI-KIHANDA
+Ibarya,,Kanungu,1348.0,38.0,60.0,0.0,60.0,,,,,,,,,,,KIRI-KIHANDA
+Ibarya,,Kanungu,1333.0,45.0,60.0,0.85,22.0,,,,,,,,,120.0,,KIRI-KIHANDA
+Ibarya,,Kanungu,1333.0,43.0,70.0,1.3,,,,,,,,,,,200.0,KIRI-KIHANDA
+Katembe,,Kanungu,0.0,69.0,10.0,0.975,45.0,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1593.0,50.0,10.0,0.975,,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1451.0,30.0,20.0,0.975,,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1432.0,50.0,30.0,0.01,,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1434.0,86.0,20.0,1.975,,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1406.0,50.0,30.0,1.975,80.0,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1431.0,44.0,30.0,0.975,30.0,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1449.0,75.0,30.0,0.0,200.0,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1442.0,80.0,1.0,0.25,13.0,,1.5,,,,,,,8.0,10.0,KIRI-KIHANDA
+Katembe,,Kanungu,1453.0,32.0,10.0,0.375,19.0,,,,,,,,,,,KIRI-KIHANDA
+Katembe,,Kanungu,1410.0,65.0,30.0,2.75,55.0,,,,,,,,,192.0,,KIRI-KIHANDA
+Katembe,,Kanungu,1390.0,50.0,30.0,2.5,300.0,,,,190.0,,,,,480.0,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1558.0,40.0,30.0,0.95,,,,,,,,,,70.0,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1406.0,45.0,60.0,1.975,35.0,,,,,,,,,,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1513.0,46.0,30.0,0.975,60.0,,,,,,,,,4.0,0.0,KIRI-KIHANDA
+Kihumuro,,Kanungu,1364.0,37.0,20.0,3.975,98.0,,,,30.0,,,,,20.0,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1358.0,46.0,30.0,0.975,,,,,,,,,,0.0,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1374.0,78.0,30.0,0.975,,,,,,,,,,0.0,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1392.0,45.0,30.0,0.975,55.0,,,,,,,,,,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1392.0,35.0,3.0,0.475,,,,,,,,,,240.0,400.0,KIRI-KIHANDA
+Kihumuro,,Kanungu,1402.0,23.0,4.0,0.225,,,,,,,,,,96.0,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1392.0,46.0,5.0,0.75,,,,,166.0,,,,,960.0,150.0,KIRI-KIHANDA
+Kihumuro,,Kanungu,1396.0,48.0,8.0,0.375,46.0,,,,,,,,,,,KIRI-KIHANDA
+Kihumuro,,Kanungu,1396.0,30.0,5.0,0.125,,,,,,,,,,24.0,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1411.0,84.0,20.0,0.0,,,,,,,,,,,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1373.0,68.0,30.0,0.25,11.0,,,,,,,,,,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1341.0,45.0,60.0,0.25,23.0,,,,,,,,,,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1363.0,33.0,60.0,0.125,,,0.0,,,30.0,,,,5.0,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1318.0,70.0,30.0,0.5,24.0,,,,,,,,,0.0,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1328.0,46.0,30.0,0.5,82.0,,,,,,,,,4.0,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1408.0,46.0,30.0,0.15,54.0,,,,23.0,,,,,,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1335.0,34.0,60.0,1.75,35.0,,,,,,,,,,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1367.0,72.0,30.0,6.0,45.0,,,,,,,,40.0,,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1408.0,40.0,60.0,0.625,,,,,,,,,,,0.0,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1368.0,64.0,15.0,0.6,,,,,,,,,,0.0,,KIRI-KIHANDA
+Nyakagezi,,Kanungu,1400.0,94.0,60.0,1.5,,,,,45.0,,,,,,,KIRI-KIHANDA
+Nyakarambi,,Kanungu,1303.0,50.0,10.0,0.625,21.0,,,,,,,,,,,KIRI-KIHANDA
+Nyakarambi,,Kanungu,1325.0,57.0,60.0,1.25,74.0,,,,,,,,,10.0,,KIRI-KIHANDA
+Nyakarambi,,Kanungu,1321.0,26.0,30.0,0.25,,,,,,,,,,,,KIRI-KIHANDA
+Nyakarambi,,Kanungu,1379.0,46.0,15.0,0.875,,,,,70.0,,,,,,,KIRI-KIHANDA
+Nyakarambi,,Kanungu,1349.0,67.0,60.0,1.775,40.0,,,,60.0,,,,,0.0,,KIRI-KIHANDA
+Nyakarambi,,Kanungu,1364.0,61.0,30.0,0.875,60.0,,,,,,,,,,,KIRI-KIHANDA
+Nyakarambi,,Kanungu,1328.0,74.0,30.0,1.0,96.0,,,28.0,,,,,,,,KIRI-KIHANDA
+Nyakarambi,,Kanungu,1354.0,61.0,60.0,3.75,600.0,,,,1300.0,,,,,,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1437.0,32.0,60.0,0.38,,,,,,,,,,150.0,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1413.0,30.0,15.0,0.12,,,,,,,,,,,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1442.0,42.0,10.0,0.5,,,,,,,,,,100.0,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1407.0,48.0,60.0,1.75,200.0,,,,100.0,,,,,,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1393.0,59.0,60.0,2.75,,,,,,,,,,100.0,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1401.0,27.0,60.0,0.38,75.0,,,,,,,,,,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1404.0,35.0,30.0,0.75,,,,,,,,,,,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1452.0,38.0,60.0,1.25,230.0,,,,,,,,,60.0,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1377.0,60.0,60.0,0.0,,,,,,,,,,24.0,,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1390.0,22.0,90.0,0.0,,,,,,,,,,,12.0,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1439.0,41.0,60.0,1.5,100.0,,,,,,,,,240.0,40.0,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1388.0,47.0,30.0,2.0,,,,,,,,,,240.0,100.0,KIRI-KIHANDA
+Nyakatoma,,Kanungu,1424.0,32.0,120.0,0.25,60.0,,1.5,,35.0,,,,,40.0,,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1329.0,51.0,20.0,0.9,30.0,,,,36.0,,,,,24.0,80.0,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1360.0,43.0,10.0,1.2,22.0,,,,,,,,,360.0,600.0,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1433.0,40.0,30.0,1.9,96.0,,,,,,,,,120.0,60.0,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1931.0,57.0,20.0,1.875,250.0,,,,450.0,,,6.0,,60.0,100.0,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1285.0,45.0,10.0,1.65,96.0,,,,150.0,,,4.0,,180.0,80.0,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1381.0,64.0,35.0,1.8,130.0,,6.0,,,,,6.0,,250.0,100.0,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1433.0,40.0,20.0,2.375,130.0,,4.5,,180.0,,,5.0,,50.0,100.0,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1372.0,30.0,30.0,0.1875,,,,,,,,,,4.0,,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1313.0,95.0,30.0,1.15,,,,,,,,,,180.0,2500.0,KIRI-KIHANDA
+Nyakibuga,,Kanungu,1415.0,74.0,60.0,0.9,,,,,,,,,,36.0,90.0,KIRI-KIHANDA
+Nyamizi,,Kanungu,1367.0,46.0,5.0,2.25,100.0,,,,47.0,,,,,480.0,300.0,KIRI-KIHANDA
+Nyamizi,,Kanungu,1388.0,73.0,5.0,2.25,160.0,,,,156.0,,,,,480.0,100.0,KIRI-KIHANDA
+Nyamizi,,Kanungu,1373.0,45.0,10.0,5.75,130.0,,10.0,,170.0,,,,,360.0,1500.0,KIRI-KIHANDA
+Nyamizi,,Kanungu,1312.0,26.0,20.0,0.475,40.0,,,,,,,,,48.0,60.0,KIRI-KIHANDA
+Nyamizi,,Kanungu,1409.0,85.0,2.0,4.975,125.0,,,,,,,,,,,KIRI-KIHANDA
+Nyamizi,,Kanungu,1364.0,30.0,30.0,0.975,45.0,,,,,,,,,,,KIRI-KIHANDA
+Nyamizi,,Kanungu,1326.0,24.0,30.0,1.975,75.0,,,,,,,,,20.0,3.0,KIRI-KIHANDA
+Nyamizi,,Kanungu,1482.0,47.0,30.0,1.975,55.0,,,,,,,,,,,KIRI-KIHANDA
+Nyamizi,,Kanungu,1462.0,32.0,30.0,1.975,40.0,,,,,,,,,10.0,4.0,KIRI-KIHANDA
+Nyamizi,,Kanungu,1342.0,59.0,30.0,4.975,60.0,,,,,,,,,30.0,35.0,KIRI-KIHANDA
+Nyamizi,,Kanungu,1441.0,34.0,30.0,0.975,,,,,,,,,,,,KIRI-KIHANDA
+Nyamizi,,Kanungu,1380.0,28.0,30.0,0.975,50.0,,,,,75.0,,,,30.0,100.0,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1390.0,35.0,120.0,1.05,170.0,,,,,,,,,60.0,,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1355.0,37.0,60.0,0.85,125.0,,,,,,,,,80.0,,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1341.0,50.0,60.0,3.1,135.0,,,,,,,,,70.0,500.0,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1366.0,37.0,60.0,1.35,,,,,,,,,,80.0,250.0,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1379.0,55.0,60.0,0.4,,,,,,,,,,,,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1391.0,42.0,60.0,3.35,,,,,,,,,,200.0,600.0,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1364.0,33.0,20.0,0.4,,,,,,,,,,0.0,,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1383.0,54.0,20.0,1.3,,,,,,,,,,60.0,426.0,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1382.0,42.0,40.0,0.3,37.0,,,,,,,12.0,,20.0,50.0,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1378.0,29.0,60.0,3.9,40.0,,11.0,,18.0,,,8.0,,80.0,150.0,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1406.0,50.0,120.0,0.3,30.0,,12.0,,,,,,,15.0,40.0,KIRI-KIHANDA
+Nyaruharo,,Kanungu,1374.0,45.0,120.0,0.7,35.0,,8.0,,,,,9.0,,40.0,10.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1401.0,28.0,20.0,0.25,54.0,,,,,,,,,24.0,80.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1386.0,30.0,15.0,0.9,84.0,,,,,,,,,54.0,75.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1404.0,67.0,10.0,1.65,90.0,,,,,,,,,288.0,600.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1393.0,48.0,10.0,0.2,,,,,,,,,,24.0,24.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1341.0,37.0,15.0,0.65,50.0,,,,,,,,,160.0,80.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1373.0,96.0,20.0,1.0,90.0,,2.5,,,,,5.0,,182.0,,KIRI-KIHANDA
+Omurwambu,,Kanungu,1440.0,48.0,10.0,1.3,170.0,,20.0,,150.0,,,20.0,,1200.0,400.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1440.0,33.0,20.0,2.8,125.0,,4.0,,115.0,,,8.0,,180.0,100.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1379.0,32.0,30.0,0.875,180.0,,3.5,,80.0,,,2.5,,100.0,70.0,KIRI-KIHANDA
+Omurwambu,,Kanungu,1323.0,39.0,20.0,0.1875,,,4.0,,,,,3.5,,8.0,,KIRI-KIHANDA
+Omurwambu,,Kanungu,1351.0,96.0,15.0,1.8,200.0,,5.0,,150.0,,,6.0,,156.0,,KIRI-KIHANDA
+Omurwambu,,Kanungu,1393.0,62.0,5.0,0.65,59.0,,,,,,,,,30.0,140.0,KIRI-KIHANDA
+Rurama,,Kanungu,1514.0,30.0,30.0,0.25,,,,,,,,,,,,KIRI-KIHANDA
+Rurama,,Kanungu,1489.0,64.0,30.0,1.5,20.0,,,,,,,,,10.0,,KIRI-KIHANDA
+Rurama,,Kanungu,1551.0,34.0,5.0,0.25,50.0,,,,,,,,,,,KIRI-KIHANDA
+Rurama,,Kanungu,1587.0,65.0,30.0,1.75,90.0,,,,,,,,,,,KIRI-KIHANDA
+Rurama,,Kanungu,1490.0,18.0,10.0,0.25,,,,,,,,,,,,KIRI-KIHANDA
+Rurama,,Kanungu,1627.0,33.0,120.0,0.0,30.0,,,,,,,,,10.0,,KIRI-KIHANDA
+Rurama,,Kanungu,1588.0,71.0,30.0,0.9,100.0,,,,,,,,,0.0,,KIRI-KIHANDA
+Rurama,,Kanungu,1475.0,30.0,20.0,0.89,45.0,,,,,,,,,5.0,,KIRI-KIHANDA
+Rurama,,Kanungu,1447.0,35.0,60.0,0.988,30.0,,,,20.0,,,,,30.0,,KIRI-KIHANDA
+Rurama,,Kanungu,1498.0,36.0,120.0,0.1,,,,,,,,,,,,KIRI-KIHANDA
+Rurama,,Kanungu,1529.0,52.0,60.0,0.92,,,,,,,,,,0.0,,KIRI-KIHANDA
+Rurama,,Kanungu,1513.0,50.0,60.0,0.45,50.0,,,,,,,,,,,KIRI-KIHANDA
+Rutonde,,Kanungu,1382.0,63.0,30.0,0.0,,,,,,,,,,20.0,20.0,KIRI-KIHANDA
+Rutonde,,Kanungu,1420.0,47.0,120.0,0.0,,,,,,,,,,60.0,,KIRI-KIHANDA
+Rutonde,,Kanungu,1467.0,50.0,60.0,1.5,,,7.0,,,,,6.0,,240.0,50.0,KIRI-KIHANDA
+Rutonde,,Kanungu,1445.0,33.0,40.0,0.0,,,,,,,,,,25.0,,KIRI-KIHANDA
+Rutonde,,Kanungu,1460.0,37.0,30.0,0.0,,,,,,,,,,120.0,,KIRI-KIHANDA
+Rutonde,,Kanungu,1469.0,56.0,15.0,0.0,,,,,,,,,,80.0,,KIRI-KIHANDA
+Rutonde,,Kanungu,1475.0,30.0,30.0,1.0,45.0,,,,,,,,,,,KIRI-KIHANDA
+Rutonde,,Kanungu,1494.0,43.0,10.0,8.25,90.0,,,,,,,,,,,KIRI-KIHANDA
+Rutonde,,Kanungu,1505.0,37.0,10.0,0.25,,,,,,,,,,,,KIRI-KIHANDA
+Rutonde,,Kanungu,1497.0,67.0,10.0,0.25,,,,,,,,,,40.0,,KIRI-KIHANDA
+Rutonde,,Kanungu,1466.0,45.0,60.0,1.75,,,,,,,,,,,,KIRI-KIHANDA
+Rutonde,,Kanungu,1469.0,50.0,3.0,0.25,,,,,,,,,,,,KIRI-KIHANDA
+Rwendahi,,Kanungu,1318.0,40.0,10.0,1.0,,,,,,,,,,120.0,180.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,1302.0,59.0,10.0,0.4875,70.0,,,,130.0,,,,,48.0,30.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,1285.0,78.0,8.0,0.0,,,,,,,,,,,,KIRI-KIHANDA
+Rwendahi,,Kanungu,1293.0,58.0,5.0,0.0,33.0,,,,30.0,,,,,12.0,50.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,1299.0,38.0,10.0,1.25,300.0,,,,400.0,,,,,36.0,200.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,1267.0,19.0,10.0,0.75,,,,,,,,,,,15.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,0.0,44.0,15.0,1.4,85.0,,,,,,,,,40.0,,KIRI-KIHANDA
+Rwendahi,,Kanungu,1282.0,85.0,30.0,0.8,,,,,370.0,,,,,,15.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,1310.0,30.0,50.0,0.7,110.0,,,,40.0,,,7.0,,60.0,400.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,1318.0,57.0,30.0,2.5,,,,,130.0,,,,,,700.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,1304.0,40.0,30.0,0.7,125.0,,,,160.0,,,,,,15.0,KIRI-KIHANDA
+Rwendahi,,Kanungu,1342.0,27.0,30.0,0.8,90.0,,,,,,,,,60.0,,KIRI-KIHANDA
+Rwendahi,,Kanungu,1319.0,38.0,60.0,2.5,,,,,,,,,,120.0,400.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1438.0,58.0,60.0,1.0,220.0,,,,,,,13.0,,192.0,120.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1358.0,31.0,10.0,0.9875,45.0,,,,,,,,,240.0,40.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1373.0,28.0,5.0,1.25,50.0,,,,,,,,,72.0,,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1418.0,75.0,28.0,0.8,,,,,13.0,,,,,120.0,,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1438.0,38.0,4.0,0.8,,,,,,,,3.0,,160.0,15.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1409.0,38.0,5.0,0.25,50.0,,,,,,,,,30.0,5.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1366.0,55.0,30.0,0.8,,,,,,,,,,80.0,40.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1420.0,63.0,60.0,3.5,255.0,,,,290.0,,,,,200.0,960.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1443.0,35.0,30.0,0.8,65.0,,,,,,,,,40.0,4.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1406.0,43.0,60.0,0.25,110.0,,,,,,,,,192.0,20.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1394.0,42.0,3.0,2.75,,,,,,,,,,600.0,200.0,KIRI-KIHANDA
+Rwenkyende,,Kanungu,1371.0,48.0,3.0,0.75,120.0,,,,40.0,,,,,240.0,40.0,KIRI-KIHANDA
+Bweronde,,Kanungu,1348.0,45.0,10.0,2.8,30.0,,,,120.0,,,,,,,KAYO-KYESHERO
+Bweronde,,Kanungu,1317.0,67.0,10.0,0.3,12.0,,,,200.0,90.0,,2.0,,10.0,180.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1317.0,48.0,20.0,2.8,17.0,,303.0,,,,,,98.0,15.0,200.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1297.0,86.0,15.0,4.75,170.0,,14.0,,380.0,140.0,,8.0,,130.0,160.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1309.0,43.0,15.0,1.8,,,140.0,,200.0,,,3.0,,6.0,,KAYO-KYESHERO
+Bweronde,,Kanungu,1303.0,46.0,5.0,1.8,22.0,,1.0,,110.0,70.0,,2.0,,6.0,50.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1272.0,50.0,6.0,0.65,25.0,,,,,,,,,,50.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1273.0,48.0,60.0,0.4,,,,,,40.0,,,,,80.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1303.0,29.0,20.0,0.45,,,,,,,,,,,120.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1292.0,60.0,20.0,0.9,,,,,,144.0,,,,,100.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1294.0,44.0,10.0,1.15,,,,,,230.0,,,,120.0,200.0,KAYO-KYESHERO
+Bweronde,,Kanungu,1272.0,35.0,15.0,0.65,50.0,,,,,,,,,,25.0,KAYO-KYESHERO
+Kakureijo,,Kanungu,1230.0,48.0,30.0,0.25,,,,,,,,,,,,KAYO-KYESHERO
+Kakureijo,,Kanungu,1233.0,38.0,10.0,0.0,,,,,,,,,,,,KAYO-KYESHERO
+Kakureijo,,Kanungu,1270.0,33.0,20.0,0.25,30.0,,,,,,,,,,,KAYO-KYESHERO
+Kakureijo,,Kanungu,1268.0,42.0,30.0,4.75,,,,,,,,,,,,KAYO-KYESHERO
+Kakureijo,,Kanungu,1238.0,59.0,60.0,0.28,50.0,,,,,,,,,,,KAYO-KYESHERO
+Kakureijo,,Kanungu,1261.0,55.0,40.0,0.75,58.0,,,,,,,,,,,KAYO-KYESHERO
+Kakureijo,,Kanungu,1278.0,36.0,30.0,0.0,,,,,,,,,,,0.0,KAYO-KYESHERO
+Kakureijo,,Kanungu,1212.0,66.0,60.0,0.0,,,,,,,,,,,24.0,KAYO-KYESHERO
+Kakureijo,,Kanungu,1226.0,45.0,40.0,1.0,,,,,,,,,,,,KAYO-KYESHERO
+Kakureijo,,Kanungu,1231.0,28.0,30.0,0.0,,,,,,,,,,,,KAYO-KYESHERO
+Kakureijo,,Kanungu,1223.0,53.0,30.0,0.5,100.0,,,,,130.0,,,,,80.0,KAYO-KYESHERO
+Kakureijo,,Kanungu,1248.0,37.0,5.0,6.5,,,,,,,,,,,1400.0,KAYO-KYESHERO
+Kashenyi,,Kanungu,1633.0,33.0,60.0,1.475,320.0,,,,170.0,,,,,,,KAYO-KYESHERO
+Kashenyi,,Kanungu,1609.0,35.0,120.0,0.0,,,,,,,,,,,,KAYO-KYESHERO
+Kashenyi,,Kanungu,1643.0,23.0,60.0,1.475,60.0,,,,,,,,,,,KAYO-KYESHERO
+Kashenyi,,Kanungu,1459.0,28.0,60.0,0.0,15.0,,,,,,,,,,,KAYO-KYESHERO
+Kashenyi,,Kanungu,1519.0,27.0,60.0,0.225,400.0,,,,,,,,,,,KAYO-KYESHERO
+Kashenyi,,Kanungu,1238.0,25.0,60.0,1.475,,,,,,,,,,120.0,,KAYO-KYESHERO
+Kashenyi,,Kanungu,1530.0,52.0,180.0,0.0,,,,,,,,,,,,KAYO-KYESHERO
+Kashenyi,,Kanungu,1458.0,22.0,180.0,0.75,,,,,,,,,,,70.0,KAYO-KYESHERO
+Kashenyi,,Kanungu,1473.0,35.0,180.0,0.75,,,,,,,,,,,50.0,KAYO-KYESHERO
+Kashenyi,,Kanungu,1469.0,50.0,180.0,1.25,,,,,,,,,,,40.0,KAYO-KYESHERO
+Kashenyi,,Kanungu,1381.0,32.0,180.0,0.0,,,,,,,,,,,100.0,KAYO-KYESHERO
+Kashenyi,,Kanungu,1397.0,60.0,90.0,1.75,,,,,,,,,,,,KAYO-KYESHERO
+Katiba,,Kanungu,1536.0,27.0,30.0,0.225,,,,,,,,,,,,KAYO-KYESHERO
+Katiba,,Kanungu,1546.0,36.0,30.0,0.225,,,20.0,,,,,,,,,KAYO-KYESHERO
+Katiba,,Kanungu,1441.0,23.0,30.0,1.0,350.0,,,,250.0,,,,,,,KAYO-KYESHERO
+Katiba,,Kanungu,1488.0,35.0,60.0,0.475,160.0,,,,,,,,,,,KAYO-KYESHERO
+Katiba,,Kanungu,1472.0,50.0,60.0,1.475,140.0,,,,,,,,,20.0,,KAYO-KYESHERO
+Katiba,,Kanungu,1425.0,38.0,180.0,0.75,105.0,,,,,108.0,,,,,40.0,KAYO-KYESHERO
+Katiba,,Kanungu,1417.0,65.0,60.0,0.25,,,,,,,,,,100.0,,KAYO-KYESHERO
+Katiba,,Kanungu,1420.0,50.0,90.0,1.5,,,,,,,,,,,,KAYO-KYESHERO
+Katiba,,Kanungu,1428.0,67.0,120.0,0.0,,,,,,,,,,,28.0,KAYO-KYESHERO
+Katiba,,Kanungu,1427.0,76.0,120.0,1.0,200.0,,,,,35.0,,,,,300.0,KAYO-KYESHERO
+Katiba,,Kanungu,1499.0,45.0,180.0,0.0,,,,,,,,,,,24.0,KAYO-KYESHERO
+Katiba,,Kanungu,1445.0,30.0,120.0,1.79,,,,,,,,,,,20.0,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1281.0,70.0,60.0,0.1875,,,,,,,,,,10.0,,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1265.0,80.0,15.0,0.475,,,,,,,,,,48.0,,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1300.0,49.0,10.0,1.25,,,,,,,,,,240.0,200.0,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1287.0,43.0,3.0,2.475,,,,,,,,,,,,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1248.0,41.0,15.0,1.75,250.0,,,,400.0,,,,,,,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1289.0,35.0,30.0,1.975,60.0,,,,,,,,,15.0,5.0,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1284.0,48.0,30.0,1.975,70.0,,,,,,,,,15.0,5.0,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1307.0,62.0,30.0,1.975,65.0,,,,,,,,,10.0,5.0,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1334.0,50.0,60.0,1.975,65.0,,,,,100.0,,,,5.0,,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1312.0,24.0,60.0,2.975,75.0,,,,,,,,,15.0,3.0,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1292.0,45.0,60.0,2.975,60.0,,,,,90.0,,,,15.0,5.0,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1284.0,23.0,60.0,0.975,,,,,,,,,,,,KAYO-KYESHERO
+Kyeshero Central,,Kanungu,1236.0,33.0,60.0,1.975,65.0,,,,,,,,,,,KAYO-KYESHERO
+Mboha,,Kanungu,1328.0,35.0,15.0,1.9,17.0,,,,19.0,,,,,0.0,0.0,KAYO-KYESHERO
+Mboha,,Kanungu,1289.0,48.0,10.0,0.75,,,,,,,,,,,,KAYO-KYESHERO
+Mboha,,Kanungu,1305.0,60.0,30.0,1.75,,,,,,,,,,,,KAYO-KYESHERO
+Mboha,,Kanungu,1285.0,74.0,30.0,0.75,,,,,,,,,,,,KAYO-KYESHERO
+Mboha,,Kanungu,1299.0,51.0,10.0,0.33,70.0,,,,6.0,,,,,,,KAYO-KYESHERO
+Mboha,,Kanungu,1312.0,54.0,10.0,1.75,,,,,,,,,,,,KAYO-KYESHERO
+Mboha,,Kanungu,1311.0,71.0,20.0,2.9,,,,,,,,,,3.0,0.0,KAYO-KYESHERO
+Mboha,,Kanungu,1302.0,30.0,60.0,2.0,,,,,,,,,,,,KAYO-KYESHERO
+Mboha,,Kanungu,1320.0,50.0,30.0,1.35,71.0,,24.0,,60.0,40.0,,,,,0.0,KAYO-KYESHERO
+Mboha,,Kanungu,1315.0,22.0,30.0,1.25,35.0,,,,,,,,,6.0,,KAYO-KYESHERO
+Mboha,,Kanungu,1305.0,69.0,60.0,0.4,,,,,,,,,,,,KAYO-KYESHERO
+Mboha,,Kanungu,1371.0,29.0,10.0,1.4,74.0,,,,40.0,60.0,,,,5.0,0.0,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1195.0,46.0,60.0,0.0,,,,,,,,,,,,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1178.0,62.0,60.0,0.6,,,,,,,,,,,,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1220.0,43.0,10.0,0.8,100.0,,,,,,,,,80.0,,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1220.0,34.0,60.0,0.0,,,,,,,,,,,,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1230.0,34.0,60.0,0.0,50.0,,,,,,,,,,,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1218.0,54.0,60.0,0.0,,,,,,,,,,,,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1226.0,60.0,60.0,0.43,65.0,,,,,,,,,35.0,30.0,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1237.0,80.0,60.0,0.9,60.0,,,30.0,,,,9.0,,40.0,8.0,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1207.0,30.0,30.0,0.15,80.0,,,,,,,,,15.0,15.0,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1229.0,54.0,60.0,3.3,,,,,,,,,,20.0,100.0,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1239.0,30.0,50.0,0.15,40.0,,,,,100.0,,,23.0,30.0,10.0,KAYO-KYESHERO
+Nyakishojwa,,Kanungu,1246.0,55.0,45.0,1.85,55.0,,,,,45.0,,,,0.0,200.0,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1233.0,41.0,40.0,3.8,,,,,,,,,,120.0,500.0,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1337.0,47.0,40.0,0.5,80.0,,14.0,,,,,,,,70.0,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1337.0,58.0,40.0,1.85,100.0,,,,,,,,,,,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1337.0,57.0,40.0,1.15,,,,,,,,,,,,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1298.0,76.0,35.0,2.35,,,,,,,,,,100.0,150.0,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1304.0,32.0,45.0,0.1,,,,,,,,,,15.0,,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1315.0,63.0,30.0,4.8,130.0,,46.0,,,,,7.0,27.0,70.0,400.0,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1302.0,36.0,120.0,0.5,,,,,,,,,8.0,,160.0,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1314.0,30.0,60.0,0.4,,,,,,,,,,,150.0,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1296.0,53.0,60.0,4.8,120.0,,,,,,,19.0,,,,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1297.0,40.0,30.0,0.15,,,,,,,,,,7.0,,KAYO-KYESHERO
+Nyamirambi,,Kanungu,1315.0,28.0,45.0,0.4,,,,,,,,,,,60.0,KAYO-KYESHERO
+Buhoma,,Kanungu,1397.0,51.0,5.0,1.9,,,,,,,,,,360.0,50.0,KAYO-MUKONO
+Buhoma,,Kanungu,1431.0,40.0,15.0,1.4,20.0,,,,,,,,,24.0,40.0,KAYO-MUKONO
+Buhoma,,Kanungu,1462.0,42.0,40.0,0.45,48.0,,,,,,,,,100.0,60.0,KAYO-MUKONO
+Buhoma,,Kanungu,1410.0,36.0,5.0,0.9,,,,,,,,,,150.0,,KAYO-MUKONO
+Buhoma,,Kanungu,1410.0,78.0,5.0,1.9,,,,,,,,,,180.0,,KAYO-MUKONO
+Buhoma,,Kanungu,1415.0,39.0,10.0,0.65,,,,,,,,,,12.0,,KAYO-MUKONO
+Buhoma,,Kanungu,1451.0,46.0,5.0,0.8,95.0,,2.0,,,,,5.0,,12.0,10.0,KAYO-MUKONO
+Buhoma,,Kanungu,1440.0,31.0,3.0,6.8,190.0,,,,,110.0,,7.0,,,,KAYO-MUKONO
+Buhoma,,Kanungu,1447.0,76.0,5.0,5.8,,,11.0,,,,,7.0,,150.0,40.0,KAYO-MUKONO
+Buhoma,,Kanungu,1452.0,56.0,5.0,1.8,,,250.0,,,,,,80.0,10.0,40.0,KAYO-MUKONO
+Buhoma,,Kanungu,1443.0,42.0,20.0,0.8,,,,,,,,,,60.0,,KAYO-MUKONO
+Buhoma,,Kanungu,1460.0,26.0,10.0,0.375,,,,,,,,,,26.0,,KAYO-MUKONO
+Iraaro,,Kanungu,1524.0,45.0,80.0,6.9,,,13.0,,,260.0,,15.0,,,,KAYO-MUKONO
+Iraaro,,Kanungu,1480.0,78.0,60.0,5.8,,,,,,,,,,80.0,120.0,KAYO-MUKONO
+Iraaro,,Kanungu,1361.0,42.0,20.0,0.8,14.0,,2.0,,,,,,,,,KAYO-MUKONO
+Iraaro,,Kanungu,1262.0,39.0,40.0,0.1,,,,,,,,,,,,KAYO-MUKONO
+Iraaro,,Kanungu,1510.0,37.0,240.0,2.85,,,0.0,,,,,,,240.0,200.0,KAYO-MUKONO
+Iraaro,,Kanungu,1407.0,27.0,120.0,2.9,,,,,,,,,,60.0,120.0,KAYO-MUKONO
+Iraaro,,Kanungu,1372.0,23.0,60.0,0.0,,,,,,,,,,,,KAYO-MUKONO
+Iraaro,,Kanungu,1371.0,29.0,45.0,1.4,,,,,,,,,,0.0,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1422.0,39.0,10.0,1.75,,,,,,,,,,,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1427.0,34.0,30.0,0.75,,,,,,31.0,,,,,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1416.0,51.0,30.0,0.75,48.0,,,,,,,,,5.0,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1495.0,35.0,30.0,1.75,,,,,,,,,,6.0,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1412.0,55.0,30.0,0.75,,,,,,,,,,,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1388.0,32.0,10.0,4.85,,,,,,,,11.0,,,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1373.0,35.0,15.0,0.4,,,,,,,,,,,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1410.0,47.0,30.0,1.63,,,,,,,,,,,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1416.0,40.0,30.0,0.4,,,,,,,,36.0,,,,KAYO-MUKONO
+Kanyamisinga,,Kanungu,1377.0,42.0,10.0,0.15,18.0,,,,,,,6.0,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1376.0,40.0,30.0,0.0,,,,,,,,,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1404.0,39.0,30.0,1.75,,,,,,,,,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1411.0,85.0,30.0,1.5,,,,,,,,,,24.0,80.0,KAYO-MUKONO
+Kanyashande,,Kanungu,1412.0,25.0,60.0,2.5,,,,,,,,,,70.0,60.0,KAYO-MUKONO
+Kanyashande,,Kanungu,1376.0,55.0,60.0,0.0,,,,,,,,,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1403.0,41.0,30.0,3.5,,,2.0,,,100.0,,,,50.0,150.0,KAYO-MUKONO
+Kanyashande,,Kanungu,1386.0,42.0,10.0,0.5,,,,,,,,,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1392.0,26.0,30.0,0.0,,,,,,,,,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1356.0,35.0,30.0,0.125,,,,,,,,,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1392.0,58.0,30.0,0.33,,,,,32.0,,,,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1406.0,28.0,10.0,0.0,,,,,,,,,,,,KAYO-MUKONO
+Kanyashande,,Kanungu,1430.0,38.0,30.0,2.0,,,,,,,,,,,,KAYO-MUKONO
+Kashebeya,,Kanungu,1420.0,55.0,60.0,1.9,30.0,,,,,,,,,180.0,70.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1410.0,26.0,40.0,0.9,74.0,,,,,,,,,80.0,90.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1444.0,67.0,120.0,0.4,,,,,,,,,,90.0,80.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1387.0,73.0,40.0,1.65,60.0,,,,68.0,90.0,,,,8.0,50.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1405.0,28.0,40.0,0.2,,,,,,,,,,96.0,100.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1498.0,56.0,120.0,0.65,100.0,,,,,110.0,,,,150.0,60.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1410.0,47.0,30.0,0.125,100.0,,10.0,,,,,3.5,,6.0,50.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1420.0,78.0,40.0,0.3,65.0,,2.5,,160.0,,,3.0,,10.0,30.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1394.0,35.0,30.0,0.8,55.0,,,,,,,3.5,,20.0,150.0,KAYO-MUKONO
+Kashebeya,,Kanungu,1375.0,54.0,30.0,0.38,,,,,,200.0,,4.0,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1388.0,22.0,10.0,0.75,,,,,,170.0,,,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1441.0,50.0,10.0,0.75,145.0,,,,,,,,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1407.0,32.0,30.0,0.25,,,,,,,,,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1362.0,24.0,20.0,0.29,,,,,,,,2.0,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1396.0,38.0,10.0,0.28,,,,,,,,4.5,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1400.0,40.0,10.0,1.0,,,,,,,,,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1384.0,24.0,20.0,0.0,,,,,,,,,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1452.0,47.0,60.0,1.975,85.0,,,,,,,,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1355.0,32.0,20.0,0.25,,,,,,,,,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1485.0,63.0,30.0,1.975,95.0,,,,,,,,,20.0,2.0,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1351.0,30.0,30.0,1.25,,,,,,,,,,,,KAYO-MUKONO
+Kyumbuguchu,,Kanungu,1629.0,35.0,60.0,1.975,50.0,,,,,,,,,10.0,,KAYO-MUKONO
+Mukongoro,,Kanungu,1558.0,27.0,120.0,1.975,85.0,,,,,,,,,15.0,2.0,KAYO-MUKONO
+Mukongoro,,Kanungu,1530.0,25.0,60.0,2.975,31.0,,,,,,,,,15.0,1.0,KAYO-MUKONO
+Mukongoro,,Kanungu,1801.0,54.0,120.0,0.975,,,,,,55.0,,,,5.0,30.0,KAYO-MUKONO
+Mukongoro,,Kanungu,1366.0,28.0,60.0,0.0,77.0,,,,,,,,,,,KAYO-MUKONO
+Mukongoro,,Kanungu,1567.0,65.0,60.0,0.025,45.0,,,,,,,,,,,KAYO-MUKONO
+Mukongoro,,Kanungu,1465.0,60.0,120.0,1.975,,,,,,,,,,,1.0,KAYO-MUKONO
+Mukongoro,,Kanungu,1534.0,48.0,60.0,2.975,,,,,,,,,,,3.0,KAYO-MUKONO
+Mukongoro,,Kanungu,1499.0,33.0,120.0,0.975,70.0,,,,70.0,,,,,5.0,30.0,KAYO-MUKONO
+Mukongoro,,Kanungu,1512.0,32.0,40.0,1.975,140.0,,,,70.0,,,,,,,KAYO-MUKONO
+Mukongoro,,Kanungu,1532.0,55.0,40.0,0.975,90.0,,4.0,,,,,,,,,KAYO-MUKONO
+Mukongoro,,Kanungu,1517.0,53.0,30.0,0.475,18.0,,1.0,,,,,,,,,KAYO-MUKONO
+Mukongoro,,Kanungu,1544.0,21.0,40.0,0.125,,,,,,,,,,,,KAYO-MUKONO
+Mukongoro,,Kanungu,1579.0,39.0,90.0,0.25,,,,,,,,,,10.0,100.0,KAYO-MUKONO
+Mukono,,Kanungu,1562.0,36.0,20.0,4.3,,,,,,,,,,200.0,0.0,KAYO-MUKONO
+Mukono,,Kanungu,1440.0,43.0,60.0,0.9,24.0,,,,13.0,,,,,,80.0,KAYO-MUKONO
+Mukono,,Kanungu,1343.0,60.0,10.0,0.35,,,,,,,,,,,,KAYO-MUKONO
+Mukono,,Kanungu,1343.0,40.0,15.0,0.1,,,,,,,,,,,,KAYO-MUKONO
+Mukono,,Kanungu,1447.0,50.0,3.0,1.85,,,,,,,,16.0,,,,KAYO-MUKONO
+Mukono,,Kanungu,1409.0,30.0,60.0,0.1,,,,,,,,,,,,KAYO-MUKONO
+Mukono,,Kanungu,1399.0,55.0,60.0,2.8,45.0,,,,,,,,,80.0,30.0,KAYO-MUKONO
+Mukono,,Kanungu,1404.0,54.0,10.0,2.75,65.0,,21.0,,60.0,,,,,240.0,,KAYO-MUKONO
+Mukono,,Kanungu,1404.0,72.0,50.0,0.65,,,,,,,,,,,,KAYO-MUKONO
+Mukono,,Kanungu,0.0,46.0,10.0,7.5,,,,,,,,,,600.0,1000.0,KAYO-MUKONO
+Mukono,,Kanungu,0.0,82.0,60.0,1.85,,,,,,,,,,150.0,,KAYO-MUKONO
+Mukono,,Kanungu,0.0,64.0,30.0,0.05,,,,,,,,,,10.0,,KAYO-MUKONO
+Nkwenda,,Kanungu,1466.0,74.0,30.0,0.5,130.0,,,,,,,,,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1479.0,36.0,60.0,1.0,,,,,,,,,,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1492.0,75.0,60.0,2.85,120.0,,,,85.0,,,36.0,,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1475.0,30.0,40.0,1.88,,,,,30.0,,,4.0,,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1493.0,34.0,5.0,0.6,,,,,,,,,,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1476.0,48.0,10.0,6.6,75.0,,30.0,,60.0,,,36.0,80.0,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1508.0,44.0,10.0,22.75,,,,,,,,,,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1574.0,62.0,60.0,0.75,132.0,,,,,,,,,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1429.0,32.0,20.0,6.75,,,,,,,,,,2.0,,KAYO-MUKONO
+Nkwenda,,Kanungu,1453.0,35.0,10.0,0.25,29.0,,,,,,,9.0,,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1461.0,29.0,30.0,2.75,,,,,,80.0,,,30.0,,,KAYO-MUKONO
+Nkwenda,,Kanungu,1483.0,28.0,30.0,2.5,63.0,,,,,,,14.0,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1424.0,29.0,30.0,1.94,,,,,52.0,,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1392.0,60.0,40.0,0.88,45.0,,,,45.0,,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1374.0,43.0,40.0,0.88,75.0,,19.0,,50.0,,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1347.0,53.0,30.0,0.4,,,,,,,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1456.0,35.0,180.0,2.3,11.0,,,,35.0,,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1467.0,49.0,60.0,0.3,30.0,,,,,,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1399.0,35.0,60.0,2.75,44.0,,,,87.0,29.0,,,,10.0,,KAYO-MUKONO
+Nyakeina,,Kanungu,1393.0,63.0,60.0,2.25,,,,,,,,,,50.0,,KAYO-MUKONO
+Nyakeina,,Kanungu,1451.0,40.0,90.0,1.75,,,,,,,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1354.0,26.0,15.0,0.25,,,,,,,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1394.0,66.0,30.0,5.75,,,,,80.0,70.0,,,,,,KAYO-MUKONO
+Nyakeina,,Kanungu,1378.0,54.0,50.0,0.25,,,,,,,,,,,,KAYO-MUKONO
+Rubona,,Kanungu,1561.0,24.0,120.0,0.8,,,,,,,,,,250.0,20.0,KAYO-MUKONO
+Rubona,,Kanungu,1579.0,32.0,120.0,0.85,,,,,,,,,,,,KAYO-MUKONO
+Rubona,,Kanungu,1562.0,75.0,180.0,2.9,,,,,,,,,,,1000.0,KAYO-MUKONO
+Rubona,,Kanungu,1601.0,35.0,180.0,2.85,,,,,,,,,,,,KAYO-MUKONO
+Rubona,,Kanungu,1593.0,25.0,180.0,2.7,,,,,,,,,,420.0,100.0,KAYO-MUKONO
+Rubona,,Kanungu,1592.0,32.0,180.0,0.4,,,,,,,,,,,0.0,KAYO-MUKONO
+Rubona,,Kanungu,1535.0,21.0,90.0,1.4,,,,,,,,,,20.0,0.0,KAYO-MUKONO
+Rubona,,Kanungu,1563.0,40.0,90.0,1.4,,,,,,,,,,25.0,60.0,KAYO-MUKONO
+Rubona,,Kanungu,1474.0,64.0,45.0,2.3,,,,,,,,,,60.0,1000.0,KAYO-MUKONO
+Rubona,,Kanungu,1629.0,48.0,100.0,1.9,,,,,,,,22.0,,150.0,100.0,KAYO-MUKONO
+Rubona,,Kanungu,1573.0,41.0,80.0,0.3,,,,,,,,,,,,KAYO-MUKONO
+Rubona,,Kanungu,1553.0,29.0,120.0,3.9,,,,,,,,15.0,,40.0,100.0,KAYO-MUKONO
+Bukono,,Kanungu,1421.0,65.0,40.0,0.4,35.0,,,,30.0,,,,,48.0,45.0,KIRI-RUBIMBWA
+Bukono,,Kanungu,1406.0,34.0,30.0,0.9,,,,,,,,,,,,KIRI-RUBIMBWA
+Bukono,,Kanungu,1418.0,28.0,15.0,0.4,,,,,35.0,,,,,24.0,50.0,KIRI-RUBIMBWA
+Bukono,,Kanungu,1433.0,35.0,30.0,1.9,40.0,,,,28.0,,,,,240.0,105.0,KIRI-RUBIMBWA
+Bukono,,Kanungu,1407.0,65.0,12.0,0.4,,,,,28.0,,,,,,,KIRI-RUBIMBWA
+Bukono,,Kanungu,1400.0,45.0,20.0,1.875,125.0,,7.0,,80.0,,,13.0,,300.0,100.0,KIRI-RUBIMBWA
+Bukono,,Kanungu,1411.0,38.0,15.0,1.9375,15.0,4.5,4.0,,,,,2.0,,30.0,,KIRI-RUBIMBWA
+Bukono,,Kanungu,1432.0,43.0,30.0,0.3,80.0,,2.0,,,,,2.5,72.0,6.0,5.0,KIRI-RUBIMBWA
+Bukono,,Kanungu,1439.0,40.0,40.0,1.4365,90.0,,4.0,,,,,6.0,,40.0,150.0,KIRI-RUBIMBWA
+Bukono,,Kanungu,1438.0,70.0,20.0,1.7,90.0,,6.0,,,,,9.0,,30.0,50.0,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1525.0,50.0,120.0,1.5,27.0,,301.0,,,,,,,,,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1391.0,67.0,60.0,1.5,,,,,,,,,,,,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1439.0,80.0,60.0,2.75,11.0,,,,,,,,,,7.0,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1454.0,38.0,60.0,2.75,35.0,,,,,,,,,,0.0,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1494.0,33.0,180.0,0.5,,,,,,,,,,,,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1505.0,31.0,60.0,0.75,,,,,,,,,,,,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1505.0,70.0,60.0,0.75,,,,,,,,,,,,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1478.0,57.0,30.0,1.5,,,,,,,,,,36.0,60.0,KIRI-RUBIMBWA
+Kajubwe,,Kanungu,1448.0,30.0,120.0,0.25,,,,,,,,,,60.0,,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1424.0,70.0,150.0,0.4,,,,,,,,,,,300.0,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1379.0,40.0,120.0,2.3,23.0,,17.0,,,,,7.0,,20.0,100.0,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1383.0,80.0,60.0,2.75,140.0,,,,,,,,,75.0,400.0,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1362.0,28.0,80.0,0.65,33.0,,3.0,,,,,15.0,,40.0,12.0,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1308.0,70.0,30.0,0.75,,,9.0,,,,,17.0,,0.0,150.0,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1433.0,59.0,240.0,2.9,60.0,,,,,,,,,10.0,4000.0,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1371.0,43.0,180.0,0.9,,,,,,,,,,100.0,300.0,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1377.0,70.0,120.0,0.4,,,,,,,,,,40.0,,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1407.0,65.0,120.0,1.4,,,,,,,,,,20.0,,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1331.0,65.0,60.0,0.85,,,,,,,,,16.0,0.0,160.0,KIRI-RUBIMBWA
+Kashaki,,Kanungu,1270.0,42.0,60.0,0.4,,,,,,,,,,,,KIRI-RUBIMBWA
+Kasoni,,Kanungu,1412.0,59.0,30.0,0.5,90.0,,3.0,,,,,9.0,,,,KIRI-RUBIMBWA
+Kasoni,,Kanungu,1489.0,39.0,90.0,3.25,25.0,,,,70.0,,,18.0,,,0.0,KIRI-RUBIMBWA
+Kasoni,,Kanungu,1504.0,38.0,90.0,0.75,22.0,,,,41.0,,,,,0.0,0.0,KIRI-RUBIMBWA
+Kasoni,,Kanungu,1388.0,80.0,30.0,1.0,,,,,,,,,,20.0,,KIRI-RUBIMBWA
+Kasoni,,Kanungu,1421.0,68.0,60.0,0.0,60.0,,,,,,,,,200.0,,KIRI-RUBIMBWA
+Kasoni,,Kanungu,1415.0,38.0,30.0,0.125,,,,,,,,,,,5.0,KIRI-RUBIMBWA
+Kasoni,,Kanungu,1374.0,65.0,15.0,0.125,12.0,,,,,,,,,60.0,48.0,KIRI-RUBIMBWA
+Kasoni,,Kanungu,1351.0,46.0,120.0,0.125,,,,,,,,,,,8.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1427.0,39.0,90.0,1.85,,,,,,,,,,100.0,50.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1410.0,36.0,180.0,0.5,,,,,90.0,,,,,80.0,,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1432.0,41.0,180.0,1.5,,,,,,,,,,200.0,250.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1429.0,63.0,180.0,3.9,175.0,,,,150.0,,,,,,,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1405.0,49.0,180.0,1.85,,,,,,,,,,80.0,200.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1398.0,33.0,90.0,0.9,,,,,,,,,,150.0,0.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1452.0,28.0,240.0,2.8,,,,,,,,,,150.0,300.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1445.0,64.0,120.0,0.8,,,,,,,,,,60.0,10.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1445.0,60.0,30.0,9.75,130.0,,,,,,,12.0,,156.0,200.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1439.0,49.0,60.0,14.25,90.0,,10.0,,,,,12.0,,480.0,200.0,KIRI-RUBIMBWA
+Kitunga,,Kanungu,1427.0,60.0,30.0,2.75,,,10.0,,,,,18.0,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1330.0,52.0,5.0,0.975,65.0,,,,,,,,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1360.0,48.0,20.0,0.975,45.0,,,,,,,,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1360.0,38.0,60.0,1.975,65.0,,,,,,,,60.0,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1418.0,36.0,30.0,0.975,55.0,,,,,,,,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1356.0,24.0,5.0,0.075,64.0,,,,,,,,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1319.0,58.0,30.0,0.975,,,,,,,,,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1441.0,60.0,10.0,1.975,,,,,,,,,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1338.0,38.0,30.0,1.975,,,,,,,,,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1390.0,30.0,30.0,0.25,,,,,,,,,,,,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1434.0,50.0,30.0,3.25,84.0,,,,,,,,,336.0,200.0,KIRI-RUBIMBWA
+Nyakabungo,,Kanungu,1482.0,47.0,30.0,1.75,55.0,,,,,,,,,480.0,100.0,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1407.0,47.0,45.0,2.0,110.0,,11.0,,150.0,,,13.0,,360.0,,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1442.0,46.0,30.0,1.2,,,4.0,,230.0,,,4.0,,40.0,,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1476.0,31.0,60.0,0.3,,,,,,,,,,30.0,,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1458.0,50.0,240.0,2.5,85.0,,9.0,,95.0,,,,,,,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1473.0,33.0,30.0,0.4,,,,,70.0,,,,,40.0,5.0,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1402.0,24.0,5.0,0.0,88.0,,,,700.0,,,,,,,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1402.0,37.0,10.0,0.5,,,,,,,,,,180.0,6.0,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1380.0,69.0,10.0,3.5,110.0,,,,,,,,,120.0,20.0,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1406.0,69.0,5.0,3.75,,,,,,,,,,,,KIRI-RUBIMBWA
+Nyarwemarira,,Kanungu,1375.0,58.0,20.0,1.0,,,,,,,,,,36.0,200.0,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1396.0,40.0,60.0,0.25,47.0,,3.5,,,,,,,72.0,,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1355.0,65.0,240.0,0.25,,,,,,,,,,40.0,80.0,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1342.0,45.0,120.0,1.5,,,,,,,,,,150.0,120.0,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1359.0,30.0,60.0,0.0,,,,,,,,,,5.0,30.0,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1311.0,68.0,120.0,0.0,,,,,,,,,,15.0,,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1263.0,60.0,30.0,0.0,,,,,,,,,,5.0,,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1309.0,55.0,20.0,1.25,,,,,,,,,,,,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1318.0,26.0,15.0,0.25,,,,,,,,,,,,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1378.0,48.0,60.0,0.75,,,,,,,,,,,,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1357.0,80.0,30.0,1.25,,,,,,,,,,,,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1364.0,31.0,50.0,0.75,,,,,,,,,,,,KIRI-RUBIMBWA
+Ruheza,,Kanungu,1355.0,37.0,30.0,0.5,,,,,,,,,,,,KIRI-RUBIMBWA
+Buranda,,Kanungu,1246.0,28.0,15.0,2.975,,,,,,,,,,96.0,150.0,KAYO-RUTENDERE
+Buranda,,Kanungu,1294.0,29.0,15.0,0.0,,,,,,,,,,,31.0,KAYO-RUTENDERE
+Buranda,,Kanungu,1271.0,38.0,60.0,1.975,95.0,,,,50.0,,,,,50.0,30.0,KAYO-RUTENDERE
+Buranda,,Kanungu,1346.0,65.0,60.0,0.475,60.0,,,,,,,2.5,,,,KAYO-RUTENDERE
+Buranda,,Kanungu,1261.0,36.0,60.0,1.975,95.0,,,,,,,,,50.0,,KAYO-RUTENDERE
+Buranda,,Kanungu,1240.0,52.0,60.0,0.75,40.0,,,,,,,,,,,KAYO-RUTENDERE
+Buranda,,Kanungu,1260.0,64.0,120.0,1.975,60.0,,,,,,,,,,,KAYO-RUTENDERE
+Buranda,,Kanungu,1239.0,46.0,40.0,2.75,,,,,,,,,,120.0,400.0,KAYO-RUTENDERE
+Buranda,,Kanungu,1302.0,27.0,60.0,1.975,60.0,,,,,,,,,,,KAYO-RUTENDERE
+Buranda,,Kanungu,1304.0,78.0,30.0,1.975,75.0,,,,,,,,,,,KAYO-RUTENDERE
+Buranda,,Kanungu,1271.0,39.0,30.0,1.975,,,,,,,,,,10.0,2.0,KAYO-RUTENDERE
+Buranda,,Kanungu,1299.0,27.0,30.0,1.975,46.0,,,,,,,,,,,KAYO-RUTENDERE
+Buranda,,Kanungu,1255.0,50.0,30.0,1.975,,,,,,,,,,20.0,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1321.0,45.0,20.0,1.35,,,,,,,,,18.0,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1339.0,73.0,30.0,0.85,,,,,,,,,,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1361.0,65.0,40.0,26.8,30.0,,42.0,70.0,,,,,,10.0,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1337.0,25.0,30.0,0.19,,,,,,,,,,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1404.0,40.0,60.0,0.38,,,138.0,,,,,,,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1327.0,54.0,30.0,1.42,,,,,,,,,,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1345.0,35.0,60.0,0.25,,,,,,,,,,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1363.0,33.0,60.0,0.25,10.0,,,,,,,,,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1313.0,64.0,60.0,1.25,,,,,,,,,,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1343.0,25.0,60.0,0.25,11.0,,,,,,,,,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1321.0,62.0,60.0,1.75,,,8.0,,,,,,11.0,,,KAYO-RUTENDERE
+Kangyeyo,,Kanungu,1325.0,78.0,20.0,0.75,,,,,,,,,,,,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1392.0,68.0,30.0,1.8,18.0,,10.0,,,,,2.0,80.0,50.0,80.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1404.0,27.0,60.0,3.8,75.0,,3.0,,,90.0,,4.0,,,,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1399.0,33.0,30.0,0.85,,,,,,,,,,15.0,100.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1315.0,60.0,6.0,0.4375,,,1.5,,,,,,,2.0,0.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1341.0,38.0,5.0,3.8,160.0,,11.0,,120.0,,,10.0,,60.0,90.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1349.0,37.0,5.0,2.3,150.0,,5.5,,160.0,,,,,30.0,72.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1357.0,40.0,5.0,0.25,40.0,,,,150.0,,,,,,60.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1339.0,52.0,4.0,3.75,,,,,300.0,,,,,30.0,50.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1341.0,58.0,5.0,4.25,100.0,,,,230.0,,,,,20.0,500.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1293.0,42.0,60.0,2.4775,35.0,,,,70.0,,,,,,100.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1289.0,40.0,30.0,1.4875,42.0,,,,80.0,,,,,,20.0,KAYO-RUTENDERE
+Kataburaza,,Kanungu,1366.0,78.0,3.0,0.0,18.0,,,,,,,,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1456.0,57.0,17.0,4.3,,,10.0,,,60.0,,12.0,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1314.0,36.0,2.0,0.0,,,,,,,,,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1362.0,30.0,2.0,2.8,40.0,,,,,,,,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1386.0,45.0,5.0,0.15,,,,,,,,,,7.0,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1385.0,55.0,10.0,0.1,,,,,,,,,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1404.0,50.0,30.0,1.9,,,,,,,,,90.0,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1400.0,41.0,40.0,0.0,,,2.0,,,,,,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1396.0,38.0,120.0,0.0,10.0,,,,,,,,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1393.0,70.0,35.0,0.85,,,,,,,,,,50.0,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1379.0,31.0,45.0,0.05,,,,,,,,,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1389.0,29.0,10.0,1.3,,,,,,,,,,,,KAYO-RUTENDERE
+Kyandago,,Kanungu,1384.0,84.0,40.0,1.9,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1287.0,61.0,30.0,0.0,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1329.0,74.0,10.0,3.0,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1293.0,37.0,30.0,0.0,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1294.0,49.0,60.0,1.0,,,,,,,,,,,60.0,KAYO-RUTENDERE
+Rutendere,,Kanungu,1287.0,66.0,30.0,0.0,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1320.0,58.0,30.0,0.0,,,,,,,,,,15.0,40.0,KAYO-RUTENDERE
+Rutendere,,Kanungu,1371.0,60.0,120.0,0.5,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1347.0,25.0,60.0,0.75,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1363.0,67.0,60.0,0.5,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1317.0,62.0,60.0,0.75,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1307.0,40.0,60.0,0.13,,,,,,,,,110.0,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1276.0,58.0,60.0,0.25,,,,,,,,,,,,KAYO-RUTENDERE
+Rutendere,,Kanungu,1306.0,34.0,120.0,0.5,,,,,,,,,,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1344.0,60.0,30.0,4.75,27.0,,,,,,,,,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1322.0,72.0,30.0,3.75,,,,,,,,,,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1279.0,26.0,50.0,0.25,28.0,,,,,,,,,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1269.0,56.0,60.0,0.75,45.0,,,,,,,,,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1274.0,50.0,30.0,1.25,,,,,,68.0,,,,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1248.0,60.0,60.0,3.75,,,,,,,,,,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1281.0,47.0,90.0,0.33,60.0,,,,,175.0,,,70.0,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1317.0,52.0,30.0,1.0,55.0,,,,55.0,,,,,,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1345.0,45.0,30.0,0.38,,,,,,,,8.0,,0.0,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1314.0,25.0,30.0,0.25,35.0,,24.0,,,,,12.0,,0.0,,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1303.0,37.0,30.0,1.38,18.0,,,,,1020.0,,,,,0.0,KAYO-RUTENDERE
+Rwabutera,,Kanungu,1320.0,48.0,25.0,2.85,55.0,,,,,,,,,,,KAYO-RUTENDERE
+Buhamba,,Kanungu,1436.0,34.0,30.0,0.7,,,,,,,,,,200.0,,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1413.0,30.0,30.0,0.3,,,,,,,,,,,,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1420.0,62.0,30.0,1.1,100.0,,,,165.0,,,,,,30.0,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1432.0,75.0,30.0,1.7,120.0,,,,280.0,,,,,300.0,,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1433.0,42.0,30.0,1.3,,,,,,,,,,80.0,,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1443.0,45.0,30.0,2.0,95.0,,,,160.0,,,,,,,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1450.0,70.0,30.0,1.75,180.0,,,,400.0,,,,,336.0,400.0,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1418.0,59.0,10.0,2.0,200.0,,,,70.0,,,,,336.0,80.0,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1443.0,74.0,10.0,3.75,120.0,,,,300.0,,,,,36.0,50.0,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1474.0,58.0,80.0,1.75,85.0,,,,78.0,,,,,,,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1437.0,35.0,10.0,0.4875,,,,,,,,,,20.0,,KIRI-RUTUGUNDA
+Buhamba,,Kanungu,1461.0,78.0,20.0,2.975,50.0,,,,110.0,,,,,72.0,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1470.0,25.0,30.0,0.25,70.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1478.0,47.0,60.0,0.25,21.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1462.0,42.0,60.0,0.75,,,,,,,,,,,0.0,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1389.0,52.0,60.0,0.5,17.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1457.0,24.0,60.0,1.25,,,,,,,,,,8.0,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1432.0,35.0,10.0,0.75,148.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1518.0,30.0,15.0,0.13,10.0,,,,5.0,,,,,0.0,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1484.0,26.0,30.0,0.99,,,,,,,,,,0.0,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1475.0,65.0,30.0,0.15,13.0,,0.0,,,,,,,0.0,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1473.0,50.0,30.0,0.3,75.0,,,,70.0,,,,,,0.0,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1472.0,54.0,40.0,0.75,4.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kanyankyende,,Kanungu,1463.0,36.0,60.0,0.65,125.0,,,,,,,,,10.0,0.0,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1505.0,30.0,45.0,0.9,90.0,,,,,,,,,65.0,,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1527.0,38.0,40.0,3.8,,,,,,,,,,50.0,,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1500.0,34.0,30.0,1.4,,,,,,,,,,300.0,400.0,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1497.0,74.0,40.0,0.4,,,,,,,,,,200.0,,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1477.0,62.0,30.0,0.0,33.0,,,,,,,,,20.0,,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1461.0,60.0,10.0,4.25,115.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1567.0,36.0,60.0,0.3,95.0,,,,,,,,,100.0,30.0,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1544.0,47.0,60.0,0.4,130.0,,,,,,,,,40.0,20.0,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1515.0,34.0,40.0,0.3,,,,,,,,,,40.0,0.0,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1519.0,38.0,60.0,1.6,120.0,,,,100.0,,,,,150.0,20.0,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1499.0,48.0,60.0,0.9,40.0,,,,,,,,,50.0,20.0,KIRI-RUTUGUNDA
+Katungu,,Kanungu,1491.0,64.0,60.0,1.3,45.0,,,,,,,3.0,,80.0,20.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1496.0,52.0,60.0,4.3,600.0,,,,,,,,,500.0,300.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1487.0,36.0,60.0,3.8,110.0,,,,130.0,,,,,500.0,100.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1492.0,77.0,60.0,1.75,,,,,,,,,,700.0,150.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1459.0,65.0,45.0,1.9,,,,,,,,,,200.0,100.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1477.0,73.0,120.0,0.45,,,,,,,,,,6.0,50.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1476.0,71.0,120.0,0.95,250.0,,,,,,,,,80.0,70.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1482.0,56.0,45.0,1.9,,,,,,15.0,,,,500.0,150.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1406.0,49.0,15.0,0.2,55.0,,,,,,,7.0,,,,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1362.0,52.0,50.0,0.9,35.0,,,,,,,5.5,,60.0,200.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1445.0,26.0,70.0,1.55,140.0,,,,368.0,,,11.0,,100.0,0.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1480.0,65.0,60.0,2.55,,,,,,,,18.0,,80.0,100.0,KIRI-RUTUGUNDA
+Kitongo,,Kanungu,1484.0,42.0,60.0,2.0,380.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1444.0,35.0,40.0,2.25,95.0,,,,50.0,,,,,192.0,400.0,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1496.0,41.0,10.0,0.25,,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1507.0,60.0,50.0,0.975,70.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1483.0,32.0,30.0,0.975,,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1498.0,40.0,60.0,0.975,,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1511.0,42.0,60.0,0.975,,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1445.0,40.0,30.0,2.975,75.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1352.0,31.0,12.0,1.75,60.0,,,,,,,,,10.0,100.0,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1477.0,44.0,20.0,0.975,100.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1533.0,44.0,30.0,0.0,,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1579.0,85.0,30.0,1.975,,,,,,,,,,,,KIRI-RUTUGUNDA
+Kyeijanga,,Kanungu,1708.0,52.0,30.0,1.975,,,,,,,,,,30.0,3.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1364.0,47.0,45.0,4.8,60.0,,9.0,,75.0,,,10.0,,240.0,100.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1445.0,49.0,30.0,1.8,80.0,,4.0,,110.0,,,2.0,,30.0,,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1405.0,22.0,10.0,0.5,20.0,,,,45.0,,,1.5,,,25.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1414.0,56.0,30.0,1.9,84.0,,,,,,,,,1000.0,200.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1483.0,67.0,30.0,0.2,,,,,,,,,,30.0,20.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1381.0,49.0,15.0,2.65,168.0,,,,,360.0,,,,360.0,210.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1398.0,82.0,15.0,0.65,,,,,,,,,,120.0,60.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1452.0,31.0,30.0,0.15,120.0,,,,100.0,,,,,200.0,,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1637.0,84.0,30.0,0.5,,,0.5,,,,,1.25,,30.0,20.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1474.0,39.0,15.0,0.65,40.0,,,,45.0,,,,,200.0,,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1411.0,52.0,60.0,2.8,450.0,,12.0,,450.0,,,9.0,,60.0,250.0,KIRI-RUTUGUNDA
+Mabaare,,Kanungu,1451.0,31.0,10.0,0.88,50.0,,,,75.0,,,4.0,,8.0,,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1414.0,61.0,30.0,1.875,80.0,,9.0,,,,,8.0,,60.0,,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1390.0,40.0,40.0,0.88,24.0,,4.0,,57.0,,,3.5,,50.0,50.0,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1355.0,52.0,10.0,0.88,55.0,,,,,,,,,50.0,480.0,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1325.0,29.0,30.0,0.63,40.0,,,,,,,,,70.0,72.0,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1487.0,38.0,60.0,0.1875,25.0,,1.25,,,,,2.5,,20.0,,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1484.0,45.0,2.0,1.4,70.0,,,,25.0,,,,,240.0,200.0,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1458.0,57.0,20.0,5.55,95.0,,,,,,,,,380.0,150.0,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1475.0,64.0,120.0,0.9,45.0,,,,,,,,,96.0,80.0,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1457.0,44.0,30.0,1.65,65.0,,,,,,,,,78.0,100.0,KIRI-RUTUGUNDA
+Nkamba,,Kanungu,1450.0,63.0,20.0,0.9,220.0,,,,,,,,,400.0,100.0,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1468.0,30.0,60.0,1.5,46.0,,,,,,,,,480.0,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1455.0,47.0,10.0,5.0,350.0,,5.0,,,,,6.0,,20.0,90.0,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1472.0,42.0,60.0,1.0,,,,,,,,,,480.0,0.0,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1469.0,50.0,60.0,0.0,,,,,,,,,,20.0,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1472.0,38.0,60.0,0.0,27.0,,,,,,,,,60.0,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1468.0,68.0,30.0,0.0,,,,,,,,,,80.0,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1458.0,36.0,120.0,0.75,,,,,,,,,,40.0,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1477.0,40.0,30.0,0.38,32.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1471.0,45.0,120.0,0.25,,,,,,,,,,50.0,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1468.0,56.0,20.0,0.13,,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1475.0,33.0,60.0,0.75,,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1477.0,65.0,5.0,2.25,140.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooma,,Kanungu,1472.0,40.0,30.0,0.5,,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1515.0,35.0,60.0,0.0,25.0,,,,,,,,,120.0,30.0,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1494.0,47.0,5.0,1.0,,,2.0,,60.0,,,3.0,,300.0,150.0,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1464.0,36.0,30.0,1.5,80.0,,,,,,,5.0,,480.0,60.0,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1466.0,42.0,30.0,0.0,,,,,,,,,,36.0,,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1493.0,38.0,60.0,1.0,,,,,,,,,,120.0,120.0,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1472.0,40.0,30.0,0.25,23.0,,,,,,,,,20.0,12.0,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1493.0,72.0,2.0,0.75,,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1482.0,45.0,60.0,0.25,16.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1472.0,42.0,60.0,0.25,,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1495.0,37.0,30.0,0.75,35.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1491.0,64.0,1.0,5.75,110.0,,,,,,,,,,,KIRI-RUTUGUNDA
+Rutooro,,Kanungu,1496.0,76.0,60.0,0.26,,,,,,,,,,,,KIRI-RUTUGUNDA
